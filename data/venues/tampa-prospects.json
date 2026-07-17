@@ -1,0 +1,1823 @@
+[
+  {
+    "id": "prospect-coppertail-brewing-co",
+    "placeId": "ChIJy3uaZKvFwogRpk-ruMef9nE",
+    "name": "Coppertail Brewing Co.",
+    "neighborhood": "Ybor",
+    "address": "2601 E 2nd Ave, Tampa, FL 33605, USA",
+    "website": "http://coppertailbrewing.com/",
+    "googleMapsUri": "https://maps.google.com/?cid=8211926650702221222&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+    "latitude": 27.9562878,
+    "longitude": -82.430219,
+    "primaryType": "brewery",
+    "types": [
+      "brewery",
+      "brewpub",
+      "liquor_store",
+      "pub",
+      "bar",
+      "restaurant",
+      "manufacturer",
+      "food",
+      "store",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "sourceBuckets": [
+      "Ybor nightlife"
+    ],
+    "crawlTargets": [
+      "http://coppertailbrewing.com/"
+    ],
+    "priorityScore": 30
+  },
+  {
+    "id": "prospect-strandhill-public-tampa-heights",
+    "placeId": "ChIJUVX3MWXEwogRMmHunvjE6xY",
+    "name": "Strandhill Public (Tampa Heights)",
+    "neighborhood": "Tampa",
+    "address": "309 W Palm Ave, Tampa, FL 33602, USA",
+    "website": "http://www.strandhillpublic.com/",
+    "googleMapsUri": "https://maps.google.com/?cid=1651630260458774834&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+    "latitude": 27.9624253,
+    "longitude": -82.4643986,
+    "primaryType": "irish_pub",
+    "types": [
+      "irish_pub",
+      "sports_bar",
+      "irish_restaurant",
+      "brunch_restaurant",
+      "pub",
+      "cocktail_bar",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "sourceBuckets": [
+      "Armature Works Tampa Heights"
+    ],
+    "crawlTargets": [
+      "http://www.strandhillpublic.com/"
+    ],
+    "priorityScore": 30
+  },
+  {
+    "id": "prospect-tampa-bay-brewing-company",
+    "placeId": "ChIJgVXfQFDEwogRW-6mIk_NnEo",
+    "name": "Tampa Bay Brewing Company",
+    "neighborhood": "Ybor",
+    "address": "1600 E 8th Ave, Tampa, FL 33605, USA",
+    "website": "https://www.tbbc.beer/",
+    "googleMapsUri": "https://maps.google.com/?cid=5376397794941005403&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+    "latitude": 27.9613765,
+    "longitude": -82.4416305,
+    "primaryType": "brewery",
+    "types": [
+      "brewery",
+      "brewpub",
+      "pub",
+      "bar",
+      "restaurant",
+      "manufacturer",
+      "food",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "sourceBuckets": [
+      "Ybor nightlife",
+      "Gasworx Ybor"
+    ],
+    "crawlTargets": [
+      "https://www.tbbc.beer/"
+    ],
+    "priorityScore": 30
+  },
+  {
+    "id": "prospect-american-social-bar-kitchen-tampa",
+    "placeId": "ChIJzyHjx5LEwogRuGs9V-RMHrA",
+    "name": "American Social - Bar & Kitchen - Tampa",
+    "neighborhood": "Channelside",
+    "address": "601 S Harbour Island Blvd #107, Tampa, FL 33602, USA",
+    "website": "https://americansocialbar.com/locations/tampa/",
+    "googleMapsUri": "https://maps.google.com/?cid=12690665343576533944&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+    "latitude": 27.938405799999998,
+    "longitude": -82.454863,
+    "primaryType": "american_restaurant",
+    "types": [
+      "american_restaurant",
+      "sports_bar",
+      "brunch_restaurant",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "sourceBuckets": [
+      "Downtown Tampa bars",
+      "Channelside bars",
+      "Tampa sports bars"
+    ],
+    "crawlTargets": [
+      "https://americansocialbar.com/locations/tampa/"
+    ],
+    "priorityScore": 28
+  },
+  {
+    "id": "prospect-angry-chair-brewing",
+    "placeId": "ChIJR7wcAaTGwogRx4-8AlvPFpo",
+    "name": "Angry Chair Brewing",
+    "neighborhood": "Tampa",
+    "address": "4101 N Florida Ave, Tampa, FL 33603, USA",
+    "website": "http://angrychairbrewing.com/",
+    "googleMapsUri": "https://maps.google.com/?cid=11103289921123422151&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+    "latitude": 27.982592999999998,
+    "longitude": -82.45860499999999,
+    "primaryType": "brewery",
+    "types": [
+      "brewery",
+      "manufacturer",
+      "food",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ],
+    "sourceBuckets": [
+      "Seminole Heights bars"
+    ],
+    "crawlTargets": [
+      "http://angrychairbrewing.com/"
+    ],
+    "priorityScore": 28
+  },
+  {
+    "id": "prospect-bulla-gastrobar-tampa",
+    "placeId": "ChIJzXMD72bDwogRUmY0GaY63xI",
+    "name": "Bulla Gastrobar Tampa",
+    "neighborhood": "SoHo",
+    "address": "930 S Howard Ave, Tampa, FL 33606, USA",
+    "website": "https://bullagastrobar.com/locations/tampa",
+    "googleMapsUri": "https://maps.google.com/?cid=1359870097551025746&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+    "latitude": 27.934213099999997,
+    "longitude": -82.4829034,
+    "primaryType": "spanish_restaurant",
+    "types": [
+      "spanish_restaurant",
+      "tapas_restaurant",
+      "cocktail_bar",
+      "seafood_restaurant",
+      "event_venue",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "sourceBuckets": [
+      "SoHo bars",
+      "Tampa sports bars"
+    ],
+    "crawlTargets": [
+      "https://bullagastrobar.com/locations/tampa"
+    ],
+    "priorityScore": 28
+  },
+  {
+    "id": "prospect-cigar-city-brewing-spruce-street-brewery-taproom",
+    "placeId": "ChIJi7fzBTnCwogRq4GVtqfGawY",
+    "name": "Cigar City Brewing Spruce Street Brewery & Taproom",
+    "neighborhood": "Tampa",
+    "address": "3924 W Spruce St, Tampa, FL 33607, USA",
+    "website": "https://www.cigarcitybrewing.com/tasting-room/?utm_source=gmb&utm_medium=yext",
+    "googleMapsUri": "https://maps.google.com/?cid=462681810360697259&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+    "latitude": 27.9590292,
+    "longitude": -82.50917390000001,
+    "primaryType": "brewery",
+    "types": [
+      "brewery",
+      "pub",
+      "bar",
+      "manufacturer",
+      "service",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "sourceBuckets": [
+      "Westshore bars"
+    ],
+    "crawlTargets": [
+      "https://www.cigarcitybrewing.com/tasting-room/?utm_source=gmb&utm_medium=yext"
+    ],
+    "priorityScore": 28
+  },
+  {
+    "id": "prospect-florida-avenue-brewing-co",
+    "placeId": "ChIJf_GumVXFwogR3KW00_zdKw0",
+    "name": "Florida Avenue Brewing Co.",
+    "neighborhood": "Tampa",
+    "address": "4315 N Florida Ave, Tampa, FL 33603, USA",
+    "website": "http://floridaavebrewing.com/",
+    "googleMapsUri": "https://maps.google.com/?cid=949096224444949980&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+    "latitude": 27.9849057,
+    "longitude": -82.4591232,
+    "primaryType": "brewery",
+    "types": [
+      "brewery",
+      "bar",
+      "manufacturer",
+      "restaurant",
+      "food",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ],
+    "sourceBuckets": [
+      "Seminole Heights bars"
+    ],
+    "crawlTargets": [
+      "http://floridaavebrewing.com/"
+    ],
+    "priorityScore": 28
+  },
+  {
+    "id": "prospect-hidden-springs-ale-works",
+    "placeId": "ChIJP5IJEWTEwogRGG32fm4iHtw",
+    "name": "Hidden Springs Ale Works",
+    "neighborhood": "Tampa",
+    "address": "1631 N Franklin St, Tampa, FL 33602, USA",
+    "website": "http://www.hiddenspringsaleworks.com/",
+    "googleMapsUri": "https://maps.google.com/?cid=15861152795617291544&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+    "latitude": 27.959295,
+    "longitude": -82.459935,
+    "primaryType": "brewery",
+    "types": [
+      "brewery",
+      "bar",
+      "manufacturer",
+      "food",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "sourceBuckets": [
+      "Armature Works Tampa Heights"
+    ],
+    "crawlTargets": [
+      "http://www.hiddenspringsaleworks.com/"
+    ],
+    "priorityScore": 28
+  },
+  {
+    "id": "prospect-irish-31-pub-house-eatery",
+    "placeId": "ChIJufAqa2LDwogRlL9MutPaUdI",
+    "name": "Irish 31 Pub House & Eatery",
+    "neighborhood": "SoHo",
+    "address": "1611 W Swann Ave, Tampa, FL 33606, USA",
+    "website": "https://irish31.com/",
+    "googleMapsUri": "https://maps.google.com/?cid=15155134823976976276&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+    "latitude": 27.937512299999998,
+    "longitude": -82.4765736,
+    "primaryType": "irish_pub",
+    "types": [
+      "irish_pub",
+      "sports_bar",
+      "european_restaurant",
+      "pub",
+      "american_restaurant",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "sourceBuckets": [
+      "Hyde Park bars"
+    ],
+    "crawlTargets": [
+      "https://irish31.com/"
+    ],
+    "priorityScore": 28
+  },
+  {
+    "id": "prospect-southern-brewing-winery",
+    "placeId": "ChIJVwcx-_DGwogRHxZd_FIpCmw",
+    "name": "Southern Brewing & Winery",
+    "neighborhood": "Tampa",
+    "address": "4500 N Nebraska Ave, Tampa, FL 33603, USA",
+    "website": "http://www.southernbrewingwinemaking.com/",
+    "googleMapsUri": "https://maps.google.com/?cid=7785080342261339679&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+    "latitude": 27.986203699999997,
+    "longitude": -82.4514442,
+    "primaryType": "brewery",
+    "types": [
+      "brewery",
+      "winery",
+      "manufacturer",
+      "food",
+      "farm",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ],
+    "sourceBuckets": [
+      "Seminole Heights bars"
+    ],
+    "crawlTargets": [
+      "http://www.southernbrewingwinemaking.com/"
+    ],
+    "priorityScore": 28
+  },
+  {
+    "id": "prospect-columbia-cafe-at-the-tampa-bay-history-center",
+    "placeId": "ChIJyz7ELojEwogRsjrgE32aIyE",
+    "name": "Columbia Cafe at the Tampa Bay History Center",
+    "neighborhood": "Channelside",
+    "address": "801 Water St #1905, Tampa, FL 33602, USA",
+    "website": "https://www.columbiarestaurant.com/columbia-cafe-at-the-tbhc",
+    "googleMapsUri": "https://maps.google.com/?cid=2387922089431546546&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+    "latitude": 27.9419591,
+    "longitude": -82.44992529999999,
+    "primaryType": "spanish_restaurant",
+    "types": [
+      "spanish_restaurant",
+      "family_restaurant",
+      "tapas_restaurant",
+      "cuban_restaurant",
+      "wine_bar",
+      "cocktail_bar",
+      "seafood_restaurant",
+      "event_venue",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "sourceBuckets": [
+      "Downtown Tampa bars",
+      "Channelside bars",
+      "Tampa sports bars"
+    ],
+    "crawlTargets": [
+      "https://www.columbiarestaurant.com/columbia-cafe-at-the-tbhc"
+    ],
+    "priorityScore": 26
+  },
+  {
+    "id": "prospect-common-dialect-beerworks",
+    "placeId": "ChIJd0Y12wTFwogRSTylifrBZp4",
+    "name": "Common Dialect Beerworks",
+    "neighborhood": "Tampa",
+    "address": "5023 N Florida Ave, Tampa, FL 33603, USA",
+    "website": "http://www.commondialectbeer.com/",
+    "googleMapsUri": "https://maps.google.com/?cid=11414023587412393033&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+    "latitude": 27.9920996,
+    "longitude": -82.4591318,
+    "primaryType": "brewery",
+    "types": [
+      "brewery",
+      "manufacturer",
+      "food",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ],
+    "sourceBuckets": [
+      "Seminole Heights bars"
+    ],
+    "crawlTargets": [
+      "http://www.commondialectbeer.com/"
+    ],
+    "priorityScore": 26
+  },
+  {
+    "id": "prospect-deviant-libation",
+    "placeId": "ChIJkRpVRjzFwogRil2u11kHzHI",
+    "name": "Deviant Libation",
+    "neighborhood": "Tampa",
+    "address": "3800 N Nebraska Ave, Tampa, FL 33603, USA",
+    "website": "https://deviantlibation.com/",
+    "googleMapsUri": "https://maps.google.com/?cid=8271994698024770954&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+    "latitude": 27.979016599999998,
+    "longitude": -82.4518148,
+    "primaryType": "brewery",
+    "types": [
+      "brewery",
+      "event_venue",
+      "manufacturer",
+      "food",
+      "service",
+      "point_of_interest",
+      "establishment"
+    ],
+    "sourceBuckets": [
+      "Seminole Heights bars"
+    ],
+    "crawlTargets": [
+      "https://deviantlibation.com/"
+    ],
+    "priorityScore": 26
+  },
+  {
+    "id": "prospect-miller-s-ale-house",
+    "placeId": "ChIJM8VKwq_DwogR1syjySCWcOg",
+    "name": "Miller's Ale House",
+    "neighborhood": "Tampa",
+    "address": "3860 W Columbus Dr, Tampa, FL 33607, USA",
+    "website": "https://millersalehouse.com/locations/tampa-airport/?utm_source=gmb&utm_medium=organic",
+    "googleMapsUri": "https://maps.google.com/?cid=16749052081756949718&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+    "latitude": 27.966441699999997,
+    "longitude": -82.5093637,
+    "primaryType": "restaurant",
+    "types": [
+      "restaurant",
+      "brewpub",
+      "chicken_wings_restaurant",
+      "sports_bar",
+      "steak_house",
+      "seafood_restaurant",
+      "pub",
+      "american_restaurant",
+      "meal_takeaway",
+      "bar",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "sourceBuckets": [
+      "Westshore bars"
+    ],
+    "crawlTargets": [
+      "https://millersalehouse.com/locations/tampa-airport/?utm_source=gmb&utm_medium=organic"
+    ],
+    "priorityScore": 26
+  },
+  {
+    "id": "prospect-morgan-s-cove",
+    "placeId": "ChIJRxXOTQDFwogRwF74OMPdvhg",
+    "name": "Morgan’s Cove",
+    "neighborhood": "Channelside",
+    "address": "210 N Morgan St, Tampa, FL 33602, USA",
+    "website": "https://morganscovetampa.com/",
+    "googleMapsUri": "https://maps.google.com/?cid=1783106333029457600&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+    "latitude": 27.9475445,
+    "longitude": -82.45517129999999,
+    "primaryType": "cocktail_bar",
+    "types": [
+      "cocktail_bar",
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "sourceBuckets": [
+      "Channelside bars"
+    ],
+    "crawlTargets": [
+      "https://morganscovetampa.com/"
+    ],
+    "priorityScore": 26
+  },
+  {
+    "id": "prospect-7th-grove",
+    "placeId": "ChIJmfFGVBPFwogRIYyNhvz3X9Y",
+    "name": "7th + Grove",
+    "neighborhood": "Ybor",
+    "address": "1930 E 7th Ave, Tampa, FL 33605, USA",
+    "website": "http://7thandgrove.com/",
+    "googleMapsUri": "https://maps.google.com/?cid=15447337910865333281&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+    "latitude": 27.9604164,
+    "longitude": -82.43687779999999,
+    "primaryType": "american_restaurant",
+    "types": [
+      "cocktail_bar",
+      "lounge_bar",
+      "catering_service",
+      "food_delivery",
+      "night_club",
+      "american_restaurant",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "sourceBuckets": [
+      "Ybor nightlife",
+      "Gasworx Ybor",
+      "Tampa sports bars"
+    ],
+    "crawlTargets": [
+      "http://7thandgrove.com/"
+    ],
+    "priorityScore": 24
+  },
+  {
+    "id": "prospect-bern-s-steak-house",
+    "placeId": "ChIJKQXHdmfDwogRJFCLuT7eJ6I",
+    "name": "Bern's Steak House",
+    "neighborhood": "SoHo",
+    "address": "1208 S Howard Ave, Tampa, FL 33606, USA",
+    "website": "http://www.bernssteakhouse.com/",
+    "googleMapsUri": "https://maps.google.com/?cid=11684552119218294820&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+    "latitude": 27.9316028,
+    "longitude": -82.48285179999999,
+    "primaryType": "steak_house",
+    "types": [
+      "steak_house",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "sourceBuckets": [
+      "SoHo bars",
+      "Tampa sports bars"
+    ],
+    "crawlTargets": [
+      "http://www.bernssteakhouse.com/"
+    ],
+    "priorityScore": 24
+  },
+  {
+    "id": "prospect-bradley-s-on-7th",
+    "placeId": "ChIJ2c8wflDEwogRgu_B_IAnWJo",
+    "name": "Bradley's on 7th",
+    "neighborhood": "Ybor",
+    "address": "1510 E 7th Ave, Tampa, FL 33605, USA",
+    "website": "http://www.bradleyson7th.com/",
+    "googleMapsUri": "https://maps.google.com/?cid=11121682714741305218&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+    "latitude": 27.9604026,
+    "longitude": -82.44257309999999,
+    "primaryType": "bar",
+    "types": [
+      "bar",
+      "night_club",
+      "point_of_interest",
+      "establishment"
+    ],
+    "sourceBuckets": [
+      "Gasworx Ybor"
+    ],
+    "crawlTargets": [
+      "http://www.bradleyson7th.com/"
+    ],
+    "priorityScore": 24
+  },
+  {
+    "id": "prospect-club-prana",
+    "placeId": "ChIJEw6e91DEwogRqPes5sxjERQ",
+    "name": "Club Prana",
+    "neighborhood": "Ybor",
+    "address": "1619 E 7th Ave, Tampa, FL 33605, USA",
+    "website": "https://clubprana.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+    "googleMapsUri": "https://maps.google.com/?cid=1446046687057213352&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+    "latitude": 27.960072900000004,
+    "longitude": -82.4408194,
+    "primaryType": "night_club",
+    "types": [
+      "night_club",
+      "lounge_bar",
+      "sports_club",
+      "bar",
+      "event_venue",
+      "association_or_organization",
+      "point_of_interest",
+      "establishment"
+    ],
+    "sourceBuckets": [
+      "Ybor nightlife",
+      "Gasworx Ybor",
+      "Tampa sports bars"
+    ],
+    "crawlTargets": [
+      "https://clubprana.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb"
+    ],
+    "priorityScore": 24
+  },
+  {
+    "id": "prospect-crowbar",
+    "placeId": "ChIJ76SYUVDEwogRJec_Q3szUk0",
+    "name": "Crowbar",
+    "neighborhood": "Ybor",
+    "address": "1812 N 17th St, Ybor City, FL 33605, USA",
+    "website": "http://crowbarybor.com/",
+    "googleMapsUri": "https://maps.google.com/?cid=5571572293512980261&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+    "latitude": 27.960778599999998,
+    "longitude": -82.4405992,
+    "primaryType": "live_music_venue",
+    "types": [
+      "live_music_venue",
+      "bar",
+      "night_club",
+      "event_venue",
+      "point_of_interest",
+      "establishment"
+    ],
+    "sourceBuckets": [
+      "Gasworx Ybor"
+    ],
+    "crawlTargets": [
+      "http://crowbarybor.com/"
+    ],
+    "priorityScore": 24
+  },
+  {
+    "id": "prospect-eddie-v-s-prime-seafood",
+    "placeId": "ChIJo-LUT6vDwogRUFEzrVQ_Ce8",
+    "name": "Eddie V's Prime Seafood",
+    "neighborhood": "Tampa",
+    "address": "4400 W Boy Scout Blvd, Tampa, FL 33607, USA",
+    "website": "https://www.eddiev.com/locations/fl/tampa/tampa/8512?cmpid=br:ev_ag:ie_ch:loc_ca:EVGMB_sn:gmb_gt:tampa-fl-8512_pl:locurl_rd:1011",
+    "googleMapsUri": "https://maps.google.com/?cid=17224367882770796880&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+    "latitude": 27.9603129,
+    "longitude": -82.51826249999999,
+    "primaryType": "seafood_restaurant",
+    "types": [
+      "seafood_restaurant",
+      "oyster_bar_restaurant",
+      "cocktail_bar",
+      "steak_house",
+      "fine_dining_restaurant",
+      "live_music_venue",
+      "lounge_bar",
+      "night_club",
+      "american_restaurant",
+      "bar",
+      "event_venue",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "sourceBuckets": [
+      "Westshore bars"
+    ],
+    "crawlTargets": [
+      "https://www.eddiev.com/locations/fl/tampa/tampa/8512?cmpid=br:ev_ag:ie_ch:loc_ca:EVGMB_sn:gmb_gt:tampa-fl-8512_pl:locurl_rd:1011"
+    ],
+    "priorityScore": 24
+  },
+  {
+    "id": "prospect-hattricks",
+    "placeId": "ChIJB1L_XIzEwogR1Eslu42A1NQ",
+    "name": "Hattricks",
+    "neighborhood": "Channelside",
+    "address": "107 S Franklin St, Tampa, FL 33602, USA",
+    "website": "http://www.hattrickstavern.com/",
+    "googleMapsUri": "https://maps.google.com/?cid=15336023977321909204&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+    "latitude": 27.944865900000003,
+    "longitude": -82.4569758,
+    "primaryType": "american_restaurant",
+    "types": [
+      "american_restaurant",
+      "sports_bar",
+      "irish_pub",
+      "pub",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "sourceBuckets": [
+      "Downtown Tampa bars",
+      "Channelside bars",
+      "Tampa sports bars"
+    ],
+    "crawlTargets": [
+      "http://www.hattrickstavern.com/"
+    ],
+    "priorityScore": 24
+  },
+  {
+    "id": "prospect-olive-garden-italian-restaurant",
+    "placeId": "ChIJz78LcVbCwogRPI1pB1aEViE",
+    "name": "Olive Garden Italian Restaurant",
+    "neighborhood": "Tampa",
+    "address": "1802 N Westshore Blvd, Tampa, FL 33607, USA",
+    "website": "https://www.olivegarden.com/locations/fl/tampa/tampa-airport-westshore/4480?cmpid=br:og_ag:ie_ch:loc_ca:OGGMB_sn:gmb_gt:tampa-fl-4480_pl:locurl_rd:1814",
+    "googleMapsUri": "https://maps.google.com/?cid=2402252956275150140&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+    "latitude": 27.958005999999997,
+    "longitude": -82.52448700000001,
+    "primaryType": "italian_restaurant",
+    "types": [
+      "italian_restaurant",
+      "wine_bar",
+      "family_restaurant",
+      "catering_service",
+      "mediterranean_restaurant",
+      "soup_restaurant",
+      "food_delivery",
+      "seafood_restaurant",
+      "meal_takeaway",
+      "bar",
+      "service",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "sourceBuckets": [
+      "Westshore bars"
+    ],
+    "crawlTargets": [
+      "https://www.olivegarden.com/locations/fl/tampa/tampa-airport-westshore/4480?cmpid=br:og_ag:ie_ch:loc_ca:OGGMB_sn:gmb_gt:tampa-fl-4480_pl:locurl_rd:1814"
+    ],
+    "priorityScore": 24
+  },
+  {
+    "id": "prospect-the-castle",
+    "placeId": "ChIJw3ZLa1DEwogR3B-B1fQW7UM",
+    "name": "The Castle",
+    "neighborhood": "Ybor",
+    "address": "2004 N 16th St, Tampa, FL 33605, USA",
+    "website": "http://castleybor.com/",
+    "googleMapsUri": "https://maps.google.com/?cid=4894593610831437788&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+    "latitude": 27.961914200000002,
+    "longitude": -82.44192319999999,
+    "primaryType": "night_club",
+    "types": [
+      "night_club",
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "sourceBuckets": [
+      "Ybor nightlife",
+      "Gasworx Ybor",
+      "Tampa sports bars"
+    ],
+    "crawlTargets": [
+      "http://castleybor.com/"
+    ],
+    "priorityScore": 24
+  },
+  {
+    "id": "prospect-top-shelf-sports-lounge",
+    "placeId": "ChIJL9xPE9zFwogRgTF4FiaUM80",
+    "name": "Top Shelf Sports Lounge",
+    "neighborhood": "Channelside",
+    "address": "401 E Jackson St #101, Tampa, FL 33602, USA",
+    "website": "https://topshelfsportslounge.com/",
+    "googleMapsUri": "https://maps.google.com/?cid=14786324892894114177&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+    "latitude": 27.9471554,
+    "longitude": -82.4561358,
+    "primaryType": "restaurant",
+    "types": [
+      "restaurant",
+      "sports_bar",
+      "brunch_restaurant",
+      "catering_service",
+      "food_delivery",
+      "bar",
+      "service",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "sourceBuckets": [
+      "Channelside bars"
+    ],
+    "crawlTargets": [
+      "https://topshelfsportslounge.com/"
+    ],
+    "priorityScore": 24
+  },
+  {
+    "id": "prospect-babushka-s-hyde-park",
+    "placeId": "ChIJf7PUWy7FwogRU7CrN8rdncg",
+    "name": "Babushka's - Hyde Park",
+    "neighborhood": "SoHo",
+    "address": "901 W Platt St, Tampa, FL 33606, USA",
+    "website": "http://babushkas.us/",
+    "googleMapsUri": "https://maps.google.com/?cid=14455954239516291155&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+    "latitude": 27.941854300000003,
+    "longitude": -82.46890309999999,
+    "primaryType": "eastern_european_restaurant",
+    "types": [
+      "eastern_european_restaurant",
+      "bar_and_grill",
+      "russian_restaurant",
+      "polish_restaurant",
+      "ukrainian_restaurant",
+      "tea_house",
+      "brunch_restaurant",
+      "european_restaurant",
+      "bar",
+      "bakery",
+      "restaurant",
+      "food_store",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "sourceBuckets": [
+      "SoHo bars",
+      "Hyde Park bars"
+    ],
+    "crawlTargets": [
+      "http://babushkas.us/"
+    ],
+    "priorityScore": 22
+  },
+  {
+    "id": "prospect-bouzy-bar-restaurant",
+    "placeId": "ChIJJ88DolHDwogRLJ0tysorwnM",
+    "name": "Bouzy - Bar & Restaurant",
+    "neighborhood": "SoHo",
+    "address": "1640 W Snow Ave, Tampa, FL 33606, USA",
+    "website": "https://www.bouzytampa.com/",
+    "googleMapsUri": "https://maps.google.com/?cid=8341277609818955052&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+    "latitude": 27.9352742,
+    "longitude": -82.47668329999999,
+    "primaryType": "restaurant",
+    "types": [
+      "restaurant",
+      "cocktail_bar",
+      "bar",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "sourceBuckets": [
+      "Hyde Park bars"
+    ],
+    "crawlTargets": [
+      "https://www.bouzytampa.com/"
+    ],
+    "priorityScore": 22
+  },
+  {
+    "id": "prospect-cooper-s-hawk-winery-restaurant",
+    "placeId": "ChIJHwWZC67DwogR08aGytYCBTQ",
+    "name": "Cooper’s Hawk Winery & Restaurant",
+    "neighborhood": "Tampa",
+    "address": "4110 W Boy Scout Blvd, Tampa, FL 33607, USA",
+    "website": "https://chwinery.com/locations/florida/tampa",
+    "googleMapsUri": "https://maps.google.com/?cid=3748405386399893203&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+    "latitude": 27.9654,
+    "longitude": -82.5125056,
+    "primaryType": "american_restaurant",
+    "types": [
+      "american_restaurant",
+      "wine_bar",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "sourceBuckets": [
+      "Westshore bars"
+    ],
+    "crawlTargets": [
+      "https://chwinery.com/locations/florida/tampa"
+    ],
+    "priorityScore": 22
+  },
+  {
+    "id": "prospect-jekyll",
+    "placeId": "ChIJB9JCMbHFwogRIHaDQD6I1FE",
+    "name": "Jekyll",
+    "neighborhood": "SoHo",
+    "address": "705 S Oregon Ave, Tampa, FL 33606, USA",
+    "website": "https://www.jekyllhydepark.com/",
+    "googleMapsUri": "https://maps.google.com/?cid=5896487613086529056&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+    "latitude": 27.936785200000003,
+    "longitude": -82.47491079999999,
+    "primaryType": "lounge_bar",
+    "types": [
+      "lounge_bar",
+      "night_club",
+      "bar",
+      "point_of_interest",
+      "establishment"
+    ],
+    "sourceBuckets": [
+      "Hyde Park bars"
+    ],
+    "crawlTargets": [
+      "https://www.jekyllhydepark.com/"
+    ],
+    "priorityScore": 22
+  },
+  {
+    "id": "prospect-m-bird-rooftop-restaurant-bar-dj-s",
+    "placeId": "ChIJTY7XE2PFwogRDgMOQRLEAhw",
+    "name": "M.Bird Rooftop Restaurant, Bar & DJ's",
+    "neighborhood": "Downtown Tampa",
+    "address": "1903 Market St, Tampa, FL 33602, USA",
+    "website": "https://www.mbirdtampa.com/",
+    "googleMapsUri": "https://maps.google.com/?cid=2018391165695296270&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+    "latitude": 27.96099,
+    "longitude": -82.46428619999999,
+    "primaryType": "american_restaurant",
+    "types": [
+      "american_restaurant",
+      "night_club",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "sourceBuckets": [
+      "Downtown Tampa bars",
+      "Armature Works Tampa Heights",
+      "Tampa sports bars"
+    ],
+    "crawlTargets": [
+      "https://www.mbirdtampa.com/"
+    ],
+    "priorityScore": 22
+  },
+  {
+    "id": "prospect-rick-s-on-the-river",
+    "placeId": "ChIJVdT9P3jEwogRaJV9QTenmCg",
+    "name": "Rick's on the River",
+    "neighborhood": "Tampa",
+    "address": "2305 N Willow Ave, Tampa, FL 33607, USA",
+    "website": "http://www.ricksontheriver.com/",
+    "googleMapsUri": "https://maps.google.com/?cid=2925271813740926312&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+    "latitude": 27.9628254,
+    "longitude": -82.4738657,
+    "primaryType": "bar_and_grill",
+    "types": [
+      "bar_and_grill",
+      "marina",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "sourceBuckets": [
+      "Armature Works Tampa Heights",
+      "Tampa sports bars"
+    ],
+    "crawlTargets": [
+      "http://www.ricksontheriver.com/"
+    ],
+    "priorityScore": 22
+  },
+  {
+    "id": "prospect-shuffle",
+    "placeId": "ChIJ5WqV_G7EwogRKqT8w4ifFDg",
+    "name": "Shuffle",
+    "neighborhood": "Tampa",
+    "address": "2612 N Tampa St, Tampa, FL 33602, USA",
+    "website": "https://shuffletampa.com/",
+    "googleMapsUri": "https://maps.google.com/?cid=4041030175410660394&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+    "latitude": 27.9675004,
+    "longitude": -82.46118829999999,
+    "primaryType": "bar",
+    "types": [
+      "bar",
+      "snack_bar",
+      "meal_takeaway",
+      "banquet_hall",
+      "wedding_venue",
+      "concert_hall",
+      "live_music_venue",
+      "auditorium",
+      "restaurant",
+      "food",
+      "event_venue",
+      "point_of_interest",
+      "service",
+      "establishment"
+    ],
+    "sourceBuckets": [
+      "Armature Works Tampa Heights"
+    ],
+    "crawlTargets": [
+      "https://shuffletampa.com/"
+    ],
+    "priorityScore": 22
+  },
+  {
+    "id": "prospect-the-pearl-tampa",
+    "placeId": "ChIJS4AtxNfFwogReG60gXMaVEo",
+    "name": "The Pearl Tampa",
+    "neighborhood": "Channelside",
+    "address": "823 Water St C100, Tampa, FL 33602, USA",
+    "website": "https://thepearlrestaurant.com/locations-menus/tampa/",
+    "googleMapsUri": "https://maps.google.com/?cid=5355934940250009208&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+    "latitude": 27.9433114,
+    "longitude": -82.4500879,
+    "primaryType": "restaurant",
+    "types": [
+      "restaurant",
+      "seafood_restaurant",
+      "bar",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "sourceBuckets": [
+      "Downtown Tampa bars",
+      "Channelside bars",
+      "Tampa sports bars"
+    ],
+    "crawlTargets": [
+      "https://thepearlrestaurant.com/locations-menus/tampa/"
+    ],
+    "priorityScore": 22
+  },
+  {
+    "id": "prospect-casa-santo-stefano",
+    "placeId": "ChIJ-VB9B1PEwogRAR_8Q9lKsqQ",
+    "name": "Casa Santo Stefano",
+    "neighborhood": "Ybor",
+    "address": "1607 N 22nd St, Tampa, FL 33605, USA",
+    "website": "https://casasantostefano.com/",
+    "googleMapsUri": "https://maps.google.com/?cid=11867630265083633409&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+    "latitude": 27.9593696,
+    "longitude": -82.43457219999999,
+    "primaryType": "italian_restaurant",
+    "types": [
+      "italian_restaurant",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "sourceBuckets": [
+      "Ybor nightlife",
+      "Tampa sports bars"
+    ],
+    "crawlTargets": [
+      "https://casasantostefano.com/"
+    ],
+    "priorityScore": 20
+  },
+  {
+    "id": "prospect-due-amici-pizza-pasta-bar",
+    "placeId": "ChIJn2Mfbv5654gRVPqvg4fcmlA",
+    "name": "Due Amici Pizza & Pasta Bar",
+    "neighborhood": "Ybor",
+    "address": "1724 E 7th Ave, Tampa, FL 33605, USA",
+    "website": "https://dueamiciybor.com/?utm_source=google",
+    "googleMapsUri": "https://maps.google.com/?cid=5808197144035719764&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+    "latitude": 27.96039,
+    "longitude": -82.439655,
+    "primaryType": "italian_restaurant",
+    "types": [
+      "italian_restaurant",
+      "hamburger_restaurant",
+      "deli",
+      "pizza_delivery",
+      "meal_delivery",
+      "food_delivery",
+      "meal_takeaway",
+      "american_restaurant",
+      "pizza_restaurant",
+      "bar",
+      "restaurant",
+      "food_store",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "sourceBuckets": [
+      "Ybor nightlife",
+      "Gasworx Ybor"
+    ],
+    "crawlTargets": [
+      "https://dueamiciybor.com/?utm_source=google"
+    ],
+    "priorityScore": 20
+  },
+  {
+    "id": "prospect-fleming-s-prime-steakhouse-wine-bar",
+    "placeId": "ChIJVwY-iKzDwogRertNM1YPMjg",
+    "name": "Fleming’s Prime Steakhouse & Wine Bar",
+    "neighborhood": "Tampa",
+    "address": "4342 W Boy Scout Blvd, Tampa, FL 33607, USA",
+    "website": "https://www.flemingssteakhouse.com/Locations/FL/Tampa?y_source=1_MTU1MDMxNzUtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+    "googleMapsUri": "https://maps.google.com/?cid=4049315877861833594&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+    "latitude": 27.961411899999998,
+    "longitude": -82.5166157,
+    "primaryType": "fine_dining_restaurant",
+    "types": [
+      "fine_dining_restaurant",
+      "wine_bar",
+      "steak_house",
+      "bar_and_grill",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "sourceBuckets": [
+      "Westshore bars"
+    ],
+    "crawlTargets": [
+      "https://www.flemingssteakhouse.com/Locations/FL/Tampa?y_source=1_MTU1MDMxNzUtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D"
+    ],
+    "priorityScore": 20
+  },
+  {
+    "id": "prospect-gaspar-s-grotto",
+    "placeId": "ChIJ1yQNClHEwogRaCW7u5bgT0Y",
+    "name": "Gaspar's Grotto",
+    "neighborhood": "Ybor",
+    "address": "1805 E 7th Ave, Tampa, FL 33605, USA",
+    "website": "https://gasparsgrotto.com/",
+    "googleMapsUri": "https://maps.google.com/?cid=5066515043814417768&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+    "latitude": 27.9601078,
+    "longitude": -82.4389619,
+    "primaryType": "restaurant",
+    "types": [
+      "restaurant",
+      "bar_and_grill",
+      "live_music_venue",
+      "historical_landmark",
+      "historical_place",
+      "bar",
+      "event_venue",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "sourceBuckets": [
+      "Ybor nightlife",
+      "Gasworx Ybor"
+    ],
+    "crawlTargets": [
+      "https://gasparsgrotto.com/"
+    ],
+    "priorityScore": 20
+  },
+  {
+    "id": "prospect-harpoon-harry-s-crab-house-tampa",
+    "placeId": "ChIJJ13SCI3EwogRcX2q5Fs_HkU",
+    "name": "Harpoon Harry's Crab House - Tampa",
+    "neighborhood": "Channelside",
+    "address": "225 S Franklin St, Tampa, FL 33602, USA",
+    "website": "https://www.harpoonharryscrabhousetampa.com/",
+    "googleMapsUri": "https://maps.google.com/?cid=4980487901829299569&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+    "latitude": 27.942736,
+    "longitude": -82.4559944,
+    "primaryType": "seafood_restaurant",
+    "types": [
+      "seafood_restaurant",
+      "sushi_restaurant",
+      "japanese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "sourceBuckets": [
+      "Downtown Tampa bars",
+      "Channelside bars"
+    ],
+    "crawlTargets": [
+      "https://www.harpoonharryscrabhousetampa.com/"
+    ],
+    "priorityScore": 20
+  },
+  {
+    "id": "prospect-independent-bar-kitchen",
+    "placeId": "ChIJPf7N5xvEwogRo0adU2c7_2s",
+    "name": "Independent Bar & Kitchen",
+    "neighborhood": "Tampa",
+    "address": "5016 N Florida Ave, Tampa, FL 33603, USA",
+    "website": "https://www.indietpa.com/",
+    "googleMapsUri": "https://maps.google.com/?cid=7782003996089992867&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+    "latitude": 27.991972699999998,
+    "longitude": -82.45961129999999,
+    "primaryType": "restaurant",
+    "types": [
+      "restaurant",
+      "bar",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "sourceBuckets": [
+      "Seminole Heights bars"
+    ],
+    "crawlTargets": [
+      "https://www.indietpa.com/"
+    ],
+    "priorityScore": 20
+  },
+  {
+    "id": "prospect-jackson-s-bistro-bar-sushi-of-tampa",
+    "placeId": "ChIJF3KEwZLEwogRaqYCFY7x_0k",
+    "name": "Jackson's Bistro, Bar & Sushi of Tampa",
+    "neighborhood": "Channelside",
+    "address": "601 S Harbour Island Blvd Ste 100, Tampa, FL 33602, USA",
+    "website": "https://www.jacksonsbistro.com/",
+    "googleMapsUri": "https://maps.google.com/?cid=5332246076370101866&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+    "latitude": 27.938731699999998,
+    "longitude": -82.4548937,
+    "primaryType": "american_restaurant",
+    "types": [
+      "american_restaurant",
+      "sushi_restaurant",
+      "japanese_restaurant",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "sourceBuckets": [
+      "Downtown Tampa bars",
+      "Channelside bars",
+      "Tampa sports bars"
+    ],
+    "crawlTargets": [
+      "https://www.jacksonsbistro.com/"
+    ],
+    "priorityScore": 20
+  },
+  {
+    "id": "prospect-meat-market-steakhouse-tampa",
+    "placeId": "ChIJtwli6xvDwogRdNWjO4byk5U",
+    "name": "Meat Market Steakhouse Tampa",
+    "neighborhood": "SoHo",
+    "address": "1606 W Snow Ave, Tampa, FL 33606, USA",
+    "website": "https://www.meatmarket.net/location/meat-market-tampa/",
+    "googleMapsUri": "https://maps.google.com/?cid=10778224991567861108&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+    "latitude": 27.935898,
+    "longitude": -82.47608149999999,
+    "primaryType": "steak_house",
+    "types": [
+      "steak_house",
+      "fine_dining_restaurant",
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "sourceBuckets": [
+      "SoHo bars",
+      "Hyde Park bars"
+    ],
+    "crawlTargets": [
+      "https://www.meatmarket.net/location/meat-market-tampa/"
+    ],
+    "priorityScore": 20
+  },
+  {
+    "id": "prospect-ocean-prime",
+    "placeId": "ChIJIUpfJ1TCwogRDsxgDUkhIJg",
+    "name": "Ocean Prime",
+    "neighborhood": "Tampa",
+    "address": "2205 N Westshore Blvd, Tampa, FL 33607, USA",
+    "website": "https://www.ocean-prime.com/locations-menus/tampa",
+    "googleMapsUri": "https://maps.google.com/?cid=10961798090660563982&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+    "latitude": 27.9611977,
+    "longitude": -82.52312769999999,
+    "primaryType": "seafood_restaurant",
+    "types": [
+      "seafood_restaurant",
+      "steak_house",
+      "fine_dining_restaurant",
+      "lounge_bar",
+      "night_club",
+      "american_restaurant",
+      "bar",
+      "sushi_restaurant",
+      "japanese_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "sourceBuckets": [
+      "Westshore bars"
+    ],
+    "crawlTargets": [
+      "https://www.ocean-prime.com/locations-menus/tampa"
+    ],
+    "priorityScore": 20
+  },
+  {
+    "id": "prospect-spookeasy-lounge",
+    "placeId": "ChIJ7QVjUK_FwogRaTLY8uxOico",
+    "name": "SpookEasy Lounge",
+    "neighborhood": "Ybor",
+    "address": "1909 N 15th St, Tampa, FL 33605, USA",
+    "website": "http://spookeasylounge.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=2383020484045406313",
+    "googleMapsUri": "https://maps.google.com/?cid=14594282847064306281&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+    "latitude": 27.961415700000003,
+    "longitude": -82.44272680000002,
+    "primaryType": "restaurant",
+    "types": [
+      "restaurant",
+      "lounge_bar",
+      "tourist_attraction",
+      "night_club",
+      "bar",
+      "coffee_shop",
+      "cafe",
+      "food_store",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "sourceBuckets": [
+      "Ybor nightlife",
+      "Gasworx Ybor"
+    ],
+    "crawlTargets": [
+      "http://spookeasylounge.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=2383020484045406313"
+    ],
+    "priorityScore": 20
+  },
+  {
+    "id": "prospect-tori-bar",
+    "placeId": "ChIJ0ZWO3ITFwogRgsOtiYnV1bI",
+    "name": "Tori Bar",
+    "neighborhood": "Downtown Tampa",
+    "address": "442 W Grand Central Ave #190, Tampa, FL 33606, USA",
+    "website": "http://www.toribartampa.com/",
+    "googleMapsUri": "https://maps.google.com/?cid=12886440695487644546&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+    "latitude": 27.944767,
+    "longitude": -82.465638,
+    "primaryType": "japanese_restaurant",
+    "types": [
+      "japanese_restaurant",
+      "sushi_restaurant",
+      "tapas_restaurant",
+      "lounge_bar",
+      "cocktail_bar",
+      "night_club",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "sourceBuckets": [
+      "Downtown Tampa bars",
+      "Tampa sports bars"
+    ],
+    "crawlTargets": [
+      "http://www.toribartampa.com/"
+    ],
+    "priorityScore": 20
+  },
+  {
+    "id": "prospect-4-rivers-smokehouse",
+    "placeId": "ChIJKZtZZWzDwogRyyDRAy_sXKg",
+    "name": "4 Rivers Smokehouse",
+    "neighborhood": "SoHo",
+    "address": "623 S MacDill Ave, Tampa, FL 33609, USA",
+    "website": "https://www.4rsmokehouse.com/locations/south-tampa/?utm_source=gmb&utm_medium=yext",
+    "googleMapsUri": "https://maps.google.com/?cid=12131831182900928715&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+    "latitude": 27.9377189,
+    "longitude": -82.4935106,
+    "primaryType": "barbecue_restaurant",
+    "types": [
+      "barbecue_restaurant",
+      "catering_service",
+      "food_delivery",
+      "dessert_shop",
+      "confectionery",
+      "restaurant",
+      "food_store",
+      "food",
+      "service",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "sourceBuckets": [
+      "SoHo bars"
+    ],
+    "crawlTargets": [
+      "https://www.4rsmokehouse.com/locations/south-tampa/?utm_source=gmb&utm_medium=yext"
+    ],
+    "priorityScore": 18
+  },
+  {
+    "id": "prospect-acropolis-greek-taverna-tampa",
+    "placeId": "ChIJD_49nVHEwogR0Fy_o2shqfE",
+    "name": "Acropolis Greek Taverna - Tampa",
+    "neighborhood": "Ybor",
+    "address": "1833 E 7th Ave, Tampa, FL 33605, USA",
+    "website": "https://acropolistaverna.com/tampa",
+    "googleMapsUri": "https://maps.google.com/?cid=17413486180397178064&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+    "latitude": 27.9601291,
+    "longitude": -82.43810789999999,
+    "primaryType": "greek_restaurant",
+    "types": [
+      "greek_restaurant",
+      "family_restaurant",
+      "mediterranean_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "sourceBuckets": [
+      "Ybor nightlife",
+      "Gasworx Ybor"
+    ],
+    "crawlTargets": [
+      "https://acropolistaverna.com/tampa"
+    ],
+    "priorityScore": 18
+  },
+  {
+    "id": "prospect-charley-s-steak-house",
+    "placeId": "ChIJHUT6O_7CwogR5cYxe7yk5nM",
+    "name": "Charley's Steak House",
+    "neighborhood": "Tampa",
+    "address": "4444 W Cypress St, Tampa, FL 33607, USA",
+    "website": "http://www.charleyssteakhouse.com/",
+    "googleMapsUri": "https://maps.google.com/?cid=8351543688432830181&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+    "latitude": 27.9515021,
+    "longitude": -82.51958049999999,
+    "primaryType": "steak_house",
+    "types": [
+      "steak_house",
+      "seafood_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "sourceBuckets": [
+      "Westshore bars"
+    ],
+    "crawlTargets": [
+      "http://www.charleyssteakhouse.com/"
+    ],
+    "priorityScore": 18
+  },
+  {
+    "id": "prospect-chili-s-grill-bar",
+    "placeId": "ChIJbRGiHqXDwogRpmNvdRYdY6U",
+    "name": "Chili's Grill & Bar",
+    "neighborhood": "Tampa",
+    "address": "2903 N Dale Mabry Hwy, Tampa, FL 33607, USA",
+    "website": "https://www.chilis.com/locations/us/florida/tampa/tampa-stadium?utm_source=google&utm_medium=local&utm_campaign=Chilis",
+    "googleMapsUri": "https://maps.google.com/?cid=11917401021249184678&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+    "latitude": 27.965169999999997,
+    "longitude": -82.504776,
+    "primaryType": "restaurant",
+    "types": [
+      "restaurant",
+      "family_restaurant",
+      "tex_mex_restaurant",
+      "bar_and_grill",
+      "hamburger_restaurant",
+      "mexican_restaurant",
+      "american_restaurant",
+      "bar",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "sourceBuckets": [
+      "Westshore bars"
+    ],
+    "crawlTargets": [
+      "https://www.chilis.com/locations/us/florida/tampa/tampa-stadium?utm_source=google&utm_medium=local&utm_campaign=Chilis"
+    ],
+    "priorityScore": 18
+  },
+  {
+    "id": "prospect-daily-eats",
+    "placeId": "ChIJmx9Ai2bDwogR0KirfRhQSos",
+    "name": "Daily Eats",
+    "neighborhood": "SoHo",
+    "address": "901 S Howard Ave, Tampa, FL 33606, USA",
+    "website": "http://www.ilovedailyeats.com/",
+    "googleMapsUri": "https://maps.google.com/?cid=10036922785666410704&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+    "latitude": 27.9350004,
+    "longitude": -82.4832065,
+    "primaryType": "diner",
+    "types": [
+      "diner",
+      "breakfast_restaurant",
+      "brunch_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "sourceBuckets": [
+      "SoHo bars"
+    ],
+    "crawlTargets": [
+      "http://www.ilovedailyeats.com/"
+    ],
+    "priorityScore": 18
+  },
+  {
+    "id": "prospect-gametime-tampa",
+    "placeId": "ChIJK_D-ZlDEwogReadEFEDV-dE",
+    "name": "GameTime Tampa",
+    "neighborhood": "Ybor",
+    "address": "1600 E 8th Ave, Tampa, FL 33605, USA",
+    "website": "https://www.gametimeplayers.com/locations/tampa/",
+    "googleMapsUri": "https://maps.google.com/?cid=15130358894322558841&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+    "latitude": 27.961133099999998,
+    "longitude": -82.4406971,
+    "primaryType": "video_arcade",
+    "types": [
+      "video_arcade",
+      "sports_bar",
+      "family_restaurant",
+      "tourist_attraction",
+      "amusement_center",
+      "bar",
+      "event_venue",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "sourceBuckets": [
+      "Ybor nightlife",
+      "Gasworx Ybor"
+    ],
+    "crawlTargets": [
+      "https://www.gametimeplayers.com/locations/tampa/"
+    ],
+    "priorityScore": 18
+  },
+  {
+    "id": "prospect-psomi",
+    "placeId": "ChIJ_RvwD3nDwogRCeHQydPsx_k",
+    "name": "Psomi",
+    "neighborhood": "SoHo",
+    "address": "701 N Howard Ave, Tampa, FL 33606, USA",
+    "website": "http://www.eatpsomi.com/",
+    "googleMapsUri": "https://maps.google.com/?cid=17998614830177640713&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+    "latitude": 27.9501545,
+    "longitude": -82.4827529,
+    "primaryType": "greek_restaurant",
+    "types": [
+      "greek_restaurant",
+      "sandwich_shop",
+      "coffee_shop",
+      "breakfast_restaurant",
+      "bagel_shop",
+      "mediterranean_restaurant",
+      "gyro_restaurant",
+      "cafe",
+      "brunch_restaurant",
+      "bakery",
+      "restaurant",
+      "food_store",
+      "food",
+      "point_of_interest",
+      "store",
+      "establishment"
+    ],
+    "sourceBuckets": [
+      "SoHo bars"
+    ],
+    "crawlTargets": [
+      "http://www.eatpsomi.com/"
+    ],
+    "priorityScore": 18
+  },
+  {
+    "id": "prospect-timpano-hyde-park",
+    "placeId": "ChIJBcNdEmLDwogRKDWYDW3lUAI",
+    "name": "Timpano Hyde Park",
+    "neighborhood": "SoHo",
+    "address": "1610 W Swann Ave, Tampa, FL 33606, USA",
+    "website": "http://timpanohydepark.com/",
+    "googleMapsUri": "https://maps.google.com/?cid=166885442754983208&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+    "latitude": 27.9371498,
+    "longitude": -82.47604,
+    "primaryType": "restaurant",
+    "types": [
+      "restaurant",
+      "steak_house",
+      "italian_restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "sourceBuckets": [
+      "SoHo bars",
+      "Hyde Park bars"
+    ],
+    "crawlTargets": [
+      "http://timpanohydepark.com/"
+    ],
+    "priorityScore": 18
+  },
+  {
+    "id": "prospect-yeoman-s-topgolf-swing-suite",
+    "placeId": "ChIJQ27bQovEwogRaTOvsjTavhk",
+    "name": "Yeoman's Topgolf Swing Suite",
+    "neighborhood": "Channelside",
+    "address": "202 N Morgan St, Tampa, FL 33602, USA",
+    "website": "https://yeomanstopgolfswingsuite.com/",
+    "googleMapsUri": "https://maps.google.com/?cid=1855160016394204009&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+    "latitude": 27.947318499999998,
+    "longitude": -82.4550874,
+    "primaryType": "british_restaurant",
+    "types": [
+      "british_restaurant",
+      "sports_bar",
+      "pub",
+      "bar_and_grill",
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "sourceBuckets": [
+      "Downtown Tampa bars",
+      "Channelside bars",
+      "Tampa sports bars"
+    ],
+    "crawlTargets": [
+      "https://yeomanstopgolfswingsuite.com/"
+    ],
+    "priorityScore": 18
+  },
+  {
+    "id": "prospect-armature-works",
+    "placeId": "ChIJYWj9iZ_PwogRQebjN7pJ_Nw",
+    "name": "Armature Works",
+    "neighborhood": "Downtown Tampa",
+    "address": "1910 N Ola Ave, Tampa, FL 33602, USA",
+    "website": "https://armatureworks.com/",
+    "googleMapsUri": "https://maps.google.com/?cid=15923683446625658433&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+    "latitude": 27.960934299999998,
+    "longitude": -82.4642724,
+    "primaryType": "american_restaurant",
+    "types": [
+      "american_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "sourceBuckets": [
+      "Downtown Tampa bars",
+      "Armature Works Tampa Heights"
+    ],
+    "crawlTargets": [
+      "https://armatureworks.com/"
+    ],
+    "priorityScore": 16
+  },
+  {
+    "id": "prospect-bartaco",
+    "placeId": "ChIJDZWIHmLDwogRux0qtYlHGos",
+    "name": "bartaco",
+    "neighborhood": "SoHo",
+    "address": "1601 W Snow Ave, Tampa, FL 33606, USA",
+    "website": "https://bartaco.com/location/tampa/",
+    "googleMapsUri": "https://maps.google.com/?cid=10023402577441988027&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+    "latitude": 27.9362248,
+    "longitude": -82.4760119,
+    "primaryType": "taco_restaurant",
+    "types": [
+      "taco_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "sourceBuckets": [
+      "SoHo bars",
+      "Hyde Park bars"
+    ],
+    "crawlTargets": [
+      "https://bartaco.com/location/tampa/"
+    ],
+    "priorityScore": 16
+  },
+  {
+    "id": "prospect-columbia-restaurant",
+    "placeId": "ChIJz8e7TVLEwogRBeybvscHnD4",
+    "name": "Columbia Restaurant",
+    "neighborhood": "Ybor",
+    "address": "2117 E 7th Ave, Tampa, FL 33605, USA",
+    "website": "http://www.columbiarestaurant.com/",
+    "googleMapsUri": "https://maps.google.com/?cid=4511489481196170245&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+    "latitude": 27.959992399999997,
+    "longitude": -82.4351423,
+    "primaryType": "spanish_restaurant",
+    "types": [
+      "spanish_restaurant",
+      "cuban_restaurant",
+      "gift_shop",
+      "meal_takeaway",
+      "event_venue",
+      "restaurant",
+      "food",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "sourceBuckets": [
+      "Ybor nightlife"
+    ],
+    "crawlTargets": [
+      "http://www.columbiarestaurant.com/"
+    ],
+    "priorityScore": 16
+  },
+  {
+    "id": "prospect-forbici-modern-italian",
+    "placeId": "ChIJ9fWNyY_DwogRm-LWv0s5VF4",
+    "name": "Forbici Modern Italian",
+    "neighborhood": "SoHo",
+    "address": "1633 W Snow Ave, Tampa, FL 33606, USA",
+    "website": "https://www.eatforbici.com/",
+    "googleMapsUri": "https://maps.google.com/?cid=6797120735112782491&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+    "latitude": 27.935776999999998,
+    "longitude": -82.47667179999999,
+    "primaryType": "italian_restaurant",
+    "types": [
+      "italian_restaurant",
+      "pizza_restaurant",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "sourceBuckets": [
+      "SoHo bars",
+      "Hyde Park bars"
+    ],
+    "crawlTargets": [
+      "https://www.eatforbici.com/"
+    ],
+    "priorityScore": 16
+  },
+  {
+    "id": "prospect-mangos-southern-kitchen-and-bar",
+    "placeId": "ChIJ7ThsNUPFwogRQ_WAyKqMz3A",
+    "name": "Mangos Southern Kitchen and Bar",
+    "neighborhood": "Tampa",
+    "address": "5137 N Florida Ave, Tampa, FL 33603, USA",
+    "website": "https://www.mangossouthernkitchen.com/",
+    "googleMapsUri": "https://maps.google.com/?cid=8128870517563258179&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+    "latitude": 27.9941137,
+    "longitude": -82.4592282,
+    "primaryType": "restaurant",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "sourceBuckets": [
+      "Seminole Heights bars"
+    ],
+    "crawlTargets": [
+      "https://www.mangossouthernkitchen.com/"
+    ],
+    "priorityScore": 16
+  },
+  {
+    "id": "prospect-oak-ola",
+    "placeId": "ChIJFdsuKwDFwogRNyTrKi7NGtE",
+    "name": "Oak & Ola",
+    "neighborhood": "Downtown Tampa",
+    "address": "1910 N Ola Ave, Tampa, FL 33602, USA",
+    "website": "http://www.oakandola.com/",
+    "googleMapsUri": "https://maps.google.com/?cid=15067581101493658679&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+    "latitude": 27.9608352,
+    "longitude": -82.4643177,
+    "primaryType": "restaurant",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "sourceBuckets": [
+      "Downtown Tampa bars",
+      "Armature Works Tampa Heights"
+    ],
+    "crawlTargets": [
+      "http://www.oakandola.com/"
+    ],
+    "priorityScore": 16
+  }
+]

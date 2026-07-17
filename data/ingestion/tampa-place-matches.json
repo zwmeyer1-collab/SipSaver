@@ -1,0 +1,708 @@
+{
+  "generatedAt": "2026-04-20T21:45:49.668Z",
+  "city": "Tampa",
+  "seedVenueCount": 6,
+  "importedPlaceCount": 60,
+  "matchedCount": 3,
+  "suggestedCount": 0,
+  "unmatchedCount": 57,
+  "venueMatches": [
+    {
+      "venueId": "macdintons",
+      "venueName": "MacDinton's",
+      "placeId": "ChIJTSQO5GTDwogR5VNtdse_zBw",
+      "placeName": "MacDinton's Irish Pub",
+      "status": "matched",
+      "confidence": "high",
+      "matchScore": 125,
+      "reasons": [
+        "contained-name",
+        "website-domain",
+        "close-location",
+        "neighborhood"
+      ]
+    },
+    {
+      "venueId": "green-lemon",
+      "venueName": "Green Lemon",
+      "placeId": "ChIJ9RjM9WbDwogROYi4rArfa5M",
+      "placeName": "Green Lemon",
+      "status": "matched",
+      "confidence": "high",
+      "matchScore": 92,
+      "reasons": [
+        "exact-name",
+        "same-block",
+        "neighborhood"
+      ]
+    },
+    {
+      "venueId": "malios",
+      "venueName": "Malio's",
+      "placeId": null,
+      "placeName": null,
+      "status": "unmatched",
+      "confidence": "low",
+      "matchScore": 22,
+      "reasons": [
+        "same-block",
+        "neighborhood"
+      ]
+    },
+    {
+      "venueId": "yard-house",
+      "venueName": "Yard House",
+      "placeId": "ChIJ95-AYwzFwogRJUMNa8f4Uug",
+      "placeName": "Yard House",
+      "status": "matched",
+      "confidence": "high",
+      "matchScore": 127,
+      "reasons": [
+        "exact-name",
+        "website-domain",
+        "close-location"
+      ]
+    },
+    {
+      "venueId": "district-tavern",
+      "venueName": "District Tavern",
+      "placeId": null,
+      "placeName": null,
+      "status": "unmatched",
+      "confidence": "low",
+      "matchScore": 22,
+      "reasons": [
+        "same-block",
+        "neighborhood"
+      ]
+    },
+    {
+      "venueId": "ybormarket",
+      "venueName": "Ybor neighborhood leads",
+      "placeId": null,
+      "placeName": null,
+      "status": "unmatched",
+      "confidence": "low",
+      "matchScore": 40,
+      "reasons": [
+        "very-close-location",
+        "neighborhood"
+      ]
+    }
+  ],
+  "placeReviews": [
+    {
+      "placeId": "ChIJKZtZZWzDwogRyyDRAy_sXKg",
+      "placeName": "4 Rivers Smokehouse",
+      "status": "unmatched",
+      "matchedVenueId": null,
+      "matchedVenueName": null,
+      "confidence": "low",
+      "matchScore": 0,
+      "reasons": []
+    },
+    {
+      "placeId": "ChIJIWBtiVDEwogRMhQaWzp66Ew",
+      "placeName": "7-Eleven",
+      "status": "unmatched",
+      "matchedVenueId": null,
+      "matchedVenueName": null,
+      "confidence": "low",
+      "matchScore": 0,
+      "reasons": []
+    },
+    {
+      "placeId": "ChIJmfFGVBPFwogRIYyNhvz3X9Y",
+      "placeName": "7th + Grove",
+      "status": "unmatched",
+      "matchedVenueId": null,
+      "matchedVenueName": null,
+      "confidence": "low",
+      "matchScore": 0,
+      "reasons": []
+    },
+    {
+      "placeId": "ChIJD_49nVHEwogR0Fy_o2shqfE",
+      "placeName": "Acropolis Greek Taverna - Tampa",
+      "status": "unmatched",
+      "matchedVenueId": null,
+      "matchedVenueName": null,
+      "confidence": "low",
+      "matchScore": 0,
+      "reasons": []
+    },
+    {
+      "placeId": "ChIJzyHjx5LEwogRuGs9V-RMHrA",
+      "placeName": "American Social - Bar & Kitchen - Tampa",
+      "status": "unmatched",
+      "matchedVenueId": null,
+      "matchedVenueName": null,
+      "confidence": "low",
+      "matchScore": 0,
+      "reasons": []
+    },
+    {
+      "placeId": "ChIJYWj9iZ_PwogRQebjN7pJ_Nw",
+      "placeName": "Armature Works",
+      "status": "unmatched",
+      "matchedVenueId": null,
+      "matchedVenueName": null,
+      "confidence": "low",
+      "matchScore": 0,
+      "reasons": []
+    },
+    {
+      "placeId": "ChIJf7PUWy7FwogRU7CrN8rdncg",
+      "placeName": "Babushka's - Hyde Park",
+      "status": "unmatched",
+      "matchedVenueId": null,
+      "matchedVenueName": null,
+      "confidence": "low",
+      "matchScore": 0,
+      "reasons": []
+    },
+    {
+      "placeId": "ChIJDZWIHmLDwogRux0qtYlHGos",
+      "placeName": "bartaco",
+      "status": "unmatched",
+      "matchedVenueId": null,
+      "matchedVenueName": null,
+      "confidence": "low",
+      "matchScore": 0,
+      "reasons": []
+    },
+    {
+      "placeId": "ChIJKQXHdmfDwogRJFCLuT7eJ6I",
+      "placeName": "Bern's Steak House",
+      "status": "unmatched",
+      "matchedVenueId": null,
+      "matchedVenueName": null,
+      "confidence": "low",
+      "matchScore": 0,
+      "reasons": []
+    },
+    {
+      "placeId": "ChIJiydUsfPEwogRpCvlFFYLch8",
+      "placeName": "Boulon Brasserie and Bakery",
+      "status": "unmatched",
+      "matchedVenueId": null,
+      "matchedVenueName": null,
+      "confidence": "low",
+      "matchScore": 0,
+      "reasons": []
+    },
+    {
+      "placeId": "ChIJzXMD72bDwogRUmY0GaY63xI",
+      "placeName": "Bulla Gastrobar Tampa",
+      "status": "unmatched",
+      "matchedVenueId": null,
+      "matchedVenueName": null,
+      "confidence": "low",
+      "matchScore": 0,
+      "reasons": []
+    },
+    {
+      "placeId": "ChIJ-VB9B1PEwogRAR_8Q9lKsqQ",
+      "placeName": "Casa Santo Stefano",
+      "status": "unmatched",
+      "matchedVenueId": null,
+      "matchedVenueName": null,
+      "confidence": "low",
+      "matchScore": 0,
+      "reasons": []
+    },
+    {
+      "placeId": "ChIJMZzY-GTDwogRbWCgcKkljtI",
+      "placeName": "Chipotle Mexican Grill",
+      "status": "unmatched",
+      "matchedVenueId": null,
+      "matchedVenueName": null,
+      "confidence": "low",
+      "matchScore": 0,
+      "reasons": []
+    },
+    {
+      "placeId": "ChIJEw6e91DEwogRqPes5sxjERQ",
+      "placeName": "Club Prana",
+      "status": "unmatched",
+      "matchedVenueId": null,
+      "matchedVenueName": null,
+      "confidence": "low",
+      "matchScore": 0,
+      "reasons": []
+    },
+    {
+      "placeId": "ChIJpQkta2LDwogRS8gF064HIPk",
+      "placeName": "CMX CinéBistro at Hyde Park Village",
+      "status": "unmatched",
+      "matchedVenueId": null,
+      "matchedVenueName": null,
+      "confidence": "low",
+      "matchScore": 0,
+      "reasons": []
+    },
+    {
+      "placeId": "ChIJyz7ELojEwogRsjrgE32aIyE",
+      "placeName": "Columbia Cafe at the Tampa Bay History Center",
+      "status": "unmatched",
+      "matchedVenueId": null,
+      "matchedVenueName": null,
+      "confidence": "low",
+      "matchScore": 0,
+      "reasons": []
+    },
+    {
+      "placeId": "ChIJz8e7TVLEwogRBeybvscHnD4",
+      "placeName": "Columbia Restaurant",
+      "status": "unmatched",
+      "matchedVenueId": null,
+      "matchedVenueName": null,
+      "confidence": "low",
+      "matchScore": 0,
+      "reasons": []
+    },
+    {
+      "placeId": "ChIJy3uaZKvFwogRpk-ruMef9nE",
+      "placeName": "Coppertail Brewing Co.",
+      "status": "unmatched",
+      "matchedVenueId": null,
+      "matchedVenueName": null,
+      "confidence": "low",
+      "matchScore": 0,
+      "reasons": []
+    },
+    {
+      "placeId": "ChIJmx9Ai2bDwogR0KirfRhQSos",
+      "placeName": "Daily Eats",
+      "status": "unmatched",
+      "matchedVenueId": null,
+      "matchedVenueName": null,
+      "confidence": "low",
+      "matchScore": 0,
+      "reasons": []
+    },
+    {
+      "placeId": "ChIJn2Mfbv5654gRVPqvg4fcmlA",
+      "placeName": "Due Amici Pizza & Pasta Bar",
+      "status": "unmatched",
+      "matchedVenueId": null,
+      "matchedVenueName": null,
+      "confidence": "low",
+      "matchScore": 0,
+      "reasons": []
+    },
+    {
+      "placeId": "ChIJ-dHEfInEwogRHESqR5evH2w",
+      "placeName": "Eddie And Sam's N.Y Pizza",
+      "status": "unmatched",
+      "matchedVenueId": null,
+      "matchedVenueName": null,
+      "confidence": "low",
+      "matchScore": 0,
+      "reasons": []
+    },
+    {
+      "placeId": "ChIJi8WsgzTFwogRZFu2ieB9zIE",
+      "placeName": "First Watch",
+      "status": "unmatched",
+      "matchedVenueId": null,
+      "matchedVenueName": null,
+      "confidence": "low",
+      "matchScore": 0,
+      "reasons": []
+    },
+    {
+      "placeId": "ChIJtyjCT8zFwogRDeMzOrl5Rn4",
+      "placeName": "Flan Factory - Ybor",
+      "status": "unmatched",
+      "matchedVenueId": null,
+      "matchedVenueName": null,
+      "confidence": "low",
+      "matchScore": 0,
+      "reasons": []
+    },
+    {
+      "placeId": "ChIJ9fWNyY_DwogRm-LWv0s5VF4",
+      "placeName": "Forbici Modern Italian",
+      "status": "unmatched",
+      "matchedVenueId": null,
+      "matchedVenueName": null,
+      "confidence": "low",
+      "matchScore": 0,
+      "reasons": []
+    },
+    {
+      "placeId": "ChIJK_D-ZlDEwogR1TZphg5U4M0",
+      "placeName": "Funny Bone Comedy Club",
+      "status": "unmatched",
+      "matchedVenueId": null,
+      "matchedVenueName": null,
+      "confidence": "low",
+      "matchScore": 0,
+      "reasons": []
+    },
+    {
+      "placeId": "ChIJK_D-ZlDEwogReadEFEDV-dE",
+      "placeName": "GameTime Tampa",
+      "status": "unmatched",
+      "matchedVenueId": null,
+      "matchedVenueName": null,
+      "confidence": "low",
+      "matchScore": 0,
+      "reasons": []
+    },
+    {
+      "placeId": "ChIJ1yQNClHEwogRaCW7u5bgT0Y",
+      "placeName": "Gaspar's Grotto",
+      "status": "unmatched",
+      "matchedVenueId": null,
+      "matchedVenueName": null,
+      "confidence": "low",
+      "matchScore": 0,
+      "reasons": []
+    },
+    {
+      "placeId": "ChIJ9RjM9WbDwogROYi4rArfa5M",
+      "placeName": "Green Lemon",
+      "status": "matched",
+      "matchedVenueId": "green-lemon",
+      "matchedVenueName": "Green Lemon",
+      "confidence": "high",
+      "matchScore": 92,
+      "reasons": [
+        "exact-name",
+        "same-block",
+        "neighborhood"
+      ]
+    },
+    {
+      "placeId": "ChIJfdR_2D3FwogR5xUXk9UQPQk",
+      "placeName": "Hampton Chocolate Factory",
+      "status": "unmatched",
+      "matchedVenueId": null,
+      "matchedVenueName": null,
+      "confidence": "low",
+      "matchScore": 0,
+      "reasons": []
+    },
+    {
+      "placeId": "ChIJJ13SCI3EwogRcX2q5Fs_HkU",
+      "placeName": "Harpoon Harry's Crab House - Tampa",
+      "status": "unmatched",
+      "matchedVenueId": null,
+      "matchedVenueName": null,
+      "confidence": "low",
+      "matchScore": 0,
+      "reasons": []
+    },
+    {
+      "placeId": "ChIJB1L_XIzEwogR1Eslu42A1NQ",
+      "placeName": "Hattricks",
+      "status": "unmatched",
+      "matchedVenueId": null,
+      "matchedVenueName": null,
+      "confidence": "low",
+      "matchScore": 0,
+      "reasons": []
+    },
+    {
+      "placeId": "ChIJ2_xFiVrEwogRHOkifwb6NpU",
+      "placeName": "Hotel Haya",
+      "status": "unmatched",
+      "matchedVenueId": null,
+      "matchedVenueName": null,
+      "confidence": "low",
+      "matchScore": 0,
+      "reasons": []
+    },
+    {
+      "placeId": "ChIJQZRp15bDwogReY6sMTk-YWg",
+      "placeName": "Hyde Park Village",
+      "status": "unmatched",
+      "matchedVenueId": null,
+      "matchedVenueName": null,
+      "confidence": "low",
+      "matchScore": 0,
+      "reasons": []
+    },
+    {
+      "placeId": "ChIJF3KEwZLEwogRaqYCFY7x_0k",
+      "placeName": "Jackson's Bistro, Bar & Sushi of Tampa",
+      "status": "unmatched",
+      "matchedVenueId": null,
+      "matchedVenueName": null,
+      "confidence": "low",
+      "matchScore": 0,
+      "reasons": []
+    },
+    {
+      "placeId": "ChIJXTeLe0XEwogR-wheRdFeKEY",
+      "placeName": "La Segunda Bakery and Cafe",
+      "status": "unmatched",
+      "matchedVenueId": null,
+      "matchedVenueName": null,
+      "confidence": "low",
+      "matchScore": 0,
+      "reasons": []
+    },
+    {
+      "placeId": "ChIJTY7XE2PFwogRDgMOQRLEAhw",
+      "placeName": "M.Bird Rooftop Restaurant, Bar & DJ's",
+      "status": "unmatched",
+      "matchedVenueId": null,
+      "matchedVenueName": null,
+      "confidence": "low",
+      "matchScore": 0,
+      "reasons": []
+    },
+    {
+      "placeId": "ChIJTSQO5GTDwogR5VNtdse_zBw",
+      "placeName": "MacDinton's Irish Pub",
+      "status": "matched",
+      "matchedVenueId": "macdintons",
+      "matchedVenueName": "MacDinton's",
+      "confidence": "high",
+      "matchScore": 125,
+      "reasons": [
+        "contained-name",
+        "website-domain",
+        "close-location",
+        "neighborhood"
+      ]
+    },
+    {
+      "placeId": "ChIJb941fH3DwogRJUar7RezRjQ",
+      "placeName": "McDonald's",
+      "status": "unmatched",
+      "matchedVenueId": null,
+      "matchedVenueName": null,
+      "confidence": "low",
+      "matchScore": 0,
+      "reasons": []
+    },
+    {
+      "placeId": "ChIJv8Kdo03EwogR3HoxBWem40Q",
+      "placeName": "McDonald's",
+      "status": "unmatched",
+      "matchedVenueId": null,
+      "matchedVenueName": null,
+      "confidence": "low",
+      "matchScore": 0,
+      "reasons": []
+    },
+    {
+      "placeId": "ChIJtwli6xvDwogRdNWjO4byk5U",
+      "placeName": "Meat Market Steakhouse Tampa",
+      "status": "unmatched",
+      "matchedVenueId": null,
+      "matchedVenueName": null,
+      "confidence": "low",
+      "matchScore": 0,
+      "reasons": []
+    },
+    {
+      "placeId": "ChIJkTDP2OLFwogR9W0EjRYIL-0",
+      "placeName": "Naked Farmer",
+      "status": "unmatched",
+      "matchedVenueId": null,
+      "matchedVenueName": null,
+      "confidence": "low",
+      "matchScore": 0,
+      "reasons": []
+    },
+    {
+      "placeId": "ChIJmzKZ8InEwogR0PM7xTqUB6M",
+      "placeName": "Nueva Cantina - Downtown Tampa",
+      "status": "unmatched",
+      "matchedVenueId": null,
+      "matchedVenueName": null,
+      "confidence": "low",
+      "matchScore": 0,
+      "reasons": []
+    },
+    {
+      "placeId": "ChIJFdsuKwDFwogRNyTrKi7NGtE",
+      "placeName": "Oak & Ola",
+      "status": "unmatched",
+      "matchedVenueId": null,
+      "matchedVenueName": null,
+      "confidence": "low",
+      "matchScore": 0,
+      "reasons": []
+    },
+    {
+      "placeId": "ChIJ5crCip3EwogRQnhkbw_Ir6U",
+      "placeName": "On Swann",
+      "status": "unmatched",
+      "matchedVenueId": null,
+      "matchedVenueName": null,
+      "confidence": "low",
+      "matchScore": 0,
+      "reasons": []
+    },
+    {
+      "placeId": "ChIJ11hsiYXEwogRjDBv39F04J8",
+      "placeName": "Oxford Exchange",
+      "status": "unmatched",
+      "matchedVenueId": null,
+      "matchedVenueName": null,
+      "confidence": "low",
+      "matchScore": 0,
+      "reasons": []
+    },
+    {
+      "placeId": "ChIJ_RvwD3nDwogRCeHQydPsx_k",
+      "placeName": "Psomi",
+      "status": "unmatched",
+      "matchedVenueId": null,
+      "matchedVenueName": null,
+      "confidence": "low",
+      "matchScore": 0,
+      "reasons": []
+    },
+    {
+      "placeId": "ChIJe_sgCQTFwogRzB1ctERShiI",
+      "placeName": "Ro Hyde Park",
+      "status": "unmatched",
+      "matchedVenueId": null,
+      "matchedVenueName": null,
+      "confidence": "low",
+      "matchScore": 0,
+      "reasons": []
+    },
+    {
+      "placeId": "ChIJsxMgXXfFwogRCniVX75FxGU",
+      "placeName": "Rosenheim Restaurant",
+      "status": "unmatched",
+      "matchedVenueId": null,
+      "matchedVenueName": null,
+      "confidence": "low",
+      "matchScore": 0,
+      "reasons": []
+    },
+    {
+      "placeId": "ChIJvQfUtV3EwogR3NIyRTwlS_4",
+      "placeName": "Salem's Fresh Eats",
+      "status": "unmatched",
+      "matchedVenueId": null,
+      "matchedVenueName": null,
+      "confidence": "low",
+      "matchScore": 0,
+      "reasons": []
+    },
+    {
+      "placeId": "ChIJ8aWPnTzFwogRGefqJ6fUML0",
+      "placeName": "Santoro's Pizzeria",
+      "status": "unmatched",
+      "matchedVenueId": null,
+      "matchedVenueName": null,
+      "confidence": "low",
+      "matchScore": 0,
+      "reasons": []
+    },
+    {
+      "placeId": "ChIJ7QVjUK_FwogRaTLY8uxOico",
+      "placeName": "SpookEasy Lounge",
+      "status": "unmatched",
+      "matchedVenueId": null,
+      "matchedVenueName": null,
+      "confidence": "low",
+      "matchScore": 0,
+      "reasons": []
+    },
+    {
+      "placeId": "ChIJgVXfQFDEwogRW-6mIk_NnEo",
+      "placeName": "Tampa Bay Brewing Company",
+      "status": "unmatched",
+      "matchedVenueId": null,
+      "matchedVenueName": null,
+      "confidence": "low",
+      "matchScore": 0,
+      "reasons": []
+    },
+    {
+      "placeId": "ChIJw3ZLa1DEwogR3B-B1fQW7UM",
+      "placeName": "The Castle",
+      "status": "unmatched",
+      "matchedVenueId": null,
+      "matchedVenueName": null,
+      "confidence": "low",
+      "matchScore": 0,
+      "reasons": []
+    },
+    {
+      "placeId": "ChIJS4AtxNfFwogReG60gXMaVEo",
+      "placeName": "The Pearl Tampa",
+      "status": "unmatched",
+      "matchedVenueId": null,
+      "matchedVenueName": null,
+      "confidence": "low",
+      "matchScore": 0,
+      "reasons": []
+    },
+    {
+      "placeId": "ChIJBcNdEmLDwogRKDWYDW3lUAI",
+      "placeName": "Timpano Hyde Park",
+      "status": "unmatched",
+      "matchedVenueId": null,
+      "matchedVenueName": null,
+      "confidence": "low",
+      "matchScore": 0,
+      "reasons": []
+    },
+    {
+      "placeId": "ChIJ0ZWO3ITFwogRgsOtiYnV1bI",
+      "placeName": "Tori Bar",
+      "status": "unmatched",
+      "matchedVenueId": null,
+      "matchedVenueName": null,
+      "confidence": "low",
+      "matchScore": 0,
+      "reasons": []
+    },
+    {
+      "placeId": "ChIJ3Vyq7WTEwogRA-WDC7Mze2E",
+      "placeName": "Ulele",
+      "status": "unmatched",
+      "matchedVenueId": null,
+      "matchedVenueName": null,
+      "confidence": "low",
+      "matchScore": 0,
+      "reasons": []
+    },
+    {
+      "placeId": "ChIJUQvP2fjDwogRfqNKGnJTG5w",
+      "placeName": "Willa's",
+      "status": "unmatched",
+      "matchedVenueId": null,
+      "matchedVenueName": null,
+      "confidence": "low",
+      "matchScore": 0,
+      "reasons": []
+    },
+    {
+      "placeId": "ChIJ95-AYwzFwogRJUMNa8f4Uug",
+      "placeName": "Yard House",
+      "status": "matched",
+      "matchedVenueId": "yard-house",
+      "matchedVenueName": "Yard House",
+      "confidence": "high",
+      "matchScore": 127,
+      "reasons": [
+        "exact-name",
+        "website-domain",
+        "close-location"
+      ]
+    },
+    {
+      "placeId": "ChIJQ27bQovEwogRaTOvsjTavhk",
+      "placeName": "Yeoman's Topgolf Swing Suite",
+      "status": "unmatched",
+      "matchedVenueId": null,
+      "matchedVenueName": null,
+      "confidence": "low",
+      "matchScore": 0,
+      "reasons": []
+    }
+  ]
+}

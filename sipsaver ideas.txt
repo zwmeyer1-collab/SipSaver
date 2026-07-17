@@ -1,0 +1,43 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2761
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{circle\}}{\leveltext\leveltemplateid1\'01\uc0\u9702 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid1}}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\deftab560
+\pard\pardeftab560\pardirnatural\partightenfactor0
+
+\f0\fs40 \cf0 Sip Saver\
+\pard\pardeftab560\slleading20\partightenfactor0
+
+\fs26 \cf0 \
+\pard\pardeftab560\pardirnatural\partightenfactor0
+\ls1\ilvl0\cf0 {\listtext	\uc0\u9702 	}Scrape for all happy hour deals in area\
+{\listtext	\uc0\u9702 	}Connect with bars to get exclusive deals that when shown from app\
+{\listtext	\uc0\u9702 	}Hoppy hour - connect friends to show what happy hours you are going to. Create a \'93night plan\'94, Invite friends, Vote on bars\
+{\listtext	\uc0\u9702 	}Have a social media part to show what places are popping (share friends exclusive or public)\
+{\listtext	\uc0\u9702 	}Gameify with rewards/ deals. Loyalty / Rewards System - Points for: Checking in, Using deals, Inviting friends. Redeem for: Free drinks, Discounts, VIP perks\
+{\listtext	\uc0\u9702 	}Real-Time \'93Vibe\'94 Indicator\
+{\listtext	\uc0\u9702 	}Map View\
+{\listtext	\uc0\u9702 	}Verified Deals System - Let bars \'93claim\'94 their page and post official deals\
+{\listtext	\uc0\u9702 	}Show: Live music, DJs, Game nights\
+{\listtext	\uc0\u9702 	}\'93Bar Crawl Mode\'94- Auto-generate a route:, 3\'965 bars, Best deals in order. Optimize for: Walking distance, Time windows\
+}
+
+
+
+- [ ] Scrape for all happy hour deals in area
+- [ ] Connect with bars to get exclusive deals that when shown from app
+- [ ] Hoppy hour - connect friends to show what happy hours you are going to. Create a “night plan”, Invite friends, Vote on bars
+- [ ] Have a social media part to show what places are popping (share friends exclusive or public)
+- [ ] Gameify with rewards/ deals. Loyalty / Rewards System - Points for: Checking in, Using deals, Inviting friends. Redeem for: Free drinks, Discounts, VIP perks
+- [ ] Bar having back end login 
+- [ ] Real-Time “Vibe” Indicator
+- [ ] Map View
+- [ ] Verified Deals System - Let bars “claim” their page and post official deals
+- [ ] Show: Live music, DJs, Game nights
+- [ ] “Bar Crawl Mode”- Auto-generate a route:, 3–5 bars, Best deals in order. Optimize for: Walking distance, Time windows
+- [ ] Favorites - tag your favorite places
+- [ ] Push notifications- when one of your favorites publishes you get a notification 
+- [ ] Add budget and recommend bars that fit within that budget 

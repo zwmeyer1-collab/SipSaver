@@ -1,0 +1,4046 @@
+{
+  "generatedAt": "2026-04-30T22:04:54.852Z",
+  "sourceGeneratedAt": "2026-04-30T21:33:51.079Z",
+  "city": "Tampa",
+  "reviewCount": 219,
+  "items": [
+    {
+      "id": "prospect-strandhill-public-tampa-heights-1-lunch-special-2-off-all-sandwich",
+      "venueId": "prospect-strandhill-public-tampa-heights",
+      "venueName": "Strandhill Public (Tampa Heights)",
+      "neighborhood": "Tampa",
+      "sourceKind": "prospect",
+      "placeId": "ChIJUVX3MWXEwogRMmHunvjE6xY",
+      "status": "pending",
+      "sourceUrl": "https://strandhillpublic.com/tampa-brandon-strandhill-public-brandon-food-menu",
+      "sourceTitle": "Strandhill Public - Food Menu - Brandon",
+      "snippet": "Lunch special $2 off all sandwiches MONDAY - FRIDAY 11AM - 3PM",
+      "suggestedCategory": "Food",
+      "confidence": "high",
+      "matchedKeywords": [
+        "specials?",
+        "\\$\\d+",
+        "sandwich(?:es)?"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-strandhill-public-tampa-heights-2-avocado-bacon-caramelized-onions",
+      "venueId": "prospect-strandhill-public-tampa-heights",
+      "venueName": "Strandhill Public (Tampa Heights)",
+      "neighborhood": "Tampa",
+      "sourceKind": "prospect",
+      "placeId": "ChIJUVX3MWXEwogRMmHunvjE6xY",
+      "status": "pending",
+      "sourceUrl": "https://strandhillpublic.com/tampa-brandon-strandhill-public-brandon-food-menu",
+      "sourceTitle": "Strandhill Public - Food Menu - Brandon",
+      "snippet": "Avocado, Bacon, Caramelized Onions, Cheese (cheddar, Swiss, blue, pepper jack, fontina) $1.50/ea",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-strandhill-public-tampa-heights-3-add-grilled-or-fried-chicken-6-0",
+      "venueId": "prospect-strandhill-public-tampa-heights",
+      "venueName": "Strandhill Public (Tampa Heights)",
+      "neighborhood": "Tampa",
+      "sourceKind": "prospect",
+      "placeId": "ChIJUVX3MWXEwogRMmHunvjE6xY",
+      "status": "pending",
+      "sourceUrl": "https://strandhillpublic.com/tampa-brandon-strandhill-public-brandon-food-menu-tampa-heights",
+      "sourceTitle": "Strandhill Public - Food Menu - Tampa Heights",
+      "snippet": "Add Grilled or Fried Chicken $6.00 and Add on Salmon $8.00",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-strandhill-public-tampa-heights-4-extra-3-for-a-double-smash",
+      "venueId": "prospect-strandhill-public-tampa-heights",
+      "venueName": "Strandhill Public (Tampa Heights)",
+      "neighborhood": "Tampa",
+      "sourceKind": "prospect",
+      "placeId": "ChIJUVX3MWXEwogRMmHunvjE6xY",
+      "status": "pending",
+      "sourceUrl": "https://strandhillpublic.com/tampa-brandon-strandhill-public-brandon-food-menu",
+      "sourceTitle": "Strandhill Public - Food Menu - Brandon",
+      "snippet": "Extra $3 for a double smash.",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-strandhill-public-tampa-heights-5-graduation-parties-let-us-help-y",
+      "venueId": "prospect-strandhill-public-tampa-heights",
+      "venueName": "Strandhill Public (Tampa Heights)",
+      "neighborhood": "Tampa",
+      "sourceKind": "prospect",
+      "placeId": "ChIJUVX3MWXEwogRMmHunvjE6xY",
+      "status": "pending",
+      "sourceUrl": "https://strandhillpublic.com/",
+      "sourceTitle": "Strandhill Public",
+      "snippet": "Graduation Parties - Let us help you make this graduation season special if you are honoring any new graduates.",
+      "suggestedCategory": "Drinks",
+      "confidence": "low",
+      "matchedKeywords": [
+        "specials?"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-strandhill-public-tampa-heights-6-5oz-grass-fed-beef-topped-with-c",
+      "venueId": "prospect-strandhill-public-tampa-heights",
+      "venueName": "Strandhill Public (Tampa Heights)",
+      "neighborhood": "Tampa",
+      "sourceKind": "prospect",
+      "placeId": "ChIJUVX3MWXEwogRMmHunvjE6xY",
+      "status": "pending",
+      "sourceUrl": "https://strandhillpublic.com/tampa-brandon-strandhill-public-brandon-food-menu",
+      "sourceTitle": "Strandhill Public - Food Menu - Brandon",
+      "snippet": "5oz Grass fed beef, topped with caramelized onions, pickles, American cheese, and our special sauce.",
+      "suggestedCategory": "Drinks",
+      "confidence": "low",
+      "matchedKeywords": [
+        "specials?"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-strandhill-public-tampa-heights-7-inquire-today-and-let-us-know-ho",
+      "venueId": "prospect-strandhill-public-tampa-heights",
+      "venueName": "Strandhill Public (Tampa Heights)",
+      "neighborhood": "Tampa",
+      "sourceKind": "prospect",
+      "placeId": "ChIJUVX3MWXEwogRMmHunvjE6xY",
+      "status": "pending",
+      "sourceUrl": "https://strandhillpublic.com/",
+      "sourceTitle": "Strandhill Public",
+      "snippet": "Inquire today and let us know how we can make your special occasion perfect!",
+      "suggestedCategory": "Drinks",
+      "confidence": "low",
+      "matchedKeywords": [
+        "specials?"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-strandhill-public-tampa-heights-8-choose-us-for-your-next-special-",
+      "venueId": "prospect-strandhill-public-tampa-heights",
+      "venueName": "Strandhill Public (Tampa Heights)",
+      "neighborhood": "Tampa",
+      "sourceKind": "prospect",
+      "placeId": "ChIJUVX3MWXEwogRMmHunvjE6xY",
+      "status": "pending",
+      "sourceUrl": "https://strandhillpublic.com/",
+      "sourceTitle": "Strandhill Public",
+      "snippet": "Choose us for your next special occasion or get-together.",
+      "suggestedCategory": "Drinks",
+      "confidence": "low",
+      "matchedKeywords": [
+        "specials?"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-american-social-bar-kitchen-tampa-1-happy-hour-is-from-4-7pm-monday-",
+      "venueId": "prospect-american-social-bar-kitchen-tampa",
+      "venueName": "American Social - Bar & Kitchen - Tampa",
+      "neighborhood": "Channelside",
+      "sourceKind": "prospect",
+      "placeId": "ChIJzyHjx5LEwogRuGs9V-RMHrA",
+      "status": "pending",
+      "sourceUrl": "https://americansocialbar.com/private-events/tampa/",
+      "sourceTitle": "Private Dining & Event in Tampa | American Social",
+      "snippet": "Happy Hour is from 4-7pm Monday through Friday and they also have daily specials that are separate from the happy hour as well if you miss it.",
+      "suggestedCategory": "Drinks",
+      "confidence": "high",
+      "matchedKeywords": [
+        "happy hour",
+        "specials?"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-american-social-bar-kitchen-tampa-2-monday-nights-after-7pm-they-hav",
+      "venueId": "prospect-american-social-bar-kitchen-tampa",
+      "venueName": "American Social - Bar & Kitchen - Tampa",
+      "neighborhood": "Channelside",
+      "sourceKind": "prospect",
+      "placeId": "ChIJzyHjx5LEwogRuGs9V-RMHrA",
+      "status": "pending",
+      "sourceUrl": "https://americansocialbar.com/private-events/tampa/",
+      "sourceTitle": "Private Dining & Event in Tampa | American Social",
+      "snippet": "Monday nights (after 7pm) they have $7 burgers and fries and discounted Bourbon/Whiskey (;",
+      "suggestedCategory": "Food",
+      "confidence": "high",
+      "matchedKeywords": [
+        "\\$\\d+",
+        "burger(?:s)?"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-american-social-bar-kitchen-tampa-3-enjoy-6-margaritas-house-wines-1",
+      "venueId": "prospect-american-social-bar-kitchen-tampa",
+      "venueName": "American Social - Bar & Kitchen - Tampa",
+      "neighborhood": "Channelside",
+      "sourceKind": "prospect",
+      "placeId": "ChIJzyHjx5LEwogRuGs9V-RMHrA",
+      "status": "pending",
+      "sourceUrl": "https://americansocialbar.com/locations/tampa/",
+      "sourceTitle": "Tampa | Waterfront Restaurant | American Social",
+      "snippet": "Enjoy $6 Margaritas & House Wines & $10 Specialty Cocktails.",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+",
+        "margarita(?:s)?"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-american-social-bar-kitchen-tampa-4-we-also-tried-the-fried-chicken-",
+      "venueId": "prospect-american-social-bar-kitchen-tampa",
+      "venueName": "American Social - Bar & Kitchen - Tampa",
+      "neighborhood": "Channelside",
+      "sourceKind": "prospect",
+      "placeId": "ChIJzyHjx5LEwogRuGs9V-RMHrA",
+      "status": "pending",
+      "sourceUrl": "https://americansocialbar.com/private-events/tampa/",
+      "sourceTitle": "Private Dining & Event in Tampa | American Social",
+      "snippet": "We also tried the fried chicken sandwich (brunch BLAT) and what made it taste a step above anything else was the jalapeño bacon and honey aioli.",
+      "suggestedCategory": "Food",
+      "confidence": "low",
+      "matchedKeywords": [
+        "brunch",
+        "sandwich(?:es)?"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-american-social-bar-kitchen-tampa-5-end-your-day-on-a-high-note-at-o",
+      "venueId": "prospect-american-social-bar-kitchen-tampa",
+      "venueName": "American Social - Bar & Kitchen - Tampa",
+      "neighborhood": "Channelside",
+      "sourceKind": "prospect",
+      "placeId": "ChIJzyHjx5LEwogRuGs9V-RMHrA",
+      "status": "pending",
+      "sourceUrl": "https://americansocialbar.com/locations/tampa/",
+      "sourceTitle": "Tampa | Waterfront Restaurant | American Social",
+      "snippet": "End your day on a high note at our Social Hour with drinks specials, great music & even better conversations.",
+      "suggestedCategory": "Drinks",
+      "confidence": "low",
+      "matchedKeywords": [
+        "specials?"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-american-social-bar-kitchen-tampa-6-i-love-brunch-mostly-for-the-bot",
+      "venueId": "prospect-american-social-bar-kitchen-tampa",
+      "venueName": "American Social - Bar & Kitchen - Tampa",
+      "neighborhood": "Channelside",
+      "sourceKind": "prospect",
+      "placeId": "ChIJzyHjx5LEwogRuGs9V-RMHrA",
+      "status": "pending",
+      "sourceUrl": "https://americansocialbar.com/private-events/tampa/",
+      "sourceTitle": "Private Dining & Event in Tampa | American Social",
+      "snippet": "I love brunch mostly for the bottomless mimosas because every place has the same brunch food items.",
+      "suggestedCategory": "Food",
+      "confidence": "low",
+      "matchedKeywords": [
+        "mimosa(?:s)?",
+        "brunch"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-american-social-bar-kitchen-tampa-7-great-happy-hour-friendly-staff-",
+      "venueId": "prospect-american-social-bar-kitchen-tampa",
+      "venueName": "American Social - Bar & Kitchen - Tampa",
+      "neighborhood": "Channelside",
+      "sourceKind": "prospect",
+      "placeId": "ChIJzyHjx5LEwogRuGs9V-RMHrA",
+      "status": "pending",
+      "sourceUrl": "https://americansocialbar.com/private-events/tampa/",
+      "sourceTitle": "Private Dining & Event in Tampa | American Social",
+      "snippet": "Great happy hour, friendly staff, and beautiful location next to the Miami River in Brickell!!!",
+      "suggestedCategory": "Drinks",
+      "confidence": "low",
+      "matchedKeywords": [
+        "happy hour"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-american-social-bar-kitchen-tampa-8-i-had-the-brunch-burger-and-it-w",
+      "venueId": "prospect-american-social-bar-kitchen-tampa",
+      "venueName": "American Social - Bar & Kitchen - Tampa",
+      "neighborhood": "Channelside",
+      "sourceKind": "prospect",
+      "placeId": "ChIJzyHjx5LEwogRuGs9V-RMHrA",
+      "status": "pending",
+      "sourceUrl": "https://americansocialbar.com/private-events/tampa/",
+      "sourceTitle": "Private Dining & Event in Tampa | American Social",
+      "snippet": "I had the brunch burger and it was honestly the best burger I've had in a while.",
+      "suggestedCategory": "Food",
+      "confidence": "low",
+      "matchedKeywords": [
+        "brunch",
+        "burger(?:s)?"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-angry-chair-brewing-1-happy-hour-monday-friday-3pm-6pm",
+      "venueId": "prospect-angry-chair-brewing",
+      "venueName": "Angry Chair Brewing",
+      "neighborhood": "Tampa",
+      "sourceKind": "prospect",
+      "placeId": "ChIJR7wcAaTGwogRx4-8AlvPFpo",
+      "status": "pending",
+      "sourceUrl": "https://angrychairbrewing.com/location/taproom/",
+      "sourceTitle": "Taproom | Angry Chair Brewing",
+      "snippet": "Happy Hour — Monday–Friday, 3PM–6PM (best deals in town)",
+      "suggestedCategory": "Drinks",
+      "confidence": "high",
+      "matchedKeywords": [
+        "happy hour",
+        "deal(?:s)?"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-angry-chair-brewing-2-wednesday-wing-wednesdays-1-wing",
+      "venueId": "prospect-angry-chair-brewing",
+      "venueName": "Angry Chair Brewing",
+      "neighborhood": "Tampa",
+      "sourceKind": "prospect",
+      "placeId": "ChIJR7wcAaTGwogRx4-8AlvPFpo",
+      "status": "pending",
+      "sourceUrl": "https://angrychairbrewing.com/location/taproom/",
+      "sourceTitle": "Taproom | Angry Chair Brewing",
+      "snippet": "Wednesday — Wing Wednesdays $1 wings all day and night",
+      "suggestedCategory": "Food",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+",
+        "wing(?:s)?"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-angry-chair-brewing-3-bucs-lightning-games-happy-hour-",
+      "venueId": "prospect-angry-chair-brewing",
+      "venueName": "Angry Chair Brewing",
+      "neighborhood": "Tampa",
+      "sourceKind": "prospect",
+      "placeId": "ChIJR7wcAaTGwogRx4-8AlvPFpo",
+      "status": "pending",
+      "sourceUrl": "https://angrychairbrewing.com/location/taproom/",
+      "sourceTitle": "Taproom | Angry Chair Brewing",
+      "snippet": "Bucs & Lightning Games Happy Hour menu available during all televised Bucs and Lightning games",
+      "suggestedCategory": "Drinks",
+      "confidence": "low",
+      "matchedKeywords": [
+        "happy hour"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-bulla-gastrobar-tampa-1-guests-can-join-us-for-brunch-lu",
+      "venueId": "prospect-bulla-gastrobar-tampa",
+      "venueName": "Bulla Gastrobar Tampa",
+      "neighborhood": "SoHo",
+      "sourceKind": "prospect",
+      "placeId": "ChIJzXMD72bDwogRUmY0GaY63xI",
+      "status": "pending",
+      "sourceUrl": "https://bullagastrobar.com/locations/tampa/",
+      "sourceTitle": "Spanish restaurant & Tapas in Tampa, FL | Bulla Gastrobar",
+      "snippet": "Guests can join us for brunch, lunch, dinner, or our daily happy hour from 3:00 pm – 7:00 pm , where refreshing sangrias, cocktails, and tapas specials make Bulla a top choice for the best tapas in Tampa and t",
+      "suggestedCategory": "Food",
+      "confidence": "high",
+      "matchedKeywords": [
+        "happy hour",
+        "specials?",
+        "brunch"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-bulla-gastrobar-tampa-2-join-us-sunday-may-10th-starting",
+      "venueId": "prospect-bulla-gastrobar-tampa",
+      "venueName": "Bulla Gastrobar Tampa",
+      "neighborhood": "SoHo",
+      "sourceKind": "prospect",
+      "placeId": "ChIJzXMD72bDwogRUmY0GaY63xI",
+      "status": "pending",
+      "sourceUrl": "https://bullagastrobar.com/locations/tampa/",
+      "sourceTitle": "Spanish restaurant & Tapas in Tampa, FL | Bulla Gastrobar",
+      "snippet": "Join us Sunday, May 10th, starting at 10 AM, to celebrate Mother's Day with a special brunch.",
+      "suggestedCategory": "Food",
+      "confidence": "high",
+      "matchedKeywords": [
+        "specials?",
+        "brunch"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-bulla-gastrobar-tampa-3-celebrate-mom-with-a-special-bru",
+      "venueId": "prospect-bulla-gastrobar-tampa",
+      "venueName": "Bulla Gastrobar Tampa",
+      "neighborhood": "SoHo",
+      "sourceKind": "prospect",
+      "placeId": "ChIJzXMD72bDwogRUmY0GaY63xI",
+      "status": "pending",
+      "sourceUrl": "https://bullagastrobar.com/locations/tampa/",
+      "sourceTitle": "Spanish restaurant & Tapas in Tampa, FL | Bulla Gastrobar",
+      "snippet": "CELEBRATE MOM WITH A SPECIAL BRUNCH",
+      "suggestedCategory": "Food",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "specials?",
+        "brunch"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-bulla-gastrobar-tampa-4-plus-mom-will-receive-a-20-gift-",
+      "venueId": "prospect-bulla-gastrobar-tampa",
+      "venueName": "Bulla Gastrobar Tampa",
+      "neighborhood": "SoHo",
+      "sourceKind": "prospect",
+      "placeId": "ChIJzXMD72bDwogRUmY0GaY63xI",
+      "status": "pending",
+      "sourceUrl": "https://bullagastrobar.com/locations/tampa/",
+      "sourceTitle": "Spanish restaurant & Tapas in Tampa, FL | Bulla Gastrobar",
+      "snippet": "Plus, mom will receive a $20 gift card to&hellip;",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-bulla-gastrobar-tampa-5-subscribe-to-our-mailing-list-fo",
+      "venueId": "prospect-bulla-gastrobar-tampa",
+      "venueName": "Bulla Gastrobar Tampa",
+      "neighborhood": "SoHo",
+      "sourceKind": "prospect",
+      "placeId": "ChIJzXMD72bDwogRUmY0GaY63xI",
+      "status": "pending",
+      "sourceUrl": "https://bullagastrobar.com/menus/aventura/",
+      "sourceTitle": "Aventura - Bulla Gastrobar",
+      "snippet": "Subscribe to our mailing list for news and specials",
+      "suggestedCategory": "Drinks",
+      "confidence": "low",
+      "matchedKeywords": [
+        "specials?"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-bulla-gastrobar-tampa-6-happy-hour-food-bar-only",
+      "venueId": "prospect-bulla-gastrobar-tampa",
+      "venueName": "Bulla Gastrobar Tampa",
+      "neighborhood": "SoHo",
+      "sourceKind": "prospect",
+      "placeId": "ChIJzXMD72bDwogRUmY0GaY63xI",
+      "status": "pending",
+      "sourceUrl": "https://bullagastrobar.com/menus/aventura/",
+      "sourceTitle": "Aventura - Bulla Gastrobar",
+      "snippet": "HAPPY HOUR FOOD - BAR ONLY",
+      "suggestedCategory": "Drinks",
+      "confidence": "low",
+      "matchedKeywords": [
+        "happy hour"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-cigar-city-brewing-spruce-street-brewery-taproom-1-this-room-is-the-perfect-spot-fo",
+      "venueId": "prospect-cigar-city-brewing-spruce-street-brewery-taproom",
+      "venueName": "Cigar City Brewing Spruce Street Brewery & Taproom",
+      "neighborhood": "Tampa",
+      "sourceKind": "prospect",
+      "placeId": "ChIJi7fzBTnCwogRq4GVtqfGawY",
+      "status": "pending",
+      "sourceUrl": "https://cigarcitybrewing.com/private-events/",
+      "sourceTitle": "Private Events | Cigar City Brewing",
+      "snippet": "This room is the perfect spot for private dinners, happy hours, bridal/baby showers, lectures, wine/beer tastings, and much more.",
+      "suggestedCategory": "Drinks",
+      "confidence": "low",
+      "matchedKeywords": [
+        "wine",
+        "beer"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-florida-avenue-brewing-co-1-beyond-the-brews-indulge-in-hand",
+      "venueId": "prospect-florida-avenue-brewing-co",
+      "venueName": "Florida Avenue Brewing Co.",
+      "neighborhood": "Tampa",
+      "sourceKind": "prospect",
+      "placeId": "ChIJf_GumVXFwogR3KW00_zdKw0",
+      "status": "pending",
+      "sourceUrl": "https://floridaavebrewing.com/event/hidden-tiki-tap-takeover-tampa-2026-05-02/",
+      "sourceTitle": "Hidden Tiki Tap Takeover | Tampa | Florida Avenue Brewing",
+      "snippet": "Beyond the brews, indulge in hand-crafted tiki cocktails, each a treasure map to flavor, and savor food specials that will transport your taste buds to a sun-drenched paradise.",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "specials?"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-florida-avenue-brewing-co-2-happy-hour-wesley-chapel",
+      "venueId": "prospect-florida-avenue-brewing-co",
+      "venueName": "Florida Avenue Brewing Co.",
+      "neighborhood": "Tampa",
+      "sourceKind": "prospect",
+      "placeId": "ChIJf_GumVXFwogR3KW00_zdKw0",
+      "status": "pending",
+      "sourceUrl": "https://floridaavebrewing.com/",
+      "sourceTitle": "Florida Avenue Brewing Co. &#x2d; Brewed For Sharing",
+      "snippet": "Happy Hour @ Wesley Chapel",
+      "suggestedCategory": "Drinks",
+      "confidence": "low",
+      "matchedKeywords": [
+        "happy hour"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-florida-avenue-brewing-co-3-happy-hour-liquid-garden",
+      "venueId": "prospect-florida-avenue-brewing-co",
+      "venueName": "Florida Avenue Brewing Co.",
+      "neighborhood": "Tampa",
+      "sourceKind": "prospect",
+      "placeId": "ChIJf_GumVXFwogR3KW00_zdKw0",
+      "status": "pending",
+      "sourceUrl": "https://floridaavebrewing.com/",
+      "sourceTitle": "Florida Avenue Brewing Co. &#x2d; Brewed For Sharing",
+      "snippet": "Happy Hour @ Liquid Garden",
+      "suggestedCategory": "Drinks",
+      "confidence": "low",
+      "matchedKeywords": [
+        "happy hour"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-irish-31-pub-house-eatery-1-substitute-a-vegan-black-bean-pa",
+      "venueId": "prospect-irish-31-pub-house-eatery",
+      "venueName": "Irish 31 Pub House & Eatery",
+      "neighborhood": "SoHo",
+      "sourceKind": "prospect",
+      "placeId": "ChIJufAqa2LDwogRlL9MutPaUdI",
+      "status": "pending",
+      "sourceUrl": "https://irish31.com/menu/",
+      "sourceTitle": "Menu - Irish 31",
+      "snippet": "Substitute a vegan black bean patty on any burger for $1.",
+      "suggestedCategory": "Food",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+",
+        "burger(?:s)?"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-irish-31-pub-house-eatery-2-monday-thru-friday-our-irish-31-",
+      "venueId": "prospect-irish-31-pub-house-eatery",
+      "venueName": "Irish 31 Pub House & Eatery",
+      "neighborhood": "SoHo",
+      "sourceKind": "prospect",
+      "placeId": "ChIJufAqa2LDwogRlL9MutPaUdI",
+      "status": "pending",
+      "sourceUrl": "https://irish31.com/menu/",
+      "sourceTitle": "Menu - Irish 31",
+      "snippet": "Monday thru Friday, our Irish 31 Happy Hour starts at 3pm and doesn't end until 7pm!",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "happy hour"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-irish-31-pub-house-eatery-3-no-worries-we-have-incredible-dr",
+      "venueId": "prospect-irish-31-pub-house-eatery",
+      "venueName": "Irish 31 Pub House & Eatery",
+      "neighborhood": "SoHo",
+      "sourceKind": "prospect",
+      "placeId": "ChIJufAqa2LDwogRlL9MutPaUdI",
+      "status": "pending",
+      "sourceUrl": "https://irish31.com/menu/",
+      "sourceTitle": "Menu - Irish 31",
+      "snippet": "No worries – we have incredible drink specials all day long!",
+      "suggestedCategory": "Drinks",
+      "confidence": "low",
+      "matchedKeywords": [
+        "specials?"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-irish-31-pub-house-eatery-4-all-day-every-day-specials",
+      "venueId": "prospect-irish-31-pub-house-eatery",
+      "venueName": "Irish 31 Pub House & Eatery",
+      "neighborhood": "SoHo",
+      "sourceKind": "prospect",
+      "placeId": "ChIJufAqa2LDwogRlL9MutPaUdI",
+      "status": "pending",
+      "sourceUrl": "https://irish31.com/menu/",
+      "sourceTitle": "Menu - Irish 31",
+      "snippet": "ALL DAY EVERY DAY SPECIALS",
+      "suggestedCategory": "Drinks",
+      "confidence": "low",
+      "matchedKeywords": [
+        "specials?"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-columbia-cafe-at-the-tampa-bay-history-center-1-sunday-dinner-always-would-begin",
+      "venueId": "prospect-columbia-cafe-at-the-tampa-bay-history-center",
+      "venueName": "Columbia Cafe at the Tampa Bay History Center",
+      "neighborhood": "Channelside",
+      "sourceKind": "prospect",
+      "placeId": "ChIJyz7ELojEwogRsjrgE32aIyE",
+      "status": "pending",
+      "sourceUrl": "https://www.columbiarestaurant.com/columbia-cafe-at-the-tbhc",
+      "sourceTitle": "Columbia Cafe at the Tampa Bay History Center | Columbia Restaurant",
+      "snippet": "Sunday dinner always would begin with our grandmother and great-grandmother Carmen Hernandez's special recipe for chicken croquettes.",
+      "suggestedCategory": "Drinks",
+      "confidence": "low",
+      "matchedKeywords": [
+        "specials?"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-columbia-cafe-at-the-tampa-bay-history-center-2-cuba-x27-s-most-popular-blue-pla",
+      "venueId": "prospect-columbia-cafe-at-the-tampa-bay-history-center",
+      "venueName": "Columbia Cafe at the Tampa Bay History Center",
+      "neighborhood": "Channelside",
+      "sourceKind": "prospect",
+      "placeId": "ChIJyz7ELojEwogRsjrgE32aIyE",
+      "status": "pending",
+      "sourceUrl": "https://www.columbiarestaurant.com/columbia-cafe-at-the-tbhc",
+      "sourceTitle": "Columbia Cafe at the Tampa Bay History Center | Columbia Restaurant",
+      "snippet": "Cuba&#x27;s most popular blue plate special.",
+      "suggestedCategory": "Drinks",
+      "confidence": "low",
+      "matchedKeywords": [
+        "specials?"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-columbia-cafe-at-the-tampa-bay-history-center-3-our-great-grandmother-x27-s-spec",
+      "venueId": "prospect-columbia-cafe-at-the-tampa-bay-history-center",
+      "venueName": "Columbia Cafe at the Tampa Bay History Center",
+      "neighborhood": "Channelside",
+      "sourceKind": "prospect",
+      "placeId": "ChIJyz7ELojEwogRsjrgE32aIyE",
+      "status": "pending",
+      "sourceUrl": "https://www.columbiarestaurant.com/columbia-cafe-at-the-tbhc",
+      "sourceTitle": "Columbia Cafe at the Tampa Bay History Center | Columbia Restaurant",
+      "snippet": "Our great-grandmother&#x27;s special recipe",
+      "suggestedCategory": "Drinks",
+      "confidence": "low",
+      "matchedKeywords": [
+        "specials?"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-common-dialect-beerworks-1-we-have-a-great-selection-of-win",
+      "venueId": "prospect-common-dialect-beerworks",
+      "venueName": "Common Dialect Beerworks",
+      "neighborhood": "Tampa",
+      "sourceKind": "prospect",
+      "placeId": "ChIJd0Y12wTFwogRSTylifrBZp4",
+      "status": "pending",
+      "sourceUrl": "https://www.commondialectbeer.com/localevents",
+      "sourceTitle": "FAQs | Common Dialect Beerworks | Tampa, FL",
+      "snippet": "We have a great selection of wine (and bubbles), spiked and NA seltzers, rotating canned tea options , NA beers, root beer , and juice pouches!",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "wine",
+        "beer",
+        "seltzers?"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-common-dialect-beerworks-2-we-are-stocked-with-beer-wine-an",
+      "venueId": "prospect-common-dialect-beerworks",
+      "venueName": "Common Dialect Beerworks",
+      "neighborhood": "Tampa",
+      "sourceKind": "prospect",
+      "placeId": "ChIJd0Y12wTFwogRSTylifrBZp4",
+      "status": "pending",
+      "sourceUrl": "https://www.commondialectbeer.com/localevents",
+      "sourceTitle": "FAQs | Common Dialect Beerworks | Tampa, FL",
+      "snippet": "We are stocked with beer, wine, and NA options.",
+      "suggestedCategory": "Drinks",
+      "confidence": "low",
+      "matchedKeywords": [
+        "wine",
+        "beer"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-deviant-libation-1-terror-bay-distro-presents-ocean",
+      "venueId": "prospect-deviant-libation",
+      "venueName": "Deviant Libation",
+      "neighborhood": "Tampa",
+      "sourceKind": "prospect",
+      "placeId": "ChIJkRpVRjzFwogRil2u11kHzHI",
+      "status": "pending",
+      "sourceUrl": "https://deviantlibation.com/deviant-events/",
+      "sourceTitle": "Deviant Libation | Upcoming Events & Private Events",
+      "snippet": "TERROR BAY DISTRO PRESENTS: Oceans Rise | Lungburner (ATL) | Pipe Dreamer | Secret Set | Death Posture Doors @ 6pm Show @ 7pm $10",
+      "suggestedCategory": "Drinks",
+      "confidence": "high",
+      "matchedKeywords": [
+        "\\$\\d+",
+        "show",
+        "doors?"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-deviant-libation-2-locust-parade-gig-permanent-make",
+      "venueId": "prospect-deviant-libation",
+      "venueName": "Deviant Libation",
+      "neighborhood": "Tampa",
+      "sourceKind": "prospect",
+      "placeId": "ChIJkRpVRjzFwogRil2u11kHzHI",
+      "status": "pending",
+      "sourceUrl": "https://deviantlibation.com/deviant-events/",
+      "sourceTitle": "Deviant Libation | Upcoming Events & Private Events",
+      "snippet": "LOCUST PARADE GIG: PERMANENT MAKEUP | DEEP BITE | PLEASURE CUBE (MN) | KNIFE RITUALS 7PM DOORS 8PM SHOW $15",
+      "suggestedCategory": "Drinks",
+      "confidence": "high",
+      "matchedKeywords": [
+        "\\$\\d+",
+        "show",
+        "doors?"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-deviant-libation-3-jonny-s-super-duper-fun-birthday",
+      "venueId": "prospect-deviant-libation",
+      "venueName": "Deviant Libation",
+      "neighborhood": "Tampa",
+      "sourceKind": "prospect",
+      "placeId": "ChIJkRpVRjzFwogRil2u11kHzHI",
+      "status": "pending",
+      "sourceUrl": "https://deviantlibation.com/deviant-events/",
+      "sourceTitle": "Deviant Libation | Upcoming Events & Private Events",
+      "snippet": "Jonny's Super Duper Fun Birthday Show: Abortion Twins | Offset Era | The Low Cards Doors 7pm Music 8pm $10",
+      "suggestedCategory": "Drinks",
+      "confidence": "high",
+      "matchedKeywords": [
+        "\\$\\d+",
+        "show",
+        "doors?"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-deviant-libation-4-this-loyalty-program-offers-seve",
+      "venueId": "prospect-deviant-libation",
+      "venueName": "Deviant Libation",
+      "neighborhood": "Tampa",
+      "sourceKind": "prospect",
+      "placeId": "ChIJkRpVRjzFwogRil2u11kHzHI",
+      "status": "pending",
+      "sourceUrl": "https://deviantlibation.com/",
+      "sourceTitle": "Deviant Libation | Tampa&#039;s Premier Brewery & Distillery Located In Ybor Heights | 33603",
+      "snippet": "This loyalty program offers several exclusive benefits, including a 15% discount on all merchandise, a $1 discount on all draft beer, and a 10% discount on all packaged beer.",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+",
+        "draft(?:s)?",
+        "beer"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-miller-s-ale-house-1-lunch-specials-are-available-mon",
+      "venueId": "prospect-miller-s-ale-house",
+      "venueName": "Miller's Ale House",
+      "neighborhood": "Tampa",
+      "sourceKind": "prospect",
+      "placeId": "ChIJM8VKwq_DwogR1syjySCWcOg",
+      "status": "pending",
+      "sourceUrl": "https://millersalehouse.com/specials/",
+      "sourceTitle": "Restaurant Deals & Drink Specials | Miller&#039;s Ale House",
+      "snippet": "Lunch specials are available Monday – Friday from Open - 4PM.",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "specials?"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-miller-s-ale-house-2-skip-to-main-content-limited-tim",
+      "venueId": "prospect-miller-s-ale-house",
+      "venueName": "Miller's Ale House",
+      "neighborhood": "Tampa",
+      "sourceKind": "prospect",
+      "placeId": "ChIJM8VKwq_DwogR1syjySCWcOg",
+      "status": "pending",
+      "sourceUrl": "https://millersalehouse.com/locations/tampa/",
+      "sourceTitle": "Miller&#039;s Ale House - Tampa | Restaurant & Sports Bar",
+      "snippet": "Skip to Main Content 🚨 LIMITED TIME OFFER: Buy a $50 Gift Card and receive a $10 Bonus | Buy Gift Cards",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-miller-s-ale-house-3-available-for-pick-up-and-delive",
+      "venueId": "prospect-miller-s-ale-house",
+      "venueName": "Miller's Ale House",
+      "neighborhood": "Tampa",
+      "sourceKind": "prospect",
+      "placeId": "ChIJM8VKwq_DwogR1syjySCWcOg",
+      "status": "pending",
+      "sourceUrl": "https://millersalehouse.com/specials/",
+      "sourceTitle": "Restaurant Deals & Drink Specials | Miller&#039;s Ale House",
+      "snippet": "Available for pick-up and delivery with $15 minimum purchase.",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-miller-s-ale-house-4-get-free-zingers-on-your-next-20",
+      "venueId": "prospect-miller-s-ale-house",
+      "venueName": "Miller's Ale House",
+      "neighborhood": "Tampa",
+      "sourceKind": "prospect",
+      "placeId": "ChIJM8VKwq_DwogR1syjySCWcOg",
+      "status": "pending",
+      "sourceUrl": "https://millersalehouse.com/locations/tampa/",
+      "sourceTitle": "Miller&#039;s Ale House - Tampa | Restaurant & Sports Bar",
+      "snippet": "Get FREE Zingers® on your next $20 purchase when you join.",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-miller-s-ale-house-5-get-one-free-kids-meal-with-purc",
+      "venueId": "prospect-miller-s-ale-house",
+      "venueName": "Miller's Ale House",
+      "neighborhood": "Tampa",
+      "sourceKind": "prospect",
+      "placeId": "ChIJM8VKwq_DwogR1syjySCWcOg",
+      "status": "pending",
+      "sourceUrl": "https://millersalehouse.com/specials/",
+      "sourceTitle": "Restaurant Deals & Drink Specials | Miller&#039;s Ale House",
+      "snippet": "Get one FREE kids meal with purchase of $10 food item.",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-morgan-s-cove-1-make-any-wine-a-9-oz-pour-for-4",
+      "venueId": "prospect-morgan-s-cove",
+      "venueName": "Morgan’s Cove",
+      "neighborhood": "Channelside",
+      "sourceKind": "prospect",
+      "placeId": "ChIJRxXOTQDFwogRwF74OMPdvhg",
+      "status": "pending",
+      "sourceUrl": "https://morganscovetampa.com/menu/",
+      "sourceTitle": "Morgan&#039;s Cove Menu - Morgan&#039;s Cove",
+      "snippet": "Make any wine a 9 oz pour for +$4",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+",
+        "wine"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-morgan-s-cove-2-gochujang-glazed-wings-35",
+      "venueId": "prospect-morgan-s-cove",
+      "venueName": "Morgan’s Cove",
+      "neighborhood": "Channelside",
+      "sourceKind": "prospect",
+      "placeId": "ChIJRxXOTQDFwogRwF74OMPdvhg",
+      "status": "pending",
+      "sourceUrl": "https://morganscovetampa.com/private-events/",
+      "sourceTitle": "Private Events - Morgan&#039;s Cove",
+      "snippet": "Gochujang Glazed Wings • $35",
+      "suggestedCategory": "Food",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+",
+        "wing(?:s)?"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-morgan-s-cove-3-don-q-gold-puerto-rican-rum-vani",
+      "venueId": "prospect-morgan-s-cove",
+      "venueName": "Morgan’s Cove",
+      "neighborhood": "Channelside",
+      "sourceKind": "prospect",
+      "placeId": "ChIJRxXOTQDFwogRwF74OMPdvhg",
+      "status": "pending",
+      "sourceUrl": "https://morganscovetampa.com/menu/",
+      "sourceTitle": "Morgan&#039;s Cove Menu - Morgan&#039;s Cove",
+      "snippet": "Don Q Gold Puerto Rican Rum | Vanilla | Allspice | Cinnamon | Acid Adjusted Orange Juice - Make it a \"Skrewy Nui\" with Agua Magica Espadin Mezcal - $14",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-morgan-s-cove-4-cx-v-i-o-l-b-q-f-b-ndzt-1-p-0-b",
+      "venueId": "prospect-morgan-s-cove",
+      "venueName": "Morgan’s Cove",
+      "neighborhood": "Channelside",
+      "sourceKind": "prospect",
+      "placeId": "ChIJRxXOTQDFwogRwF74OMPdvhg",
+      "status": "pending",
+      "sourceUrl": "https://morganscovetampa.com/wp-content/uploads/2024/07/MC_Menu_WEB_0724.pdf",
+      "sourceTitle": "",
+      "snippet": "�\"���cX;�V.�\u0012I$ܒ|�O���\u0018�l,b�\u0010� \u0004Q�\u0000F�b�|�.\u0010�\bNdZt���\u0011\u0014!\u00031�]�/�p$0��[\u000e� b\u0010���",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-morgan-s-cove-5-m-1-3aqr-2aq-b-r-cts-4esbc",
+      "venueId": "prospect-morgan-s-cove",
+      "venueName": "Morgan’s Cove",
+      "neighborhood": "Channelside",
+      "sourceKind": "prospect",
+      "placeId": "ChIJRxXOTQDFwogRwF74OMPdvhg",
+      "status": "pending",
+      "sourceUrl": "https://morganscovetampa.com/wp-content/uploads/2024/07/MC_Menu_WEB_0724.pdf",
+      "sourceTitle": "",
+      "snippet": "\u0010\u0000\u0002\u0001\u0003\u0002\u0002\u0007\u0005\u0001\u0006\u0004\u0006m\u0001\u0000\u0001\u0002\u0003\u0000\u0004\u0011\u0005\u0012!1\u0006\u00133AQr�\u0014\"2aq�\u0015#B���R���\u0007\u0016CTs�$4ESbc�������\b",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-morgan-s-cove-6-2r-1-aq-aq-r-3b-4",
+      "venueId": "prospect-morgan-s-cove",
+      "venueName": "Morgan’s Cove",
+      "neighborhood": "Channelside",
+      "sourceKind": "prospect",
+      "placeId": "ChIJRxXOTQDFwogRwF74OMPdvhg",
+      "status": "pending",
+      "sourceUrl": "https://morganscovetampa.com/wp-content/uploads/2024/07/MC_Menu_WEB_0724.pdf",
+      "sourceTitle": "",
+      "snippet": "\u0010\u0000\u0002\u0001\u0002\u0005\u0003\u0000\u0004\u0004\u0005\u0004\u0003�\u0000\u0000\u0000\u0001\u0002\u0000\u0003\u0011\u0004\u00122r�\u0005!1\u0013\"AQ\u0014aq�\u0006#R��3B��\u0015$4\u0007\b",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-morgan-s-cove-7-homemade-chicken-tenders-45",
+      "venueId": "prospect-morgan-s-cove",
+      "venueName": "Morgan’s Cove",
+      "neighborhood": "Channelside",
+      "sourceKind": "prospect",
+      "placeId": "ChIJRxXOTQDFwogRwF74OMPdvhg",
+      "status": "pending",
+      "sourceUrl": "https://morganscovetampa.com/private-events/",
+      "sourceTitle": "Private Events - Morgan&#039;s Cove",
+      "snippet": "Homemade Chicken Tenders • $45",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-morgan-s-cove-8-krispy-brussels-sprouts-28",
+      "venueId": "prospect-morgan-s-cove",
+      "venueName": "Morgan’s Cove",
+      "neighborhood": "Channelside",
+      "sourceKind": "prospect",
+      "placeId": "ChIJRxXOTQDFwogRwF74OMPdvhg",
+      "status": "pending",
+      "sourceUrl": "https://morganscovetampa.com/private-events/",
+      "sourceTitle": "Private Events - Morgan&#039;s Cove",
+      "snippet": "Krispy Brussels Sprouts • $28",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-morgan-s-cove-9-peg-leg-pretzel-bites-25",
+      "venueId": "prospect-morgan-s-cove",
+      "venueName": "Morgan’s Cove",
+      "neighborhood": "Channelside",
+      "sourceKind": "prospect",
+      "placeId": "ChIJRxXOTQDFwogRwF74OMPdvhg",
+      "status": "pending",
+      "sourceUrl": "https://morganscovetampa.com/private-events/",
+      "sourceTitle": "Private Events - Morgan&#039;s Cove",
+      "snippet": "Peg-Leg Pretzel Bites • $25",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-morgan-s-cove-10-devils-on-horseback-65",
+      "venueId": "prospect-morgan-s-cove",
+      "venueName": "Morgan’s Cove",
+      "neighborhood": "Channelside",
+      "sourceKind": "prospect",
+      "placeId": "ChIJRxXOTQDFwogRwF74OMPdvhg",
+      "status": "pending",
+      "sourceUrl": "https://morganscovetampa.com/private-events/",
+      "sourceTitle": "Private Events - Morgan&#039;s Cove",
+      "snippet": "Devils on Horseback • $65",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-morgan-s-cove-11-firecracker-shrimp-48",
+      "venueId": "prospect-morgan-s-cove",
+      "venueName": "Morgan’s Cove",
+      "neighborhood": "Channelside",
+      "sourceKind": "prospect",
+      "placeId": "ChIJRxXOTQDFwogRwF74OMPdvhg",
+      "status": "pending",
+      "sourceUrl": "https://morganscovetampa.com/private-events/",
+      "sourceTitle": "Private Events - Morgan&#039;s Cove",
+      "snippet": "Firecracker Shrimp • $48",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-7th-grove-1-1-25-wings-min-order-5-4-margari",
+      "venueId": "prospect-7th-grove",
+      "venueName": "7th + Grove",
+      "neighborhood": "Ybor",
+      "sourceKind": "prospect",
+      "placeId": "ChIJmfFGVBPFwogRIYyNhvz3X9Y",
+      "status": "pending",
+      "sourceUrl": "https://7thandgrove.com/tampa-7th-and-grove-happy-hours-specials",
+      "sourceTitle": "7th and Grove - Specials",
+      "snippet": "$1.25 Wings ( Min Order 5)- $4 Margaritas- $10 Daily Sandwich Deals (add fries and drink for $5 more) $3 Seltzers.",
+      "suggestedCategory": "Food",
+      "confidence": "high",
+      "matchedKeywords": [
+        "deal(?:s)?",
+        "\\$\\d+",
+        "margarita(?:s)?",
+        "wing(?:s)?",
+        "sandwich(?:es)?",
+        "seltzers?"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-7th-grove-2-1-25-wings-min-order-5-5-margari",
+      "venueId": "prospect-7th-grove",
+      "venueName": "7th + Grove",
+      "neighborhood": "Ybor",
+      "sourceKind": "prospect",
+      "placeId": "ChIJmfFGVBPFwogRIYyNhvz3X9Y",
+      "status": "pending",
+      "sourceUrl": "https://7thandgrove.com/tampa-7th-and-grove-happy-hours-specials",
+      "sourceTitle": "7th and Grove - Specials",
+      "snippet": "$1.25 Wings ( Min Order 5)- $5 Margaritas- $10 Daily Sandwich Deals (add fries and drink for $5 more) $2 Seltzers.",
+      "suggestedCategory": "Food",
+      "confidence": "high",
+      "matchedKeywords": [
+        "deal(?:s)?",
+        "\\$\\d+",
+        "margarita(?:s)?",
+        "wing(?:s)?",
+        "sandwich(?:es)?",
+        "seltzers?"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-7th-grove-3-social-hour-1-25-wings-min-order",
+      "venueId": "prospect-7th-grove",
+      "venueName": "7th + Grove",
+      "neighborhood": "Ybor",
+      "sourceKind": "prospect",
+      "placeId": "ChIJmfFGVBPFwogRIYyNhvz3X9Y",
+      "status": "pending",
+      "sourceUrl": "https://7thandgrove.com/",
+      "sourceTitle": "7th and Grove - Tampa, FL",
+      "snippet": "Social Hour - $1.25 wings ( min order of 5 )- $2 Seltzers - $3 shots - $4 Margaritas - $5 Smash Burgers- $6 Martinis",
+      "suggestedCategory": "Food",
+      "confidence": "high",
+      "matchedKeywords": [
+        "\\$\\d+",
+        "margarita(?:s)?",
+        "martini(?:s)?",
+        "wing(?:s)?",
+        "burger(?:s)?",
+        "shot(?:s)?",
+        "seltzers?"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-bern-s-steak-house-1-make-it-a-true-bern-s-steak-hous",
+      "venueId": "prospect-bern-s-steak-house",
+      "venueName": "Bern's Steak House",
+      "neighborhood": "SoHo",
+      "sourceKind": "prospect",
+      "placeId": "ChIJKQXHdmfDwogRJFCLuT7eJ6I",
+      "status": "pending",
+      "sourceUrl": "https://bernssteakhouse.com/our-menus/",
+      "sourceTitle": "Our Menus | Bern&#039;s Steak House",
+      "snippet": "Make it a true Bern's Steak House experience for an additional $26 per person: french onion soup, house salad, baked potato, onion rings and the vegetable of the evening.",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-bern-s-steak-house-2-honeycomb-7-white-truffle-honey-",
+      "venueId": "prospect-bern-s-steak-house",
+      "venueName": "Bern's Steak House",
+      "neighborhood": "SoHo",
+      "sourceKind": "prospect",
+      "placeId": "ChIJKQXHdmfDwogRJFCLuT7eJ6I",
+      "status": "pending",
+      "sourceUrl": "https://bernssteakhouse.com/our-menus/",
+      "sourceTitle": "Our Menus | Bern&#039;s Steak House",
+      "snippet": "Honeycomb $7, White Truffle Honey $8, Olives $7",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-bern-s-steak-house-3-dry-aged-special-chateaubriand-c",
+      "venueId": "prospect-bern-s-steak-house",
+      "venueName": "Bern's Steak House",
+      "neighborhood": "SoHo",
+      "sourceKind": "prospect",
+      "placeId": "ChIJKQXHdmfDwogRJFCLuT7eJ6I",
+      "status": "pending",
+      "sourceUrl": "https://bernssteakhouse.com/our-menus/",
+      "sourceTitle": "Our Menus | Bern&#039;s Steak House",
+      "snippet": "Dry-Aged Special Chateaubriand Carpaccio",
+      "suggestedCategory": "Drinks",
+      "confidence": "low",
+      "matchedKeywords": [
+        "specials?"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-hattricks-1-3-12oz-bud-light-drafts",
+      "venueId": "prospect-hattricks",
+      "venueName": "Hattricks",
+      "neighborhood": "Channelside",
+      "sourceKind": "prospect",
+      "placeId": "ChIJB1L_XIzEwogR1Eslu42A1NQ",
+      "status": "pending",
+      "sourceUrl": "https://hattrickstavern.com/happy-hour/",
+      "sourceTitle": "Browse Happy Hour and Gameday Specials | Happy Hour Menu",
+      "snippet": "$3 12oz Bud Light Drafts",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+",
+        "draft(?:s)?"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-hattricks-2-explore-our-happy-hour-deals",
+      "venueId": "prospect-hattricks",
+      "venueName": "Hattricks",
+      "neighborhood": "Channelside",
+      "sourceKind": "prospect",
+      "placeId": "ChIJB1L_XIzEwogR1Eslu42A1NQ",
+      "status": "pending",
+      "sourceUrl": "https://hattrickstavern.com/menu/",
+      "sourceTitle": "Browse Appetizers, Sandwiches & Entrees | Food Menu",
+      "snippet": "EXPLORE OUR HAPPY HOUR DEALS",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "happy hour",
+        "deal(?:s)?"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-hattricks-3-happy-hour-chicken-wings",
+      "venueId": "prospect-hattricks",
+      "venueName": "Hattricks",
+      "neighborhood": "Channelside",
+      "sourceKind": "prospect",
+      "placeId": "ChIJB1L_XIzEwogR1Eslu42A1NQ",
+      "status": "pending",
+      "sourceUrl": "https://hattrickstavern.com/happy-hour/",
+      "sourceTitle": "Browse Happy Hour and Gameday Specials | Happy Hour Menu",
+      "snippet": "HAPPY HOUR Chicken Wings",
+      "suggestedCategory": "Food",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "happy hour",
+        "wing(?:s)?"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-hattricks-4-available-on-orders-of-300-or-mo",
+      "venueId": "prospect-hattricks",
+      "venueName": "Hattricks",
+      "neighborhood": "Channelside",
+      "sourceKind": "prospect",
+      "placeId": "ChIJB1L_XIzEwogR1Eslu42A1NQ",
+      "status": "pending",
+      "sourceUrl": "https://hattrickstavern.com/catering-menu/",
+      "sourceTitle": "Hattricks&#039; Catering Menu",
+      "snippet": "Available on orders of $300 or more with 24 hours' notice, and an 18% service charge",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-hattricks-5-add-mushroom-guiness-gravy-swiss",
+      "venueId": "prospect-hattricks",
+      "venueName": "Hattricks",
+      "neighborhood": "Channelside",
+      "sourceKind": "prospect",
+      "placeId": "ChIJB1L_XIzEwogR1Eslu42A1NQ",
+      "status": "pending",
+      "sourceUrl": "https://hattrickstavern.com/menu/",
+      "sourceTitle": "Browse Appetizers, Sandwiches & Entrees | Food Menu",
+      "snippet": "Add Mushroom, Guiness Gravy, & Swiss Cheese $15.50",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-hattricks-6-try-it-club-style-14-50",
+      "venueId": "prospect-hattricks",
+      "venueName": "Hattricks",
+      "neighborhood": "Channelside",
+      "sourceKind": "prospect",
+      "placeId": "ChIJB1L_XIzEwogR1Eslu42A1NQ",
+      "status": "pending",
+      "sourceUrl": "https://hattrickstavern.com/menu/",
+      "sourceTitle": "Browse Appetizers, Sandwiches & Entrees | Food Menu",
+      "snippet": "Try it Club Style $14.50",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-hattricks-7-many-consider-this-the-number-on",
+      "venueId": "prospect-hattricks",
+      "venueName": "Hattricks",
+      "neighborhood": "Channelside",
+      "sourceKind": "prospect",
+      "placeId": "ChIJB1L_XIzEwogR1Eslu42A1NQ",
+      "status": "pending",
+      "sourceUrl": "https://hattrickstavern.com/",
+      "sourceTitle": "Hattricks Sports Bar and Restaurant in Tampa, FL | Hattricks",
+      "snippet": "Many consider this THE number one spot for Tampa Bay Lightning pregame parties, postgame celebrations and any special events or concerts happening at Amalie Arena or the Tampa Convention Center.",
+      "suggestedCategory": "Drinks",
+      "confidence": "low",
+      "matchedKeywords": [
+        "specials?"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-hattricks-8-check-out-our-regular-menu-or-fo",
+      "venueId": "prospect-hattricks",
+      "venueName": "Hattricks",
+      "neighborhood": "Channelside",
+      "sourceKind": "prospect",
+      "placeId": "ChIJB1L_XIzEwogR1Eslu42A1NQ",
+      "status": "pending",
+      "sourceUrl": "https://hattrickstavern.com/",
+      "sourceTitle": "Hattricks Sports Bar and Restaurant in Tampa, FL | Hattricks",
+      "snippet": "Check out our regular menu — or, for a change of pace, view our limited-time Hattricks specials.",
+      "suggestedCategory": "Food",
+      "confidence": "low",
+      "matchedKeywords": [
+        "specials?"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-hattricks-9-enjoy-some-burgers-and-sandwiche",
+      "venueId": "prospect-hattricks",
+      "venueName": "Hattricks",
+      "neighborhood": "Channelside",
+      "sourceKind": "prospect",
+      "placeId": "ChIJB1L_XIzEwogR1Eslu42A1NQ",
+      "status": "pending",
+      "sourceUrl": "https://hattrickstavern.com/menu/",
+      "sourceTitle": "Browse Appetizers, Sandwiches & Entrees | Food Menu",
+      "snippet": "Enjoy some burgers and sandwiches - a Hattrick's staple.",
+      "suggestedCategory": "Food",
+      "confidence": "low",
+      "matchedKeywords": [
+        "burger(?:s)?",
+        "sandwich(?:es)?"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-the-castle-1-cover-charge-10-for-21-15-for-18",
+      "venueId": "prospect-the-castle",
+      "venueName": "The Castle",
+      "neighborhood": "Ybor",
+      "sourceKind": "prospect",
+      "placeId": "ChIJw3ZLa1DEwogR3B-B1fQW7UM",
+      "status": "pending",
+      "sourceUrl": "https://castleybor.com/",
+      "sourceTitle": "Castle Ybor &#8211; Ybor City&#039;s BEST Dance Club!",
+      "snippet": "Cover charge: $10 for 21+ & $15 for 18-20Doors at 10:00[&#8230;]",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-the-castle-2-cover-15-for-21-and-20-for-18-82",
+      "venueId": "prospect-the-castle",
+      "venueName": "The Castle",
+      "neighborhood": "Ybor",
+      "sourceKind": "prospect",
+      "placeId": "ChIJw3ZLa1DEwogR3B-B1fQW7UM",
+      "status": "pending",
+      "sourceUrl": "https://castleybor.com/?cpt_events=80s-video-night-in-the-dungeon-60",
+      "sourceTitle": "80'S VIDEO NIGHT in the Dungeon &#8211; Castle Ybor",
+      "snippet": "Cover $15 for 21+ and $20 for 18 &#8211; 20",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-the-castle-3-cover-15-for-21-and-20-for-18-20",
+      "venueId": "prospect-the-castle",
+      "venueName": "The Castle",
+      "neighborhood": "Ybor",
+      "sourceKind": "prospect",
+      "placeId": "ChIJw3ZLa1DEwogR3B-B1fQW7UM",
+      "status": "pending",
+      "sourceUrl": "https://castleybor.com/?cpt_events=midnight-mass",
+      "sourceTitle": "MIDNIGHT MASS &#8211; Castle Ybor",
+      "snippet": "Cover : $15 for 21+ and $20 for 18-20",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-the-castle-4-there-is-no-dress-code-except-fo",
+      "venueId": "prospect-the-castle",
+      "venueName": "The Castle",
+      "neighborhood": "Ybor",
+      "sourceKind": "prospect",
+      "placeId": "ChIJw3ZLa1DEwogR3B-B1fQW7UM",
+      "status": "pending",
+      "sourceUrl": "https://castleybor.com/?cpt_events=midnight-mass",
+      "sourceTitle": "MIDNIGHT MASS &#8211; Castle Ybor",
+      "snippet": "There is no dress code (except for some special events) so wear what you like.",
+      "suggestedCategory": "Drinks",
+      "confidence": "low",
+      "matchedKeywords": [
+        "specials?"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-the-castle-5-prices-subject-to-change-for-spe",
+      "venueId": "prospect-the-castle",
+      "venueName": "The Castle",
+      "neighborhood": "Ybor",
+      "sourceKind": "prospect",
+      "placeId": "ChIJw3ZLa1DEwogR3B-B1fQW7UM",
+      "status": "pending",
+      "sourceUrl": "https://castleybor.com/?cpt_events=midnight-mass",
+      "sourceTitle": "MIDNIGHT MASS &#8211; Castle Ybor",
+      "snippet": "PRICES SUBJECT TO CHANGE FOR SPECIAL EVENTS.",
+      "suggestedCategory": "Drinks",
+      "confidence": "low",
+      "matchedKeywords": [
+        "specials?"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-top-shelf-sports-lounge-1-2-off-wine-by-the-glass-4-fireba",
+      "venueId": "prospect-top-shelf-sports-lounge",
+      "venueName": "Top Shelf Sports Lounge",
+      "neighborhood": "Channelside",
+      "sourceKind": "prospect",
+      "placeId": "ChIJL9xPE9zFwogRgTF4FiaUM80",
+      "status": "pending",
+      "sourceUrl": "https://topshelfsportslounge.com/happy-hours-specials",
+      "sourceTitle": "Top Shelf Sports Lounge - Downtown Specials",
+      "snippet": "𝗟𝗔𝗧𝗘 𝗡𝗜𝗚𝗛𝗧 𝗛𝗔𝗣𝗣𝗬 𝗛𝗢𝗨𝗥 • $2 off Wine by the Glass | $4 Fireball | $5 Corazon Blanco | $5 Premium Wells & Draft Beer | $6 Corazon Reposado | $6 Buffalo Trace, Tito&apos;s Vodka, James",
+      "suggestedCategory": "Drinks",
+      "confidence": "high",
+      "matchedKeywords": [
+        "\\$\\d+",
+        "draft(?:s)?",
+        "wine",
+        "beer"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-top-shelf-sports-lounge-2-25-off-wings-5-00-all-draft-beer",
+      "venueId": "prospect-top-shelf-sports-lounge",
+      "venueName": "Top Shelf Sports Lounge",
+      "neighborhood": "Channelside",
+      "sourceKind": "prospect",
+      "placeId": "ChIJL9xPE9zFwogRgTF4FiaUM80",
+      "status": "pending",
+      "sourceUrl": "https://topshelfsportslounge.com/happy-hours-specials",
+      "sourceTitle": "Top Shelf Sports Lounge - Downtown Specials",
+      "snippet": "𝗪𝗜𝗡𝗚 𝗪𝗘𝗗𝗡𝗘𝗦𝗗𝗔𝗬 • 25% off Wings & $5.00 All Draft Beers (Dine-in only)",
+      "suggestedCategory": "Food",
+      "confidence": "high",
+      "matchedKeywords": [
+        "\\d+\\s?(?:%|percent)\\s+off",
+        "\\$\\d+",
+        "draft(?:s)?",
+        "wing(?:s)?"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-top-shelf-sports-lounge-3-5-select-drafts-2-off-wine-by-th",
+      "venueId": "prospect-top-shelf-sports-lounge",
+      "venueName": "Top Shelf Sports Lounge",
+      "neighborhood": "Channelside",
+      "sourceKind": "prospect",
+      "placeId": "ChIJL9xPE9zFwogRgTF4FiaUM80",
+      "status": "pending",
+      "sourceUrl": "https://topshelfsportslounge.com/happy-hours-specials",
+      "sourceTitle": "Top Shelf Sports Lounge - Downtown Specials",
+      "snippet": "$5 select drafts | $2 off wine by the glass | $5 premium wells | 25% off starters",
+      "suggestedCategory": "Drinks",
+      "confidence": "high",
+      "matchedKeywords": [
+        "\\d+\\s?(?:%|percent)\\s+off",
+        "\\$\\d+",
+        "draft(?:s)?",
+        "wine"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-top-shelf-sports-lounge-4-25-off-wings-and-5-drafts-open-c",
+      "venueId": "prospect-top-shelf-sports-lounge",
+      "venueName": "Top Shelf Sports Lounge",
+      "neighborhood": "Channelside",
+      "sourceKind": "prospect",
+      "placeId": "ChIJL9xPE9zFwogRgTF4FiaUM80",
+      "status": "pending",
+      "sourceUrl": "https://topshelfsportslounge.com/happy-hours-specials",
+      "sourceTitle": "Top Shelf Sports Lounge - Downtown Specials",
+      "snippet": "25% off wings and $5 drafts (open-close)",
+      "suggestedCategory": "Food",
+      "confidence": "high",
+      "matchedKeywords": [
+        "\\d+\\s?(?:%|percent)\\s+off",
+        "\\$\\d+",
+        "draft(?:s)?",
+        "wing(?:s)?"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-top-shelf-sports-lounge-5-top-shelf-sports-lounge-offers-f",
+      "venueId": "prospect-top-shelf-sports-lounge",
+      "venueName": "Top Shelf Sports Lounge",
+      "neighborhood": "Channelside",
+      "sourceKind": "prospect",
+      "placeId": "ChIJL9xPE9zFwogRgTF4FiaUM80",
+      "status": "pending",
+      "sourceUrl": "https://topshelfsportslounge.com/",
+      "sourceTitle": "Top Shelf Sports Lounge - Downtown Tampa, Tampa, FL",
+      "snippet": "Top Shelf Sports Lounge offers fresh food made from scratch, and daily specials, including, happy hour, trivia night, live music, and more!",
+      "suggestedCategory": "Live music",
+      "confidence": "high",
+      "matchedKeywords": [
+        "happy hour",
+        "specials?",
+        "trivia",
+        "live music"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-top-shelf-sports-lounge-6-5-select-draft-beers-2-off-wines",
+      "venueId": "prospect-top-shelf-sports-lounge",
+      "venueName": "Top Shelf Sports Lounge",
+      "neighborhood": "Channelside",
+      "sourceKind": "prospect",
+      "placeId": "ChIJL9xPE9zFwogRgTF4FiaUM80",
+      "status": "pending",
+      "sourceUrl": "https://topshelfsportslounge.com/",
+      "sourceTitle": "Top Shelf Sports Lounge - Downtown Tampa, Tampa, FL",
+      "snippet": "𝗛𝗔𝗣𝗣𝗬 𝗛𝗢𝗨𝗥 • $5 Select Draft Beers | $2 off Wines by the Glass | $5 Premium Wells | 25% off Starters",
+      "suggestedCategory": "Drinks",
+      "confidence": "high",
+      "matchedKeywords": [
+        "\\d+\\s?(?:%|percent)\\s+off",
+        "\\$\\d+",
+        "draft(?:s)?"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-cooper-s-hawk-winery-restaurant-1-stop-by-our-napa-style-tasting-r",
+      "venueId": "prospect-cooper-s-hawk-winery-restaurant",
+      "venueName": "Cooper’s Hawk Winery & Restaurant",
+      "neighborhood": "Tampa",
+      "sourceKind": "prospect",
+      "placeId": "ChIJHwWZC67DwogR08aGytYCBTQ",
+      "status": "pending",
+      "sourceUrl": "https://chwinery.com/tasting-room/monthly-menu-notes",
+      "sourceTitle": "Monthly Wine Tasting Line Up | Cooper&#039;s Hawk",
+      "snippet": "Stop by our Napa-Style Tasting Room for a guided wine tasting experience that includes 8 different wines ($14 per person).",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+",
+        "wine"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-cooper-s-hawk-winery-restaurant-2-clock-out-and-wine-down-with-coc",
+      "venueId": "prospect-cooper-s-hawk-winery-restaurant",
+      "venueName": "Cooper’s Hawk Winery & Restaurant",
+      "neighborhood": "Tampa",
+      "sourceKind": "prospect",
+      "placeId": "ChIJHwWZC67DwogR08aGytYCBTQ",
+      "status": "pending",
+      "sourceUrl": "https://chwinery.com/locations/tampa",
+      "sourceTitle": "Tampa, FL | Cooper&#039;s Hawk",
+      "snippet": "Clock out and wine down with cocktails and international wines by the glass for just $8.",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+",
+        "wine"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-cooper-s-hawk-winery-restaurant-3-these-special-evenings-provide-a",
+      "venueId": "prospect-cooper-s-hawk-winery-restaurant",
+      "venueName": "Cooper’s Hawk Winery & Restaurant",
+      "neighborhood": "Tampa",
+      "sourceKind": "prospect",
+      "placeId": "ChIJHwWZC67DwogR08aGytYCBTQ",
+      "status": "pending",
+      "sourceUrl": "https://chwinery.com/wine-club/special-events/foch-events",
+      "sourceTitle": "Friends of Cooper&#039;s Hawk Event | Cooper&#039;s Hawk",
+      "snippet": "These special evenings provide a warm, intimate, and memorable way to expand your knowledge of both food and wine!",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "specials?",
+        "wine"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-cooper-s-hawk-winery-restaurant-4-wine-o-039-clock-happy-hour",
+      "venueId": "prospect-cooper-s-hawk-winery-restaurant",
+      "venueName": "Cooper’s Hawk Winery & Restaurant",
+      "neighborhood": "Tampa",
+      "sourceKind": "prospect",
+      "placeId": "ChIJHwWZC67DwogR08aGytYCBTQ",
+      "status": "pending",
+      "sourceUrl": "https://chwinery.com/locations/tampa",
+      "sourceTitle": "Tampa, FL | Cooper&#039;s Hawk",
+      "snippet": "Wine O&#039;Clock - Happy Hour",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "happy hour",
+        "wine"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-cooper-s-hawk-winery-restaurant-5-small-bites-start-at-10-but-shar",
+      "venueId": "prospect-cooper-s-hawk-winery-restaurant",
+      "venueName": "Cooper’s Hawk Winery & Restaurant",
+      "neighborhood": "Tampa",
+      "sourceKind": "prospect",
+      "placeId": "ChIJHwWZC67DwogR08aGytYCBTQ",
+      "status": "pending",
+      "sourceUrl": "https://chwinery.com/locations/tampa",
+      "sourceTitle": "Tampa, FL | Cooper&#039;s Hawk",
+      "snippet": "Small bites start at $10, but sharing is totally optional.",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-jekyll-1-we-offer-an-exquisite-setting-fo",
+      "venueId": "prospect-jekyll",
+      "venueName": "Jekyll",
+      "neighborhood": "SoHo",
+      "sourceKind": "prospect",
+      "placeId": "ChIJB9JCMbHFwogRIHaDQD6I1FE",
+      "status": "pending",
+      "sourceUrl": "https://www.jekyllhydepark.com/private-events/",
+      "sourceTitle": "Private Events | Jekyll in Tampa, FL",
+      "snippet": "We offer an exquisite setting for all your special occasions.",
+      "suggestedCategory": "Drinks",
+      "confidence": "low",
+      "matchedKeywords": [
+        "specials?"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-jekyll-2-worthy-park-10yr-special-cask",
+      "venueId": "prospect-jekyll",
+      "venueName": "Jekyll",
+      "neighborhood": "SoHo",
+      "sourceKind": "prospect",
+      "placeId": "ChIJB9JCMbHFwogRIHaDQD6I1FE",
+      "status": "pending",
+      "sourceUrl": "https://www.jekyllhydepark.com/menus/",
+      "sourceTitle": "Menus | Jekyll in Tampa, FL",
+      "snippet": "Worthy Park 10yr Special Cask",
+      "suggestedCategory": "Drinks",
+      "confidence": "low",
+      "matchedKeywords": [
+        "specials?"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-m-bird-rooftop-restaurant-bar-dj-s-1-go-with-the-classic-make-it-spic",
+      "venueId": "prospect-m-bird-rooftop-restaurant-bar-dj-s",
+      "venueName": "M.Bird Rooftop Restaurant, Bar & DJ's",
+      "neighborhood": "Downtown Tampa",
+      "sourceKind": "prospect",
+      "placeId": "ChIJTY7XE2PFwogRDgMOQRLEAhw",
+      "status": "pending",
+      "sourceUrl": "https://www.mbirdtampa.com/menus/",
+      "sourceTitle": "Menus | M.Bird in Tampa, FL",
+      "snippet": "Go with the classic, make it spicy, try it with 400 Conejos mezcal, or add your favorite flavor for $1 (blackberry, coconut, passionfruit, peach, pomegranate, raspberry, or strawberry)",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-m-bird-rooftop-restaurant-bar-dj-s-2-go-with-the-classic-or-add-your-",
+      "venueId": "prospect-m-bird-rooftop-restaurant-bar-dj-s",
+      "venueName": "M.Bird Rooftop Restaurant, Bar & DJ's",
+      "neighborhood": "Downtown Tampa",
+      "sourceKind": "prospect",
+      "placeId": "ChIJTY7XE2PFwogRDgMOQRLEAhw",
+      "status": "pending",
+      "sourceUrl": "https://www.mbirdtampa.com/menus/",
+      "sourceTitle": "Menus | M.Bird in Tampa, FL",
+      "snippet": "Go with the classic or add your favorite flavor for $1 (blackberry, coconut, passionfruit, peach, pomegranate, raspberry, or strawberry)",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-m-bird-rooftop-restaurant-bar-dj-s-3-go-with-the-classic-or-add-your-",
+      "venueId": "prospect-m-bird-rooftop-restaurant-bar-dj-s",
+      "venueName": "M.Bird Rooftop Restaurant, Bar & DJ's",
+      "neighborhood": "Downtown Tampa",
+      "sourceKind": "prospect",
+      "placeId": "ChIJTY7XE2PFwogRDgMOQRLEAhw",
+      "status": "pending",
+      "sourceUrl": "https://www.mbirdtampa.com/menus/",
+      "sourceTitle": "Menus | M.Bird in Tampa, FL",
+      "snippet": "Go with the classic or add your favorite flavor for $1 (blackberry, coconut, passionfruit, peach, pomegranate, or strawberry)",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-m-bird-rooftop-restaurant-bar-dj-s-4-whether-you-re-planning-a-date-n",
+      "venueId": "prospect-m-bird-rooftop-restaurant-bar-dj-s",
+      "venueName": "M.Bird Rooftop Restaurant, Bar & DJ's",
+      "neighborhood": "Downtown Tampa",
+      "sourceKind": "prospect",
+      "placeId": "ChIJTY7XE2PFwogRDgMOQRLEAhw",
+      "status": "pending",
+      "sourceUrl": "https://www.mbirdtampa.com/",
+      "sourceTitle": "Rooftop Restaurant Tampa | Cocktails, DJs & Skyline Views | M.Bird",
+      "snippet": "Whether you're planning a date night, meeting friends, or searching for a premium venue to host your special occasion, M.Bird offers a vibrant setting that transitions seamlessly from sunset views to late-night energy.",
+      "suggestedCategory": "Drinks",
+      "confidence": "low",
+      "matchedKeywords": [
+        "specials?"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-shuffle-1-sports-including-shuffleboard-be",
+      "venueId": "prospect-shuffle",
+      "venueName": "Shuffle",
+      "neighborhood": "Tampa",
+      "sourceKind": "prospect",
+      "placeId": "ChIJ5WqV_G7EwogRKqT8w4ifFDg",
+      "status": "pending",
+      "sourceUrl": "https://shuffletampa.com/-events?source=pop_up&spot_id=74304&destination=events&promotion=mothers_day",
+      "sourceTitle": "Shuffle - events",
+      "snippet": "Sports (including Shuffleboard!), beers, mimosas, $1 WINGS!!!!",
+      "suggestedCategory": "Food",
+      "confidence": "high",
+      "matchedKeywords": [
+        "\\$\\d+",
+        "mimosa(?:s)?",
+        "wing(?:s)?"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-shuffle-2-seasoned-beef-patty-smash-burger",
+      "venueId": "prospect-shuffle",
+      "venueName": "Shuffle",
+      "neighborhood": "Tampa",
+      "sourceKind": "prospect",
+      "placeId": "ChIJ5WqV_G7EwogRKqT8w4ifFDg",
+      "status": "pending",
+      "sourceUrl": "https://shuffletampa.com/tampa-tampa-heights-shuffle-food-menu",
+      "sourceTitle": "Shuffle - Food Menu",
+      "snippet": "Seasoned Beef Patty, Smash Burger style w/ Cheddar, Lettuce, Tomato, Shuffle Sauce (Plant Based Burger +$2)",
+      "suggestedCategory": "Food",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+",
+        "burger(?:s)?"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-shuffle-3-a-big-bad-dog-loaded-how-you-wan",
+      "venueId": "prospect-shuffle",
+      "venueName": "Shuffle",
+      "neighborhood": "Tampa",
+      "sourceKind": "prospect",
+      "placeId": "ChIJ5WqV_G7EwogRKqT8w4ifFDg",
+      "status": "pending",
+      "sourceUrl": "https://shuffletampa.com/tampa-tampa-heights-shuffle-food-menu",
+      "sourceTitle": "Shuffle - Food Menu",
+      "snippet": "A big bad dog loaded how you want - toppings: Pickle Relish, Onions, Chili, Beer Cheese + $1 per",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+",
+        "beer"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-shuffle-4-1-wings-1-50-for-smoked-wings-ar",
+      "venueId": "prospect-shuffle",
+      "venueName": "Shuffle",
+      "neighborhood": "Tampa",
+      "sourceKind": "prospect",
+      "placeId": "ChIJ5WqV_G7EwogRKqT8w4ifFDg",
+      "status": "pending",
+      "sourceUrl": "https://shuffletampa.com/-events?source=pop_up&spot_id=74304&destination=events&promotion=mothers_day",
+      "sourceTitle": "Shuffle - events",
+      "snippet": "$1 wings ($1.50 for smoked wings) are DINE-IN ONLY Shuffle Shuffle tampashuffle@gmail.com",
+      "suggestedCategory": "Food",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+",
+        "wing(?:s)?"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-shuffle-5-1-per-wing-6-wing-minimum-order",
+      "venueId": "prospect-shuffle",
+      "venueName": "Shuffle",
+      "neighborhood": "Tampa",
+      "sourceKind": "prospect",
+      "placeId": "ChIJ5WqV_G7EwogRKqT8w4ifFDg",
+      "status": "pending",
+      "sourceUrl": "https://shuffletampa.com/tampa-tampa-heights-shuffle-food-menu",
+      "sourceTitle": "Shuffle - Food Menu",
+      "snippet": "$1 per wing, 6 wing minimum order.",
+      "suggestedCategory": "Food",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+",
+        "wing(?:s)?"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-casa-santo-stefano-1-casa-santo-stefano-often-is-visi",
+      "venueId": "prospect-casa-santo-stefano",
+      "venueName": "Casa Santo Stefano",
+      "neighborhood": "Ybor",
+      "sourceKind": "prospect",
+      "placeId": "ChIJ-VB9B1PEwogRAR_8Q9lKsqQ",
+      "status": "pending",
+      "sourceUrl": "https://casasantostefano.com/",
+      "sourceTitle": "Casa Santo Stefano | Sicilian Restaurant | Tampa - Ybor",
+      "snippet": "Casa Santo Stefano often is visited for celebrations and special occasion meals, so it is common for our guests to sport formal wear in the dining room.",
+      "suggestedCategory": "Drinks",
+      "confidence": "low",
+      "matchedKeywords": [
+        "specials?"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-due-amici-pizza-pasta-bar-1-1724-e-7th-ave-tampa-fl-33605-9a",
+      "venueId": "prospect-due-amici-pizza-pasta-bar",
+      "venueName": "Due Amici Pizza & Pasta Bar",
+      "neighborhood": "Ybor",
+      "sourceKind": "prospect",
+      "placeId": "ChIJn2Mfbv5654gRVPqvg4fcmlA",
+      "status": "pending",
+      "sourceUrl": "https://dueamiciybor.com/?utm_source=google",
+      "sourceTitle": "Due Amici Pizza & Pasta Bar",
+      "snippet": "1724 E 7th Ave, Tampa, FL 33605 | 9AM - 3AM Daily",
+      "suggestedCategory": "Drinks",
+      "confidence": "low",
+      "matchedKeywords": [],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-fleming-s-prime-steakhouse-wine-bar-1-steak-board-sunday-is-a-shareabl",
+      "venueId": "prospect-fleming-s-prime-steakhouse-wine-bar",
+      "venueName": "Fleming’s Prime Steakhouse & Wine Bar",
+      "neighborhood": "Tampa",
+      "sourceKind": "prospect",
+      "placeId": "ChIJVwY-iKzDwogRertNM1YPMjg",
+      "status": "pending",
+      "sourceUrl": "https://www.flemingssteakhouse.com/Locations/FL/Tampa?y_source=1_MTU1MDMxNzUtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "sourceTitle": "Tampa Steakhouse | Fine Dining & Prime Steak | Fleming's",
+      "snippet": "Steak Board Sunday is a shareable two‑course steak experience, starting at $98 for two Guests and expandable for groups of four or six.",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-fleming-s-prime-steakhouse-wine-bar-2-buy-100-in-gift-cards-receive-a-",
+      "venueId": "prospect-fleming-s-prime-steakhouse-wine-bar",
+      "venueName": "Fleming’s Prime Steakhouse & Wine Bar",
+      "neighborhood": "Tampa",
+      "sourceKind": "prospect",
+      "placeId": "ChIJVwY-iKzDwogRertNM1YPMjg",
+      "status": "pending",
+      "sourceUrl": "https://www.flemingssteakhouse.com/Locations/FL/Tampa?y_source=1_MTU1MDMxNzUtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "sourceTitle": "Tampa Steakhouse | Fine Dining & Prime Steak | Fleming's",
+      "snippet": "Buy $100 In Gift Cards & Receive A $20 E-Bonus Card",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-fleming-s-prime-steakhouse-wine-bar-3-whether-you-re-hosting-a-family-",
+      "venueId": "prospect-fleming-s-prime-steakhouse-wine-bar",
+      "venueName": "Fleming’s Prime Steakhouse & Wine Bar",
+      "neighborhood": "Tampa",
+      "sourceKind": "prospect",
+      "placeId": "ChIJVwY-iKzDwogRertNM1YPMjg",
+      "status": "pending",
+      "sourceUrl": "https://www.flemingssteakhouse.com/Locations/FL/Tampa?y_source=1_MTU1MDMxNzUtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "sourceTitle": "Tampa Steakhouse | Fine Dining & Prime Steak | Fleming's",
+      "snippet": "Whether you're hosting a family celebration, business dinner, or special occasion on a Sunday, our events team can help you plan a Steak Board Sunday experience tailored to your group.",
+      "suggestedCategory": "Drinks",
+      "confidence": "low",
+      "matchedKeywords": [
+        "specials?"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-fleming-s-prime-steakhouse-wine-bar-4-the-main-full-service-bar-has-a-",
+      "venueId": "prospect-fleming-s-prime-steakhouse-wine-bar",
+      "venueName": "Fleming’s Prime Steakhouse & Wine Bar",
+      "neighborhood": "Tampa",
+      "sourceKind": "prospect",
+      "placeId": "ChIJVwY-iKzDwogRertNM1YPMjg",
+      "status": "pending",
+      "sourceUrl": "https://www.flemingssteakhouse.com/Locations/FL/Tampa?y_source=1_MTU1MDMxNzUtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "sourceTitle": "Tampa Steakhouse | Fine Dining & Prime Steak | Fleming's",
+      "snippet": "The main full-service bar has a Social Hour from 3-6:30pm daily, along with bar bites and hand-crafted cocktails in an adjacent lounge with cozy soft-seating.",
+      "suggestedCategory": "Drinks",
+      "confidence": "low",
+      "matchedKeywords": [],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-fleming-s-prime-steakhouse-wine-bar-5-lunch-is-served-daily-from-11am-",
+      "venueId": "prospect-fleming-s-prime-steakhouse-wine-bar",
+      "venueName": "Fleming’s Prime Steakhouse & Wine Bar",
+      "neighborhood": "Tampa",
+      "sourceKind": "prospect",
+      "placeId": "ChIJVwY-iKzDwogRertNM1YPMjg",
+      "status": "pending",
+      "sourceUrl": "https://www.flemingssteakhouse.com/Locations/FL/Tampa?y_source=1_MTU1MDMxNzUtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "sourceTitle": "Tampa Steakhouse | Fine Dining & Prime Steak | Fleming's",
+      "snippet": "Lunch is served daily from 11AM–3PM, with Dinner available from 3PM–close.",
+      "suggestedCategory": "Drinks",
+      "confidence": "low",
+      "matchedKeywords": [],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-fleming-s-prime-steakhouse-wine-bar-6-available-daily-at-11am-for-dine",
+      "venueId": "prospect-fleming-s-prime-steakhouse-wine-bar",
+      "venueName": "Fleming’s Prime Steakhouse & Wine Bar",
+      "neighborhood": "Tampa",
+      "sourceKind": "prospect",
+      "placeId": "ChIJVwY-iKzDwogRertNM1YPMjg",
+      "status": "pending",
+      "sourceUrl": "https://www.flemingssteakhouse.com/menus/lunch",
+      "sourceTitle": "Fleming's Lunch Menu - Fleming's Prime Steakhouse & Wine Bar",
+      "snippet": "Available daily at 11AM for dine-in.",
+      "suggestedCategory": "Drinks",
+      "confidence": "low",
+      "matchedKeywords": [],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-fleming-s-prime-steakhouse-wine-bar-7-mon-ndash-sat-11am-ndash-10pm",
+      "venueId": "prospect-fleming-s-prime-steakhouse-wine-bar",
+      "venueName": "Fleming’s Prime Steakhouse & Wine Bar",
+      "neighborhood": "Tampa",
+      "sourceKind": "prospect",
+      "placeId": "ChIJVwY-iKzDwogRertNM1YPMjg",
+      "status": "pending",
+      "sourceUrl": "https://www.flemingssteakhouse.com/Locations/FL/Tampa?y_source=1_MTU1MDMxNzUtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "sourceTitle": "Tampa Steakhouse | Fine Dining & Prime Steak | Fleming's",
+      "snippet": "Mon&ndash;Sat: 11AM&ndash;10PM",
+      "suggestedCategory": "Drinks",
+      "confidence": "low",
+      "matchedKeywords": [],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-gaspar-s-grotto-1-tasty-brunch-menu-drink-specials",
+      "venueId": "prospect-gaspar-s-grotto",
+      "venueName": "Gaspar's Grotto",
+      "neighborhood": "Ybor",
+      "sourceKind": "prospect",
+      "placeId": "ChIJ1yQNClHEwogRaCW7u5bgT0Y",
+      "status": "pending",
+      "sourceUrl": "https://gasparsgrotto.com/events/",
+      "sourceTitle": "Live Entertainment in 3 Venues | Gaspar&#039;s Grotto | Tampa, FL",
+      "snippet": "Tasty brunch menu, drink specials & live music!",
+      "suggestedCategory": "Live music",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "specials?",
+        "brunch",
+        "live music"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-gaspar-s-grotto-2-guests-can-enjoy-great-food-and-",
+      "venueId": "prospect-gaspar-s-grotto",
+      "venueName": "Gaspar's Grotto",
+      "neighborhood": "Ybor",
+      "sourceKind": "prospect",
+      "placeId": "ChIJ1yQNClHEwogRaCW7u5bgT0Y",
+      "status": "pending",
+      "sourceUrl": "https://gasparsgrotto.com/",
+      "sourceTitle": "Pirate Bar & Restaurant | Gaspar&#039;s Grotto in Tampa, FL",
+      "snippet": "Guests can enjoy great food and drinks, and take part in our delicious brunch specials &#8211; a Sunday event that Gaspar's has become known for in its many years as a community staple.",
+      "suggestedCategory": "Food",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "specials?",
+        "brunch"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-gaspar-s-grotto-3-gaspar-s-daily-lunch-special-10-",
+      "venueId": "prospect-gaspar-s-grotto",
+      "venueName": "Gaspar's Grotto",
+      "neighborhood": "Ybor",
+      "sourceKind": "prospect",
+      "placeId": "ChIJ1yQNClHEwogRaCW7u5bgT0Y",
+      "status": "pending",
+      "sourceUrl": "https://gasparsgrotto.com/menu/",
+      "sourceTitle": "Menu Available at Gaspar&#039;s Grotto | Tampa, FL",
+      "snippet": "Gaspar's Daily Lunch Special | 10.50",
+      "suggestedCategory": "Food",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "specials?"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-gaspar-s-grotto-4-get-a-bottle-of-chilled-champagn",
+      "venueId": "prospect-gaspar-s-grotto",
+      "venueName": "Gaspar's Grotto",
+      "neighborhood": "Ybor",
+      "sourceKind": "prospect",
+      "placeId": "ChIJ1yQNClHEwogRaCW7u5bgT0Y",
+      "status": "pending",
+      "sourceUrl": "https://gasparsgrotto.com/menu/",
+      "sourceTitle": "Menu Available at Gaspar&#039;s Grotto | Tampa, FL",
+      "snippet": "Get a bottle of chilled Champagne and a 1/2 liter carafe of orange, cranberry or pineapple juice for just $14!",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-gaspar-s-grotto-5-additional-refills-on-juices-are",
+      "venueId": "prospect-gaspar-s-grotto",
+      "venueName": "Gaspar's Grotto",
+      "neighborhood": "Ybor",
+      "sourceKind": "prospect",
+      "placeId": "ChIJ1yQNClHEwogRaCW7u5bgT0Y",
+      "status": "pending",
+      "sourceUrl": "https://gasparsgrotto.com/menu/",
+      "sourceTitle": "Menu Available at Gaspar&#039;s Grotto | Tampa, FL",
+      "snippet": "Additional refills on juices are $6 each.",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-harpoon-harry-s-crab-house-tampa-1-10am-3pm-with-an-accompanying-em",
+      "venueId": "prospect-harpoon-harry-s-crab-house-tampa",
+      "venueName": "Harpoon Harry's Crab House - Tampa",
+      "neighborhood": "Channelside",
+      "sourceKind": "prospect",
+      "placeId": "ChIJJ13SCI3EwogRcX2q5Fs_HkU",
+      "status": "pending",
+      "sourceUrl": "https://harpoonharryscrabhousetampa.com/",
+      "sourceTitle": "Harpoon Harry&#039;s Crab House &#8211; Tampa, FL &#8211; Seafood, Steaks & Sushi at the Tampa Convention Center",
+      "snippet": "10am-3pm with an accompanying emporium dessert table. 🥐🍪🍰🧁 Brunch Specials include: 🌞 Loaded French Toast 🦀 Crab Benedict 🍳Traditional Eggs Benedict 🌯 Breakfast Wrap 🥪 Croque Madame Drink Features: Espresso Mart",
+      "suggestedCategory": "Food",
+      "confidence": "high",
+      "matchedKeywords": [
+        "specials?",
+        "brunch"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-harpoon-harry-s-crab-house-tampa-2-treat-mom-to-brunch-served-from-",
+      "venueId": "prospect-harpoon-harry-s-crab-house-tampa",
+      "venueName": "Harpoon Harry's Crab House - Tampa",
+      "neighborhood": "Channelside",
+      "sourceKind": "prospect",
+      "placeId": "ChIJJ13SCI3EwogRcX2q5Fs_HkU",
+      "status": "pending",
+      "sourceUrl": "https://harpoonharryscrabhousetampa.com/",
+      "sourceTitle": "Harpoon Harry&#039;s Crab House &#8211; Tampa, FL &#8211; Seafood, Steaks & Sushi at the Tampa Convention Center",
+      "snippet": "Treat Mom to brunch, served from 10am-3pm with an accompanying emporium dessert table. 🥐🍪🍰🧁 Brunch Specials include: 🌞",
+      "suggestedCategory": "Food",
+      "confidence": "high",
+      "matchedKeywords": [
+        "specials?",
+        "brunch"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-harpoon-harry-s-crab-house-tampa-3-add-to-any-steak-shrimp-7-1-2-lo",
+      "venueId": "prospect-harpoon-harry-s-crab-house-tampa",
+      "venueName": "Harpoon Harry's Crab House - Tampa",
+      "neighborhood": "Channelside",
+      "sourceKind": "prospect",
+      "placeId": "ChIJJ13SCI3EwogRcX2q5Fs_HkU",
+      "status": "pending",
+      "sourceUrl": "https://harpoonharryscrabhousetampa.com/lunch-menu/",
+      "sourceTitle": "Lunch Menu &#8211; Harpoon Harry&#039;s Crab House &#8211; Tampa, FL",
+      "snippet": "Add to any steak: Shrimp $7, 1/2 Lobster Tail $12, 6 oz Lobster Tail $23",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-harpoon-harry-s-crab-house-tampa-4-add-to-any-salad-chicken-5-shrim",
+      "venueId": "prospect-harpoon-harry-s-crab-house-tampa",
+      "venueName": "Harpoon Harry's Crab House - Tampa",
+      "neighborhood": "Channelside",
+      "sourceKind": "prospect",
+      "placeId": "ChIJJ13SCI3EwogRcX2q5Fs_HkU",
+      "status": "pending",
+      "sourceUrl": "https://harpoonharryscrabhousetampa.com/lunch-menu/",
+      "sourceTitle": "Lunch Menu &#8211; Harpoon Harry&#039;s Crab House &#8211; Tampa, FL",
+      "snippet": "Add to any salad: Chicken $5, Shrimp $7, Salmon $12, Gulf Grouper $14",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-harpoon-harry-s-crab-house-tampa-5-crab-and-shrimp-20-or-chicken-14",
+      "venueId": "prospect-harpoon-harry-s-crab-house-tampa",
+      "venueName": "Harpoon Harry's Crab House - Tampa",
+      "neighborhood": "Channelside",
+      "sourceKind": "prospect",
+      "placeId": "ChIJJ13SCI3EwogRcX2q5Fs_HkU",
+      "status": "pending",
+      "sourceUrl": "https://harpoonharryscrabhousetampa.com/lunch-menu/",
+      "sourceTitle": "Lunch Menu &#8211; Harpoon Harry&#039;s Crab House &#8211; Tampa, FL",
+      "snippet": "Crab and Shrimp $20 or Chicken $14 with black bean and corn salsa",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-harpoon-harry-s-crab-house-tampa-6-add-to-any-pot-shell-on-shrimp-1",
+      "venueId": "prospect-harpoon-harry-s-crab-house-tampa",
+      "venueName": "Harpoon Harry's Crab House - Tampa",
+      "neighborhood": "Channelside",
+      "sourceKind": "prospect",
+      "placeId": "ChIJJ13SCI3EwogRcX2q5Fs_HkU",
+      "status": "pending",
+      "sourceUrl": "https://harpoonharryscrabhousetampa.com/lunch-menu/",
+      "sourceTitle": "Lunch Menu &#8211; Harpoon Harry&#039;s Crab House &#8211; Tampa, FL",
+      "snippet": "Add to any pot: Shell-On Shrimp $10, 1/2 lb Snow Crab $15",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-harpoon-harry-s-crab-house-tampa-7-chicken-22-shrimp-24-combo-27",
+      "venueId": "prospect-harpoon-harry-s-crab-house-tampa",
+      "venueName": "Harpoon Harry's Crab House - Tampa",
+      "neighborhood": "Channelside",
+      "sourceKind": "prospect",
+      "placeId": "ChIJJ13SCI3EwogRcX2q5Fs_HkU",
+      "status": "pending",
+      "sourceUrl": "https://harpoonharryscrabhousetampa.com/lunch-menu/",
+      "sourceTitle": "Lunch Menu &#8211; Harpoon Harry&#039;s Crab House &#8211; Tampa, FL",
+      "snippet": "Chicken $22, Shrimp $24, Combo $27",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-harpoon-harry-s-crab-house-tampa-8-half-dozen-21-dozen-35",
+      "venueId": "prospect-harpoon-harry-s-crab-house-tampa",
+      "venueName": "Harpoon Harry's Crab House - Tampa",
+      "neighborhood": "Channelside",
+      "sourceKind": "prospect",
+      "placeId": "ChIJJ13SCI3EwogRcX2q5Fs_HkU",
+      "status": "pending",
+      "sourceUrl": "https://harpoonharryscrabhousetampa.com/lunch-menu/",
+      "sourceTitle": "Lunch Menu &#8211; Harpoon Harry&#039;s Crab House &#8211; Tampa, FL",
+      "snippet": "Half Dozen $21, Dozen $35",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-harpoon-harry-s-crab-house-tampa-9-add-shrimp-or-chicken-29",
+      "venueId": "prospect-harpoon-harry-s-crab-house-tampa",
+      "venueName": "Harpoon Harry's Crab House - Tampa",
+      "neighborhood": "Channelside",
+      "sourceKind": "prospect",
+      "placeId": "ChIJJ13SCI3EwogRcX2q5Fs_HkU",
+      "status": "pending",
+      "sourceUrl": "https://harpoonharryscrabhousetampa.com/lunch-menu/",
+      "sourceTitle": "Lunch Menu &#8211; Harpoon Harry&#039;s Crab House &#8211; Tampa, FL",
+      "snippet": "Add shrimp or chicken $29",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-harpoon-harry-s-crab-house-tampa-10-half-dozen-25-dozen-45",
+      "venueId": "prospect-harpoon-harry-s-crab-house-tampa",
+      "venueName": "Harpoon Harry's Crab House - Tampa",
+      "neighborhood": "Channelside",
+      "sourceKind": "prospect",
+      "placeId": "ChIJJ13SCI3EwogRcX2q5Fs_HkU",
+      "status": "pending",
+      "sourceUrl": "https://harpoonharryscrabhousetampa.com/lunch-menu/",
+      "sourceTitle": "Lunch Menu &#8211; Harpoon Harry&#039;s Crab House &#8211; Tampa, FL",
+      "snippet": "Half Dozen $25 Dozen $45",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-meat-market-steakhouse-tampa-1-lunch-monday-friday-11-30-am-nda",
+      "venueId": "prospect-meat-market-steakhouse-tampa",
+      "venueName": "Meat Market Steakhouse Tampa",
+      "neighborhood": "SoHo",
+      "sourceKind": "prospect",
+      "placeId": "ChIJtwli6xvDwogRdNWjO4byk5U",
+      "status": "pending",
+      "sourceUrl": "https://www.meatmarket.net/location/meat-market-tampa/",
+      "sourceTitle": "Meat Market Tampa Steakhouse Serving Lunch, Happy Hour and Dinner",
+      "snippet": "LUNCH MONDAY - FRIDAY: 11:30 AM &ndash; 3:00 PM BRUNCH SATURDAY & SUNDAY: 11:00 AM &ndash; 3:30 PM DAILY HAPPY HOUR 4:00 PM &ndash; 7:00 PM DINNER SUNDAY - WEDNESDAY: 5:00 PM &ndash; 11:00 PM THURSD",
+      "suggestedCategory": "Food",
+      "confidence": "high",
+      "matchedKeywords": [
+        "happy hour",
+        "brunch"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-meat-market-steakhouse-tampa-2-sunday-mimosa-all-day-brunch",
+      "venueId": "prospect-meat-market-steakhouse-tampa",
+      "venueName": "Meat Market Steakhouse Tampa",
+      "neighborhood": "SoHo",
+      "sourceKind": "prospect",
+      "placeId": "ChIJtwli6xvDwogRdNWjO4byk5U",
+      "status": "pending",
+      "sourceUrl": "https://www.meatmarket.net/promotions-boca-raton/",
+      "sourceTitle": "Promotions Boca Raton | Meat Market Steakhouse | Tampa, Palm Beach and San Juan",
+      "snippet": "SUNDAY MIMOSA ALL DAY BRUNCH",
+      "suggestedCategory": "Food",
+      "confidence": "low",
+      "matchedKeywords": [
+        "mimosa(?:s)?",
+        "brunch"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-ocean-prime-1-join-us-monday-friday-in-our-lou",
+      "venueId": "prospect-ocean-prime",
+      "venueName": "Ocean Prime",
+      "neighborhood": "Tampa",
+      "sourceKind": "prospect",
+      "placeId": "ChIJIUpfJ1TCwogRDsxgDUkhIJg",
+      "status": "pending",
+      "sourceUrl": "https://ocean-prime.com/locations-menus/tampa/",
+      "sourceTitle": "Ocean Prime | Tampa | International Plaza | Prime Steak, Fresh Seafood, Fish",
+      "snippet": "Join us Monday - Friday in our Lounge from 4 - 6 PM and enjoy $5 off our lounge menu and specially priced cocktails, beer & wine.",
+      "suggestedCategory": "Drinks",
+      "confidence": "high",
+      "matchedKeywords": [
+        "\\$\\d+",
+        "wine",
+        "beer"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-ocean-prime-2-join-us-monday-friday-3-7-pm-in-",
+      "venueId": "prospect-ocean-prime",
+      "venueName": "Ocean Prime",
+      "neighborhood": "Tampa",
+      "sourceKind": "prospect",
+      "placeId": "ChIJIUpfJ1TCwogRDsxgDUkhIJg",
+      "status": "pending",
+      "sourceUrl": "https://ocean-prime.com/locations-menus/beverly-hills/",
+      "sourceTitle": "Ocean Prime | Beverly Hills | Prime Steak, Fresh Seafood, Fish",
+      "snippet": "Join us Monday - Friday, 3 - 7 PM in our Lounge and enjoy $5 off our Lounge Menu and specially priced cocktails, beer & wine.",
+      "suggestedCategory": "Drinks",
+      "confidence": "high",
+      "matchedKeywords": [
+        "\\$\\d+",
+        "wine",
+        "beer"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-ocean-prime-3-on-fridays-enjoy-veuve-clicquot-",
+      "venueId": "prospect-ocean-prime",
+      "venueName": "Ocean Prime",
+      "neighborhood": "Tampa",
+      "sourceKind": "prospect",
+      "placeId": "ChIJIUpfJ1TCwogRDsxgDUkhIJg",
+      "status": "pending",
+      "sourceUrl": "https://ocean-prime.com/locations-menus/beverly-hills/",
+      "sourceTitle": "Ocean Prime | Beverly Hills | Prime Steak, Fresh Seafood, Fish",
+      "snippet": "On Fridays, enjoy Veuve Clicquot Rosé by the glass for $20 accompanied by $2 oysters during happy hour.",
+      "suggestedCategory": "Drinks",
+      "confidence": "high",
+      "matchedKeywords": [
+        "happy hour",
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-ocean-prime-4-enjoy-our-3-course-39-prime-lunc",
+      "venueId": "prospect-ocean-prime",
+      "venueName": "Ocean Prime",
+      "neighborhood": "Tampa",
+      "sourceKind": "prospect",
+      "placeId": "ChIJIUpfJ1TCwogRDsxgDUkhIJg",
+      "status": "pending",
+      "sourceUrl": "https://ocean-prime.com/locations-menus/beverly-hills/",
+      "sourceTitle": "Ocean Prime | Beverly Hills | Prime Steak, Fresh Seafood, Fish",
+      "snippet": "Enjoy our 3-Course $39 Prime Lunch menu, available weekdays until 4 PM.",
+      "suggestedCategory": "Food",
+      "confidence": "high",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-ocean-prime-5-ask-your-server-for-our-happy-ho",
+      "venueId": "prospect-ocean-prime",
+      "venueName": "Ocean Prime",
+      "neighborhood": "Tampa",
+      "sourceKind": "prospect",
+      "placeId": "ChIJIUpfJ1TCwogRDsxgDUkhIJg",
+      "status": "pending",
+      "sourceUrl": "https://ocean-prime.com/locations-menus/beverly-hills/",
+      "sourceTitle": "Ocean Prime | Beverly Hills | Prime Steak, Fresh Seafood, Fish",
+      "snippet": "Ask your Server for our Happy Hour Wine, Beer & Cocktail Features.",
+      "suggestedCategory": "Drinks",
+      "confidence": "high",
+      "matchedKeywords": [
+        "happy hour",
+        "wine",
+        "beer"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-ocean-prime-6-ask-your-server-about-our-happy-",
+      "venueId": "prospect-ocean-prime",
+      "venueName": "Ocean Prime",
+      "neighborhood": "Tampa",
+      "sourceKind": "prospect",
+      "placeId": "ChIJIUpfJ1TCwogRDsxgDUkhIJg",
+      "status": "pending",
+      "sourceUrl": "https://ocean-prime.com/locations-menus/tampa/",
+      "sourceTitle": "Ocean Prime | Tampa | International Plaza | Prime Steak, Fresh Seafood, Fish",
+      "snippet": "Ask your Server about our Happy Hour Wine & Cocktail Features.",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "happy hour",
+        "wine"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-ocean-prime-7-75-person-excludes-tax-and-gratu",
+      "venueId": "prospect-ocean-prime",
+      "venueName": "Ocean Prime",
+      "neighborhood": "Tampa",
+      "sourceKind": "prospect",
+      "placeId": "ChIJIUpfJ1TCwogRDsxgDUkhIJg",
+      "status": "pending",
+      "sourceUrl": "https://ocean-prime.com/locations-menus/beverly-hills/",
+      "sourceTitle": "Ocean Prime | Beverly Hills | Prime Steak, Fresh Seafood, Fish",
+      "snippet": "*$75 / person excludes tax and gratuity",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-spookeasy-lounge-1-our-delicious-breakfast-sandwich",
+      "venueId": "prospect-spookeasy-lounge",
+      "venueName": "SpookEasy Lounge",
+      "neighborhood": "Ybor",
+      "sourceKind": "prospect",
+      "placeId": "ChIJ7QVjUK_FwogRaTLY8uxOico",
+      "status": "pending",
+      "sourceUrl": "https://www.spookeasylounge.com/menu",
+      "sourceTitle": "Food Menu | SpookyEasy Lounge",
+      "snippet": "Our delicious breakfast sandwich with 2 eggs, pico, your choice of ham or bacon with American cheese $14",
+      "suggestedCategory": "Food",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+",
+        "sandwich(?:es)?"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-spookeasy-lounge-2-make-it-a-double-burger-for-only",
+      "venueId": "prospect-spookeasy-lounge",
+      "venueName": "SpookEasy Lounge",
+      "neighborhood": "Ybor",
+      "sourceKind": "prospect",
+      "placeId": "ChIJ7QVjUK_FwogRaTLY8uxOico",
+      "status": "pending",
+      "sourceUrl": "https://www.spookeasylounge.com/menu",
+      "sourceTitle": "Food Menu | SpookyEasy Lounge",
+      "snippet": "Make it a double burger for only $3 more.",
+      "suggestedCategory": "Food",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+",
+        "burger(?:s)?"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-spookeasy-lounge-3-our-crispy-finger-fries-topped-w",
+      "venueId": "prospect-spookeasy-lounge",
+      "venueName": "SpookEasy Lounge",
+      "neighborhood": "Ybor",
+      "sourceKind": "prospect",
+      "placeId": "ChIJ7QVjUK_FwogRaTLY8uxOico",
+      "status": "pending",
+      "sourceUrl": "https://www.spookeasylounge.com/menu",
+      "sourceTitle": "Food Menu | SpookyEasy Lounge",
+      "snippet": "Our CRISPY finger fries topped with your choice of Mojo Chicken or Seasoned Beef, Queso Blanco, covered in shredded lettuce, Fresh Pico De Gallo, Pickled Jalapenos, served with a side of sour cream $16",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-spookeasy-lounge-4-a-frightfully-delicious-combinat",
+      "venueId": "prospect-spookeasy-lounge",
+      "venueName": "SpookEasy Lounge",
+      "neighborhood": "Ybor",
+      "sourceKind": "prospect",
+      "placeId": "ChIJ7QVjUK_FwogRaTLY8uxOico",
+      "status": "pending",
+      "sourceUrl": "https://www.spookeasylounge.com/menu",
+      "sourceTitle": "Food Menu | SpookyEasy Lounge",
+      "snippet": "A frightfully delicious combination of crisp lettuce, seasoned beef, pico and shredded cheese and crunchy tortilla strips, all topped with blanco queso cheese and ranch drizzled on top $17",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-spookeasy-lounge-5-bacon-lettuce-and-tomato-served-",
+      "venueId": "prospect-spookeasy-lounge",
+      "venueName": "SpookEasy Lounge",
+      "neighborhood": "Ybor",
+      "sourceKind": "prospect",
+      "placeId": "ChIJ7QVjUK_FwogRaTLY8uxOico",
+      "status": "pending",
+      "sourceUrl": "https://www.spookeasylounge.com/menu",
+      "sourceTitle": "Food Menu | SpookyEasy Lounge",
+      "snippet": "Bacon, Lettuce and Tomato served on Toasted White Bread. (get it with a side of fries) $14",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-spookeasy-lounge-6-a-there-are-several-parking-area",
+      "venueId": "prospect-spookeasy-lounge",
+      "venueName": "SpookEasy Lounge",
+      "neighborhood": "Ybor",
+      "sourceKind": "prospect",
+      "placeId": "ChIJ7QVjUK_FwogRaTLY8uxOico",
+      "status": "pending",
+      "sourceUrl": "https://www.spookeasylounge.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=2383020484045406313",
+      "sourceTitle": "SpookEasy Kava Lounge in Ybor City, Florida",
+      "snippet": "A: There are several parking areas in Ybor that charge as low as $1/hour.",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-spookeasy-lounge-7-ask-them-to-load-em-x27-up-bacon",
+      "venueId": "prospect-spookeasy-lounge",
+      "venueName": "SpookEasy Lounge",
+      "neighborhood": "Ybor",
+      "sourceKind": "prospect",
+      "placeId": "ChIJ7QVjUK_FwogRaTLY8uxOico",
+      "status": "pending",
+      "sourceUrl": "https://www.spookeasylounge.com/menu",
+      "sourceTitle": "Food Menu | SpookyEasy Lounge",
+      "snippet": "Ask them to LOAD EM&#x27; UP (bacon, jalapeno, tomato) $12",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-spookeasy-lounge-8-romaine-lettuce-grilled-chicken-",
+      "venueId": "prospect-spookeasy-lounge",
+      "venueName": "SpookEasy Lounge",
+      "neighborhood": "Ybor",
+      "sourceKind": "prospect",
+      "placeId": "ChIJ7QVjUK_FwogRaTLY8uxOico",
+      "status": "pending",
+      "sourceUrl": "https://www.spookeasylounge.com/menu",
+      "sourceTitle": "Food Menu | SpookyEasy Lounge",
+      "snippet": "Romaine lettuce, Grilled Chicken and Parmesan cheese $15",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-spookeasy-lounge-9-add-cheese-pepperjack-american-c",
+      "venueId": "prospect-spookeasy-lounge",
+      "venueName": "SpookEasy Lounge",
+      "neighborhood": "Ybor",
+      "sourceKind": "prospect",
+      "placeId": "ChIJ7QVjUK_FwogRaTLY8uxOico",
+      "status": "pending",
+      "sourceUrl": "https://www.spookeasylounge.com/menu",
+      "sourceTitle": "Food Menu | SpookyEasy Lounge",
+      "snippet": "Add Cheese (Pepperjack, American, Chedda $0.50",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-spookeasy-lounge-10-cheese-grapes-meats-crackers-oli",
+      "venueId": "prospect-spookeasy-lounge",
+      "venueName": "SpookEasy Lounge",
+      "neighborhood": "Ybor",
+      "sourceKind": "prospect",
+      "placeId": "ChIJ7QVjUK_FwogRaTLY8uxOico",
+      "status": "pending",
+      "sourceUrl": "https://www.spookeasylounge.com/menu",
+      "sourceTitle": "Food Menu | SpookyEasy Lounge",
+      "snippet": "Cheese, grapes, meats, crackers & olives $16",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-spookeasy-lounge-11-add-pickled-jalapenos-0-50",
+      "venueId": "prospect-spookeasy-lounge",
+      "venueName": "SpookEasy Lounge",
+      "neighborhood": "Ybor",
+      "sourceKind": "prospect",
+      "placeId": "ChIJ7QVjUK_FwogRaTLY8uxOico",
+      "status": "pending",
+      "sourceUrl": "https://www.spookeasylounge.com/menu",
+      "sourceTitle": "Food Menu | SpookyEasy Lounge",
+      "snippet": "Add pickled jalapenos $0.50",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-spookeasy-lounge-12-a-yes-the-spookeasy-lounge-offer",
+      "venueId": "prospect-spookeasy-lounge",
+      "venueName": "SpookEasy Lounge",
+      "neighborhood": "Ybor",
+      "sourceKind": "prospect",
+      "placeId": "ChIJ7QVjUK_FwogRaTLY8uxOico",
+      "status": "pending",
+      "sourceUrl": "https://www.spookeasylounge.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=2383020484045406313",
+      "sourceTitle": "SpookEasy Kava Lounge in Ybor City, Florida",
+      "snippet": "A: Yes, the SpookEasy Lounge offers beer and wine.",
+      "suggestedCategory": "Drinks",
+      "confidence": "low",
+      "matchedKeywords": [
+        "wine",
+        "beer"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-tori-bar-1-wine-9-glass-or-34-bottle",
+      "venueId": "prospect-tori-bar",
+      "venueName": "Tori Bar",
+      "neighborhood": "Downtown Tampa",
+      "sourceKind": "prospect",
+      "placeId": "ChIJ0ZWO3ITFwogRgsOtiYnV1bI",
+      "status": "pending",
+      "sourceUrl": "https://www.toribartampa.com/happy-hour",
+      "sourceTitle": "Happy Hour | Join us for Happy Hour Now &mdash; Tori Bar",
+      "snippet": "WINE $9/glass or $34/bottle",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+",
+        "wine"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-tori-bar-2-house-hot-or-cold-sake-11-8oz",
+      "venueId": "prospect-tori-bar",
+      "venueName": "Tori Bar",
+      "neighborhood": "Downtown Tampa",
+      "sourceKind": "prospect",
+      "placeId": "ChIJ0ZWO3ITFwogRgsOtiYnV1bI",
+      "status": "pending",
+      "sourceUrl": "https://www.toribartampa.com/happy-hour",
+      "sourceTitle": "Happy Hour | Join us for Happy Hour Now &mdash; Tori Bar",
+      "snippet": "HOUSE HOT OR COLD SAKE $11/8oz",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-tori-bar-3-cocktail-of-the-month-12",
+      "venueId": "prospect-tori-bar",
+      "venueName": "Tori Bar",
+      "neighborhood": "Downtown Tampa",
+      "sourceKind": "prospect",
+      "placeId": "ChIJ0ZWO3ITFwogRgsOtiYnV1bI",
+      "status": "pending",
+      "sourceUrl": "https://www.toribartampa.com/happy-hour",
+      "sourceTitle": "Happy Hour | Join us for Happy Hour Now &mdash; Tori Bar",
+      "snippet": "COCKTAIL OF THE MONTH $12",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-4-rivers-smokehouse-1-your-choice-of-1-meat-brisket-2-",
+      "venueId": "prospect-4-rivers-smokehouse",
+      "venueName": "4 Rivers Smokehouse",
+      "neighborhood": "SoHo",
+      "sourceKind": "prospect",
+      "placeId": "ChIJKZtZZWzDwogRyyDRAy_sXKg",
+      "status": "pending",
+      "sourceUrl": "https://www.4rsmokehouse.com/menu/",
+      "sourceTitle": "Smokehouse Menu | 4 Rivers BBQ",
+      "snippet": "Your choice of 1 meat: Brisket (+$2.49), Pulled Pork, Burnt Ends, Pulled Chicken, Smoked Turkey, Texas Sausage, Vegan Burnt Ends, 1/4 ribs and 2 Classic Sides. 1/4 bone-in chicken and 2 Classic Sides ($8.99)",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-4-rivers-smokehouse-2-your-choice-of-2-meats-brisket-2",
+      "venueId": "prospect-4-rivers-smokehouse",
+      "venueName": "4 Rivers Smokehouse",
+      "neighborhood": "SoHo",
+      "sourceKind": "prospect",
+      "placeId": "ChIJKZtZZWzDwogRyyDRAy_sXKg",
+      "status": "pending",
+      "sourceUrl": "https://www.4rsmokehouse.com/menu/",
+      "sourceTitle": "Smokehouse Menu | 4 Rivers BBQ",
+      "snippet": "Your choice of 2 meats: Brisket (+$2.49), Pulled Pork, Burnt Ends, Pulled Chicken, Smoked Turkey, Texas Sausage, Vegan Burnt Ends, 1/4 ribs (+$2.99), or bone-in chicken and 2 Classic Sides.",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-4-rivers-smokehouse-3-your-choice-of-3-meats-brisket-2",
+      "venueId": "prospect-4-rivers-smokehouse",
+      "venueName": "4 Rivers Smokehouse",
+      "neighborhood": "SoHo",
+      "sourceKind": "prospect",
+      "placeId": "ChIJKZtZZWzDwogRyyDRAy_sXKg",
+      "status": "pending",
+      "sourceUrl": "https://www.4rsmokehouse.com/menu/",
+      "sourceTitle": "Smokehouse Menu | 4 Rivers BBQ",
+      "snippet": "Your choice of 3 meats: Brisket (+$2.49), Pulled Pork, Burnt Ends, Pulled Chicken, Smoked Turkey, Texas Sausage, Vegan Burnt Ends, 1/4 ribs (+$2.99) or bone-in chicken and 2 Classic Sides.",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-4-rivers-smokehouse-4-your-choice-of-meat-cheddar-chee",
+      "venueId": "prospect-4-rivers-smokehouse",
+      "venueName": "4 Rivers Smokehouse",
+      "neighborhood": "SoHo",
+      "sourceKind": "prospect",
+      "placeId": "ChIJKZtZZWzDwogRyyDRAy_sXKg",
+      "status": "pending",
+      "sourceUrl": "https://www.4rsmokehouse.com/menu/",
+      "sourceTitle": "Smokehouse Menu | 4 Rivers BBQ",
+      "snippet": "Your choice of meat, cheddar cheese and 4R Signature Sauce on a tortilla and grilled to perfection. (+$2.49 brisket)",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-4-rivers-smokehouse-5-purchase-the-perfect-gift-and-re",
+      "venueId": "prospect-4-rivers-smokehouse",
+      "venueName": "4 Rivers Smokehouse",
+      "neighborhood": "SoHo",
+      "sourceKind": "prospect",
+      "placeId": "ChIJKZtZZWzDwogRyyDRAy_sXKg",
+      "status": "pending",
+      "sourceUrl": "https://www.4rsmokehouse.com/locations/south-tampa/?utm_source=gmb&utm_medium=yext",
+      "sourceTitle": "Best BBQ in South Tampa | 4 Rivers Smokehouse",
+      "snippet": "Purchase the perfect gift and receive a $5 bonus card for every $25 gift card purchase.",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-4-rivers-smokehouse-6-24-hour-notice-catering-menus-an",
+      "venueId": "prospect-4-rivers-smokehouse",
+      "venueName": "4 Rivers Smokehouse",
+      "neighborhood": "SoHo",
+      "sourceKind": "prospect",
+      "placeId": "ChIJKZtZZWzDwogRyyDRAy_sXKg",
+      "status": "pending",
+      "sourceUrl": "https://www.4rsmokehouse.com/locations/south-tampa/?utm_source=gmb&utm_medium=yext",
+      "sourceTitle": "Best BBQ in South Tampa | 4 Rivers Smokehouse",
+      "snippet": "24-hour Notice - Catering Menus And Offerings, $200 Minimum",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-4-rivers-smokehouse-7-10-13-99-50-64-99-100-125-99",
+      "venueId": "prospect-4-rivers-smokehouse",
+      "venueName": "4 Rivers Smokehouse",
+      "neighborhood": "SoHo",
+      "sourceKind": "prospect",
+      "placeId": "ChIJKZtZZWzDwogRyyDRAy_sXKg",
+      "status": "pending",
+      "sourceUrl": "https://www.4rsmokehouse.com/menu/",
+      "sourceTitle": "Smokehouse Menu | 4 Rivers BBQ",
+      "snippet": "10 $13.99 50 $64.99 100 $125.99",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-acropolis-greek-taverna-tampa-1-5-single-calls-50-off-select-app",
+      "venueId": "prospect-acropolis-greek-taverna-tampa",
+      "venueName": "Acropolis Greek Taverna - Tampa",
+      "neighborhood": "Ybor",
+      "sourceKind": "prospect",
+      "placeId": "ChIJD_49nVHEwogR0Fy_o2shqfE",
+      "status": "pending",
+      "sourceUrl": "https://acropolistaverna.com/tampa/",
+      "sourceTitle": "Discover The Best Greek Cuisine at Acropolis Tampa",
+      "snippet": "$5 Single Calls 50% OFF Select Appetizers $3.50 Domestics $4.50 Imports Mon - Fri 3pm to 7pm",
+      "suggestedCategory": "Food",
+      "confidence": "high",
+      "matchedKeywords": [
+        "\\d+\\s?(?:%|percent)\\s+off",
+        "\\$\\d+",
+        "domestic(?:s)?",
+        "imports?",
+        "appetizers?"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-acropolis-greek-taverna-tampa-2-gyro-or-falafel-wrap-fries-drink",
+      "venueId": "prospect-acropolis-greek-taverna-tampa",
+      "venueName": "Acropolis Greek Taverna - Tampa",
+      "neighborhood": "Ybor",
+      "sourceKind": "prospect",
+      "placeId": "ChIJD_49nVHEwogR0Fy_o2shqfE",
+      "status": "pending",
+      "sourceUrl": "https://acropolistaverna.com/new-tampa/",
+      "sourceTitle": "Savor Flavorful Greek Cuisine at Acropolis Taverna New Tampa",
+      "snippet": "Gyro or Falafel Wrap, Fries, & Drink for $14.99 11am to 3pm",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-acropolis-greek-taverna-tampa-3-the-daily-specials-at-acropolis-",
+      "venueId": "prospect-acropolis-greek-taverna-tampa",
+      "venueName": "Acropolis Greek Taverna - Tampa",
+      "neighborhood": "Ybor",
+      "sourceKind": "prospect",
+      "placeId": "ChIJD_49nVHEwogR0Fy_o2shqfE",
+      "status": "pending",
+      "sourceUrl": "https://acropolistaverna.com/tampa/",
+      "sourceTitle": "Discover The Best Greek Cuisine at Acropolis Tampa",
+      "snippet": "The daily specials at Acropolis Greek Taverna feature a rotating selection of authentic Greek dishes, highlighting fresh ingredients and traditional flavors.",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "specials?"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-acropolis-greek-taverna-tampa-4-the-daily-specials-at-acropolis-",
+      "venueId": "prospect-acropolis-greek-taverna-tampa",
+      "venueName": "Acropolis Greek Taverna - Tampa",
+      "neighborhood": "Ybor",
+      "sourceKind": "prospect",
+      "placeId": "ChIJD_49nVHEwogR0Fy_o2shqfE",
+      "status": "pending",
+      "sourceUrl": "https://acropolistaverna.com/new-tampa/",
+      "sourceTitle": "Savor Flavorful Greek Cuisine at Acropolis Taverna New Tampa",
+      "snippet": "The daily specials at Acropolis Greek Taverna feature a rotating selection of authentic Greek dishes, showcasing the rich flavors of the Mediterranean.",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "specials?"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-acropolis-greek-taverna-tampa-5-the-daily-specials-at-acropolis-",
+      "venueId": "prospect-acropolis-greek-taverna-tampa",
+      "venueName": "Acropolis Greek Taverna - Tampa",
+      "neighborhood": "Ybor",
+      "sourceKind": "prospect",
+      "placeId": "ChIJD_49nVHEwogR0Fy_o2shqfE",
+      "status": "pending",
+      "sourceUrl": "https://acropolistaverna.com/menu/",
+      "sourceTitle": "Explore Delicious Greek Cuisine at Acropolis Greek Taverna",
+      "snippet": "The daily specials at Acropolis Taverna vary, featuring unique Greek dishes crafted to highlight fresh ingredients and flavors.",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "specials?"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-acropolis-greek-taverna-tampa-6-join-our-program-to-enjoy-specia",
+      "venueId": "prospect-acropolis-greek-taverna-tampa",
+      "venueName": "Acropolis Greek Taverna - Tampa",
+      "neighborhood": "Ybor",
+      "sourceKind": "prospect",
+      "placeId": "ChIJD_49nVHEwogR0Fy_o2shqfE",
+      "status": "pending",
+      "sourceUrl": "https://acropolistaverna.com/tampa/",
+      "sourceTitle": "Discover The Best Greek Cuisine at Acropolis Tampa",
+      "snippet": "Join our program to enjoy special deals and earn points with every visit!",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "specials?",
+        "deal(?:s)?"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-acropolis-greek-taverna-tampa-7-what-are-the-daily-specials-at-a",
+      "venueId": "prospect-acropolis-greek-taverna-tampa",
+      "venueName": "Acropolis Greek Taverna - Tampa",
+      "neighborhood": "Ybor",
+      "sourceKind": "prospect",
+      "placeId": "ChIJD_49nVHEwogR0Fy_o2shqfE",
+      "status": "pending",
+      "sourceUrl": "https://acropolistaverna.com/tampa/",
+      "sourceTitle": "Discover The Best Greek Cuisine at Acropolis Tampa",
+      "snippet": "What are the daily specials at Acropolis Greek Taverna?",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "specials?"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-acropolis-greek-taverna-tampa-8-what-are-the-daily-specials-at-t",
+      "venueId": "prospect-acropolis-greek-taverna-tampa",
+      "venueName": "Acropolis Greek Taverna - Tampa",
+      "neighborhood": "Ybor",
+      "sourceKind": "prospect",
+      "placeId": "ChIJD_49nVHEwogR0Fy_o2shqfE",
+      "status": "pending",
+      "sourceUrl": "https://acropolistaverna.com/menu/",
+      "sourceTitle": "Explore Delicious Greek Cuisine at Acropolis Greek Taverna",
+      "snippet": "What are the daily specials at the restaurant?",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "specials?"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-acropolis-greek-taverna-tampa-9-50-off-bottles-of-wine-from-2pm-",
+      "venueId": "prospect-acropolis-greek-taverna-tampa",
+      "venueName": "Acropolis Greek Taverna - Tampa",
+      "neighborhood": "Ybor",
+      "sourceKind": "prospect",
+      "placeId": "ChIJD_49nVHEwogR0Fy_o2shqfE",
+      "status": "pending",
+      "sourceUrl": "https://acropolistaverna.com/tampa/",
+      "sourceTitle": "Discover The Best Greek Cuisine at Acropolis Tampa",
+      "snippet": "50% OFF Bottles of Wine From 2pm to close",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\d+\\s?(?:%|percent)\\s+off",
+        "wine"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-acropolis-greek-taverna-tampa-10-acropolis-greek-taverna-hosts-a-",
+      "venueId": "prospect-acropolis-greek-taverna-tampa",
+      "venueName": "Acropolis Greek Taverna - Tampa",
+      "neighborhood": "Ybor",
+      "sourceKind": "prospect",
+      "placeId": "ChIJD_49nVHEwogR0Fy_o2shqfE",
+      "status": "pending",
+      "sourceUrl": "https://acropolistaverna.com/new-tampa/",
+      "sourceTitle": "Savor Flavorful Greek Cuisine at Acropolis Taverna New Tampa",
+      "snippet": "Acropolis Greek Taverna hosts a variety of special events, including live music nights, traditional Greek dance performances, and themed celebrations that immerse guests in Greek culture while",
+      "suggestedCategory": "Live music",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "specials?",
+        "live music"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-acropolis-greek-taverna-tampa-11-the-price-range-for-meals-at-acr",
+      "venueId": "prospect-acropolis-greek-taverna-tampa",
+      "venueName": "Acropolis Greek Taverna - Tampa",
+      "neighborhood": "Ybor",
+      "sourceKind": "prospect",
+      "placeId": "ChIJD_49nVHEwogR0Fy_o2shqfE",
+      "status": "pending",
+      "sourceUrl": "https://acropolistaverna.com/new-tampa/",
+      "sourceTitle": "Savor Flavorful Greek Cuisine at Acropolis Taverna New Tampa",
+      "snippet": "The price range for meals at Acropolis Greek Taverna typically varies from $10 to $30, offering a variety of delicious options to suit different budgets and preferences.",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-chili-s-grill-bar-1-then-get-the-best-value-meal-sta",
+      "venueId": "prospect-chili-s-grill-bar",
+      "venueName": "Chili's Grill & Bar",
+      "neighborhood": "Tampa",
+      "sourceKind": "prospect",
+      "placeId": "ChIJbRGiHqXDwogRpmNvdRYdY6U",
+      "status": "pending",
+      "sourceUrl": "https://www.chilis.com/menu",
+      "sourceTitle": "Chili&#x27;s Grill & Bar",
+      "snippet": "Then get the best value meal; starting at $10.99.",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-daily-eats-1-choice-of-side-home-fries-tater-",
+      "venueId": "prospect-daily-eats",
+      "venueName": "Daily Eats",
+      "neighborhood": "SoHo",
+      "sourceKind": "prospect",
+      "placeId": "ChIJmx9Ai2bDwogR0KirfRhQSos",
+      "status": "pending",
+      "sourceUrl": "https://www.ilovedailyeats.com/menu",
+      "sourceTitle": "Daily Eats Menu | Breakfast, Brunch, Burgers & Comfort Food in Tampa",
+      "snippet": "Choice of SIDE ‍ home fries | tater tots | fries | grits | sweet potato fries (+$1.5) | fresh fruit (+$1.5)",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-daily-eats-2-add-2-eggs-4-grilled-chicken-4",
+      "venueId": "prospect-daily-eats",
+      "venueName": "Daily Eats",
+      "neighborhood": "SoHo",
+      "sourceKind": "prospect",
+      "placeId": "ChIJmx9Ai2bDwogR0KirfRhQSos",
+      "status": "pending",
+      "sourceUrl": "https://www.ilovedailyeats.com/menu",
+      "sourceTitle": "Daily Eats Menu | Breakfast, Brunch, Burgers & Comfort Food in Tampa",
+      "snippet": "| ADD: 2 eggs (+$4) grilled chicken (+$4)",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-gametime-tampa-1-get-50-off-our-well-and-call-dri",
+      "venueId": "prospect-gametime-tampa",
+      "venueName": "GameTime Tampa",
+      "neighborhood": "Ybor",
+      "sourceKind": "prospect",
+      "placeId": "ChIJK_D-ZlDEwogReadEFEDV-dE",
+      "status": "pending",
+      "sourceUrl": "https://www.gametimeplayers.com/home-tampa/",
+      "sourceTitle": "Home Page - Game Time Players",
+      "snippet": "Get 50% off our well and call drinks, $2 off beer, wine, and specialty cocktails, and enjoy our $5 bites menu!",
+      "suggestedCategory": "Drinks",
+      "confidence": "high",
+      "matchedKeywords": [
+        "\\d+\\s?(?:%|percent)\\s+off",
+        "\\$\\d+",
+        "wine",
+        "beer"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-gametime-tampa-2-sunrise-special-is-a-2-hour-time",
+      "venueId": "prospect-gametime-tampa",
+      "venueName": "GameTime Tampa",
+      "neighborhood": "Ybor",
+      "sourceKind": "prospect",
+      "placeId": "ChIJK_D-ZlDEwogReadEFEDV-dE",
+      "status": "pending",
+      "sourceUrl": "https://www.gametimeplayers.com/home-tampa/",
+      "sourceTitle": "Home Page - Game Time Players",
+      "snippet": "Sunrise Special is a 2-Hour Timed-Play Game Card for $15 per person.",
+      "suggestedCategory": "Drinks",
+      "confidence": "high",
+      "matchedKeywords": [
+        "specials?",
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-gametime-tampa-3-get-50-off-cocktails-beer-wine-m",
+      "venueId": "prospect-gametime-tampa",
+      "venueName": "GameTime Tampa",
+      "neighborhood": "Ybor",
+      "sourceKind": "prospect",
+      "placeId": "ChIJK_D-ZlDEwogReadEFEDV-dE",
+      "status": "pending",
+      "sourceUrl": "https://www.gametimeplayers.com/home-tampa/",
+      "sourceTitle": "Home Page - Game Time Players",
+      "snippet": "Get 50% off cocktails, beer & wine Monday thru Friday 4pm-8pm!",
+      "suggestedCategory": "Drinks",
+      "confidence": "high",
+      "matchedKeywords": [
+        "\\d+\\s?(?:%|percent)\\s+off",
+        "wine",
+        "beer"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-gametime-tampa-4-happy-hour-mon-fri-4pm-8211-8pm",
+      "venueId": "prospect-gametime-tampa",
+      "venueName": "GameTime Tampa",
+      "neighborhood": "Ybor",
+      "sourceKind": "prospect",
+      "placeId": "ChIJK_D-ZlDEwogReadEFEDV-dE",
+      "status": "pending",
+      "sourceUrl": "https://www.gametimeplayers.com/home-tampa/",
+      "sourceTitle": "Home Page - Game Time Players",
+      "snippet": "Happy Hour Mon-Fri 4pm &#8211; 8pm",
+      "suggestedCategory": "Drinks",
+      "confidence": "high",
+      "matchedKeywords": [
+        "happy hour"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-gametime-tampa-5-happy-hour-mon-fri-4pm-8pm",
+      "venueId": "prospect-gametime-tampa",
+      "venueName": "GameTime Tampa",
+      "neighborhood": "Ybor",
+      "sourceKind": "prospect",
+      "placeId": "ChIJK_D-ZlDEwogReadEFEDV-dE",
+      "status": "pending",
+      "sourceUrl": "https://www.gametimeplayers.com/home-tampa/",
+      "sourceTitle": "Home Page - Game Time Players",
+      "snippet": "Happy Hour Mon.-Fri. 4pm - 8pm",
+      "suggestedCategory": "Drinks",
+      "confidence": "high",
+      "matchedKeywords": [
+        "happy hour"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-gametime-tampa-6-every-saturday-and-sunday-from-1",
+      "venueId": "prospect-gametime-tampa",
+      "venueName": "GameTime Tampa",
+      "neighborhood": "Ybor",
+      "sourceKind": "prospect",
+      "placeId": "ChIJK_D-ZlDEwogReadEFEDV-dE",
+      "status": "pending",
+      "sourceUrl": "https://www.gametimeplayers.com/home-tampa/",
+      "sourceTitle": "Home Page - Game Time Players",
+      "snippet": "Every Saturday and Sunday from 10am – 11am, get a Two-Hour Timed Play card for just $15.",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-gametime-tampa-7-with-a-wide-variety-of-menu-sele",
+      "venueId": "prospect-gametime-tampa",
+      "venueName": "GameTime Tampa",
+      "neighborhood": "Ybor",
+      "sourceKind": "prospect",
+      "placeId": "ChIJK_D-ZlDEwogReadEFEDV-dE",
+      "status": "pending",
+      "sourceUrl": "https://www.gametimeplayers.com/corporate-events-daytona/",
+      "sourceTitle": "Corporate Events - Game Time Players",
+      "snippet": "With a wide variety of menu selections including delicious appetizers and entrees, great kid's meals, healthy salads, build-your-own-burger options, and great Sports Bar picks like nachos or chicken wings, you",
+      "suggestedCategory": "Food",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "wing(?:s)?",
+        "appetizers?",
+        "burger(?:s)?"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-gametime-tampa-8-enjoy-happy-hour-every-monday-fr",
+      "venueId": "prospect-gametime-tampa",
+      "venueName": "GameTime Tampa",
+      "neighborhood": "Ybor",
+      "sourceKind": "prospect",
+      "placeId": "ChIJK_D-ZlDEwogReadEFEDV-dE",
+      "status": "pending",
+      "sourceUrl": "https://www.gametimeplayers.com/home-tampa/",
+      "sourceTitle": "Home Page - Game Time Players",
+      "snippet": "Enjoy Happy Hour every Monday-Friday from 4pm-8pm!",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "happy hour"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-gametime-tampa-9-15-is-all-it-takes-to-enjoy-5-ho",
+      "venueId": "prospect-gametime-tampa",
+      "venueName": "GameTime Tampa",
+      "neighborhood": "Ybor",
+      "sourceKind": "prospect",
+      "placeId": "ChIJK_D-ZlDEwogReadEFEDV-dE",
+      "status": "pending",
+      "sourceUrl": "https://www.gametimeplayers.com/home-tampa/",
+      "sourceTitle": "Home Page - Game Time Players",
+      "snippet": "$15 is all it takes to enjoy 5 Hours of Timed Play*!",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-timpano-hyde-park-1-savor-special-priced-cocktails-9",
+      "venueId": "prospect-timpano-hyde-park",
+      "venueName": "Timpano Hyde Park",
+      "neighborhood": "SoHo",
+      "sourceKind": "prospect",
+      "placeId": "ChIJBcNdEmLDwogRKDWYDW3lUAI",
+      "status": "pending",
+      "sourceUrl": "https://www.timpanohydepark.com/",
+      "sourceTitle": "HOME",
+      "snippet": "Savor special priced cocktails, $9 wines by the glass, and crave-worthy bites&mdash;served at our chic bar or breezy patio.",
+      "suggestedCategory": "Drinks",
+      "confidence": "high",
+      "matchedKeywords": [
+        "specials?",
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-timpano-hyde-park-2-join-us-weekdays-from-11-am-7-pm",
+      "venueId": "prospect-timpano-hyde-park",
+      "venueName": "Timpano Hyde Park",
+      "neighborhood": "SoHo",
+      "sourceKind": "prospect",
+      "placeId": "ChIJBcNdEmLDwogRKDWYDW3lUAI",
+      "status": "pending",
+      "sourceUrl": "https://www.timpanohydepark.com/",
+      "sourceTitle": "HOME",
+      "snippet": "Join us weekdays from 11 am - 7 pm and weekends from 4&ndash;7 pm for our version of Happy Hour.",
+      "suggestedCategory": "Drinks",
+      "confidence": "high",
+      "matchedKeywords": [
+        "happy hour"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-timpano-hyde-park-3-a-featured-dinner-menu-and-our-f",
+      "venueId": "prospect-timpano-hyde-park",
+      "venueName": "Timpano Hyde Park",
+      "neighborhood": "SoHo",
+      "sourceKind": "prospect",
+      "placeId": "ChIJBcNdEmLDwogRKDWYDW3lUAI",
+      "status": "pending",
+      "sourceUrl": "https://www.timpanohydepark.com/",
+      "sourceTitle": "HOME",
+      "snippet": "A featured dinner menu and our full menu will be available Friday through Sunday, along with Sunday brunch, opening at 9AM for the holiday.",
+      "suggestedCategory": "Food",
+      "confidence": "low",
+      "matchedKeywords": [
+        "brunch"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-timpano-hyde-park-4-join-our-e-club-to-be-the-first-",
+      "venueId": "prospect-timpano-hyde-park",
+      "venueName": "Timpano Hyde Park",
+      "neighborhood": "SoHo",
+      "sourceKind": "prospect",
+      "placeId": "ChIJBcNdEmLDwogRKDWYDW3lUAI",
+      "status": "pending",
+      "sourceUrl": "https://www.timpanohydepark.com/",
+      "sourceTitle": "HOME",
+      "snippet": "Join our e-club to be the first to hear about our special events, limited time offerings and so much more!",
+      "suggestedCategory": "Drinks",
+      "confidence": "low",
+      "matchedKeywords": [
+        "specials?"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-timpano-hyde-park-5-weekday-lunch-served-daily-from-",
+      "venueId": "prospect-timpano-hyde-park",
+      "venueName": "Timpano Hyde Park",
+      "neighborhood": "SoHo",
+      "sourceKind": "prospect",
+      "placeId": "ChIJBcNdEmLDwogRKDWYDW3lUAI",
+      "status": "pending",
+      "sourceUrl": "https://www.timpanohydepark.com/",
+      "sourceTitle": "HOME",
+      "snippet": "Weekday lunch served daily from 11 am - 3 pm.",
+      "suggestedCategory": "Drinks",
+      "confidence": "low",
+      "matchedKeywords": [],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-yeoman-s-topgolf-swing-suite-1-life-s-too-short-for-boring-days",
+      "venueId": "prospect-yeoman-s-topgolf-swing-suite",
+      "venueName": "Yeoman's Topgolf Swing Suite",
+      "neighborhood": "Channelside",
+      "sourceKind": "prospect",
+      "placeId": "ChIJQ27bQovEwogRaTOvsjTavhk",
+      "status": "pending",
+      "sourceUrl": "https://yeomanstopgolfswingsuite.com/",
+      "sourceTitle": "Yeomans Topgolf Swing Suite | Golf & Gaming | Central Florida",
+      "snippet": "Life's too short for boring days—so spice things up with Yeoman's daily specials!",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "specials?"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-yeoman-s-topgolf-swing-suite-2-substitute-honey-sweet-potato-fr",
+      "venueId": "prospect-yeoman-s-topgolf-swing-suite",
+      "venueName": "Yeoman's Topgolf Swing Suite",
+      "neighborhood": "Channelside",
+      "sourceKind": "prospect",
+      "placeId": "ChIJQ27bQovEwogRaTOvsjTavhk",
+      "status": "pending",
+      "sourceUrl": "https://yeomanstopgolfswingsuite.com/tampa-menu/",
+      "sourceTitle": "Food & Drinks | Yeomans Topgolf Swing Suite Menu",
+      "snippet": "Substitute honey sweet potato fries or a side salad +$1.99",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-yeoman-s-topgolf-swing-suite-3-6-oz-13-50-bull-9-oz-17-50-bull-",
+      "venueId": "prospect-yeoman-s-topgolf-swing-suite",
+      "venueName": "Yeoman's Topgolf Swing Suite",
+      "neighborhood": "Channelside",
+      "sourceKind": "prospect",
+      "placeId": "ChIJQ27bQovEwogRaTOvsjTavhk",
+      "status": "pending",
+      "sourceUrl": "https://yeomanstopgolfswingsuite.com/drink-menu/",
+      "sourceTitle": "Drink Menu - Yeoman&#039;s Topgolf Swing Suite",
+      "snippet": "6 oz $13.50 &bull; 9 oz $17.50 &bull; Bottle $43",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-yeoman-s-topgolf-swing-suite-4-6-oz-11-99-bull-9-oz-15-99-bull-",
+      "venueId": "prospect-yeoman-s-topgolf-swing-suite",
+      "venueName": "Yeoman's Topgolf Swing Suite",
+      "neighborhood": "Channelside",
+      "sourceKind": "prospect",
+      "placeId": "ChIJQ27bQovEwogRaTOvsjTavhk",
+      "status": "pending",
+      "sourceUrl": "https://yeomanstopgolfswingsuite.com/drink-menu/",
+      "sourceTitle": "Drink Menu - Yeoman&#039;s Topgolf Swing Suite",
+      "snippet": "6 oz $11.99 &bull; 9 oz 15.99 &bull; Bottle $40",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-yeoman-s-topgolf-swing-suite-5-6-oz-10-99-9-oz-14-99-bottle-38",
+      "venueId": "prospect-yeoman-s-topgolf-swing-suite",
+      "venueName": "Yeoman's Topgolf Swing Suite",
+      "neighborhood": "Channelside",
+      "sourceKind": "prospect",
+      "placeId": "ChIJQ27bQovEwogRaTOvsjTavhk",
+      "status": "pending",
+      "sourceUrl": "https://yeomanstopgolfswingsuite.com/drink-menu/",
+      "sourceTitle": "Drink Menu - Yeoman&#039;s Topgolf Swing Suite",
+      "snippet": "6 oz $10.99 • 9 oz $14.99 • Bottle $38",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-yeoman-s-topgolf-swing-suite-6-6-oz-13-50-9-oz-17-50-bottle-46",
+      "venueId": "prospect-yeoman-s-topgolf-swing-suite",
+      "venueName": "Yeoman's Topgolf Swing Suite",
+      "neighborhood": "Channelside",
+      "sourceKind": "prospect",
+      "placeId": "ChIJQ27bQovEwogRaTOvsjTavhk",
+      "status": "pending",
+      "sourceUrl": "https://yeomanstopgolfswingsuite.com/drink-menu/",
+      "sourceTitle": "Drink Menu - Yeoman&#039;s Topgolf Swing Suite",
+      "snippet": "6 oz $13.50 • 9 oz $17.50 • Bottle $46",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-yeoman-s-topgolf-swing-suite-7-12-99-make-it-creamy-for-1",
+      "venueId": "prospect-yeoman-s-topgolf-swing-suite",
+      "venueName": "Yeoman's Topgolf Swing Suite",
+      "neighborhood": "Channelside",
+      "sourceKind": "prospect",
+      "placeId": "ChIJQ27bQovEwogRaTOvsjTavhk",
+      "status": "pending",
+      "sourceUrl": "https://yeomanstopgolfswingsuite.com/drink-menu/",
+      "sourceTitle": "Drink Menu - Yeoman&#039;s Topgolf Swing Suite",
+      "snippet": "$12.99 | Make it creamy for +$1",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-yeoman-s-topgolf-swing-suite-8-12-99-make-it-a-double-5",
+      "venueId": "prospect-yeoman-s-topgolf-swing-suite",
+      "venueName": "Yeoman's Topgolf Swing Suite",
+      "neighborhood": "Channelside",
+      "sourceKind": "prospect",
+      "placeId": "ChIJQ27bQovEwogRaTOvsjTavhk",
+      "status": "pending",
+      "sourceUrl": "https://yeomanstopgolfswingsuite.com/drink-menu/",
+      "sourceTitle": "Drink Menu - Yeoman&#039;s Topgolf Swing Suite",
+      "snippet": "$12.99 | Make it a double +$5",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-yeoman-s-topgolf-swing-suite-9-beer-ciders-seltzers",
+      "venueId": "prospect-yeoman-s-topgolf-swing-suite",
+      "venueName": "Yeoman's Topgolf Swing Suite",
+      "neighborhood": "Channelside",
+      "sourceKind": "prospect",
+      "placeId": "ChIJQ27bQovEwogRaTOvsjTavhk",
+      "status": "pending",
+      "sourceUrl": "https://yeomanstopgolfswingsuite.com/tampa-menu/",
+      "sourceTitle": "Food & Drinks | Yeomans Topgolf Swing Suite Menu",
+      "snippet": "Beer, Ciders, & Seltzers",
+      "suggestedCategory": "Drinks",
+      "confidence": "low",
+      "matchedKeywords": [
+        "beer",
+        "seltzers?"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-bartaco-1-h-j-l-cl-z-xz-kn-xs-v-u-j-q-xdp-",
+      "venueId": "prospect-bartaco",
+      "venueName": "bartaco",
+      "neighborhood": "SoHo",
+      "sourceKind": "prospect",
+      "placeId": "ChIJDZWIHmLDwogRux0qtYlHGos",
+      "status": "pending",
+      "sourceUrl": "https://bartaco.com/media/web_BTMenu_7010_trifold_HIF_HID_FT4_2026_04_08.pdf",
+      "sourceTitle": "",
+      "snippet": "\u0011��H\u001e��Ϣ��\u0006�/j\u0015l\u0013cL�_�Z��xZ>kN\u0002\u0001\u0016�ء�����xs�v��U+J��Ԝ�q*!��xDp�,*�HZ�!\u0002$8��\u0000�\u0014���F�\u001bѪ\u0006\u0002d��9����g~����k�\u0013\u0015��\u0006\u0017�!y��mkzC��&�uن�s�e�8ir��\u0012� ���)�_�����I�\u000f�\"9����\u001bL$G�m��\u0019 ��HG:+9�����&�M>\u000euO�\u001f'�\u0016?�\b; \u0001\u0015ű���\bӥ\u001a���{�D� @�P�\u0011",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-bartaco-2-k-0-f-y-jx-e-h-hl-e-v-o-kj-6-z-s",
+      "venueId": "prospect-bartaco",
+      "venueName": "bartaco",
+      "neighborhood": "SoHo",
+      "sourceKind": "prospect",
+      "placeId": "ChIJDZWIHmLDwogRux0qtYlHGos",
+      "status": "pending",
+      "sourceUrl": "https://bartaco.com/media/web_BTMenu_7010_trifold_HIF_HID_FT4_2026_04_08.pdf",
+      "sourceTitle": "",
+      "snippet": "� k���0\u0004 ಁ�f���.\u0001����`�\u0014\u0003#\u0013\u0013�ț\u0001��y�Jx+e%ʉ��@H��� �hL}e\u000f �\u0012V��\u0013�O|�KJ\u0004\b$6(�z %�~/\u001aS�j�L6\u0000�AA�Q�Qveb�, 2M\u001b���G��\u0000�fR ocBq$�\b�R\u0016`�\u001c9\u0001 SQ�y#���\u0010�T�j\u001d��>e�/�����\u001c�\u0004�7|���\u001a�\u0007�:\u0016�\u001fլV�,�!�;���\u0006�z=��RI\u0019*��\u0017�a�����\u0006�ʻ���%3\u001eצ�ħ\u0016��",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-bartaco-3-u-d-n-t-o-h-c8-jw-y-v-g-p-0m-h-m",
+      "venueId": "prospect-bartaco",
+      "venueName": "bartaco",
+      "neighborhood": "SoHo",
+      "sourceKind": "prospect",
+      "placeId": "ChIJDZWIHmLDwogRux0qtYlHGos",
+      "status": "pending",
+      "sourceUrl": "https://bartaco.com/media/web_BTMenu_7010_trifold_HIF_HID_FT4_2026_04_08.pdf",
+      "sourceTitle": "",
+      "snippet": "�u��\u001d{D!\u0017���\"��N�|����t\u0015� \\�ʅ~�)\u001co�@�\u0003�H��C8��Jw����\u0018y�\u0011V��G&�$�.����P$0m\u0003�]�h��M�\u001a(3PG�\u000e\u0017\u001a�H��/�*�6� v��8\u0007�ɪ� \u0001ȃ��Y�(i�,�xT��F�W\u0015\u001b��Z�2�.�9�l�*U��)\u001f�|�#\u0004�\u0000R��:PO�1kHgd��&r��'G\u0005���`\u001d�-�p��ͼ�\bW\u0014Um� ��\u001fa��\u0016���>\u0002��]\u0005��}��?B",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-bartaco-4-i-ii-d7-94-q-w-s-5-4-2-z-2-oat-x",
+      "venueId": "prospect-bartaco",
+      "venueName": "bartaco",
+      "neighborhood": "SoHo",
+      "sourceKind": "prospect",
+      "placeId": "ChIJDZWIHmLDwogRux0qtYlHGos",
+      "status": "pending",
+      "sourceUrl": "https://bartaco.com/media/web_BTMenu_7010_trifold_HIF_HID_FT4_2026_04_08.pdf",
+      "sourceTitle": "",
+      "snippet": "�I��Ii�D7(+94�\u001d�Q+W$�\u0006S�\u0016 ,5�4�2�^ \"\u0013��+\u0010z�ԉ� $2�-�;����OAT|� �\u001f&�\u001a��!�x���\u000e\u0013� o\u0013o�SR[&�\u001a�|��M��a��\u0007􋁷j��\u0001\u0017�\u001b�\u0006^֡�ߧ��6��m#�\u0006�J��a��\u0002���[���0�[Ǹ\u0018x�CE�����\u000f:bId�E˝|1�ɸ\u001ax�\u0015�m�E?�q�o�R�/\u0006��\"R�\u0005eFǣɾ[Fه",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-bartaco-5-n-3-e-w-z-qp-u-4-zqh-c-2-f-v8-qn",
+      "venueId": "prospect-bartaco",
+      "venueName": "bartaco",
+      "neighborhood": "SoHo",
+      "sourceKind": "prospect",
+      "placeId": "ChIJDZWIHmLDwogRux0qtYlHGos",
+      "status": "pending",
+      "sourceUrl": "https://bartaco.com/media/web_BTMenu_7010_trifold_HIF_HID_FT4_2026_04_08.pdf",
+      "sourceTitle": "",
+      "snippet": "N�3\u0004� �\u001c�E�W'���\u0005�͆׷��z=�^���qp���u>��\u0012({�>�4ꅸ#Zqh��=C �2��F ;�^\u0012V8�\"\u000eք�qN�IT�X\u0013\u000f�Z�*E|�X\u0005mTA;��}G�:�J\u0014�}G�\u00165l-�����\u00104wlY\u0012~��]:j�`�%��\u0001��!���'CB:���� �:\u00007GlB���Z0[��\u0015\u0010J\u0003!�$0�C�\b�Q�Y|E�Z�(��0g�@��",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-bartaco-6-9-g-5-n-u-g-j-l-9ws-pdl-gl-w-x-f",
+      "venueId": "prospect-bartaco",
+      "venueName": "bartaco",
+      "neighborhood": "SoHo",
+      "sourceKind": "prospect",
+      "placeId": "ChIJDZWIHmLDwogRux0qtYlHGos",
+      "status": "pending",
+      "sourceUrl": "https://bartaco.com/media/web_BTMenu_7010_trifold_HIF_HID_FT4_2026_04_08.pdf",
+      "sourceTitle": "",
+      "snippet": "�9����G��\u00045ǹ��\u0002���N�u' \u0012�g�J�\u0012\u0017��L>9wS\u001b�PdL�\u0004�ځGL&w[� �x�F\u0005�h�F\u0011�VA\u0010Nk$1�T��\u0006�5o\u001cֈK\u0013g\u0019:�CW�,��S�,�]�Ћ �c�5O��Z\u0015H����eVꄔ�r��J\u0005`���^�º*\u0014L�7Pi\u00184C\\�\"\u0007�92%� �lN!2[��I\u001cž_���.Ȟ���K9��U��El��5J�bv�",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-bartaco-7-d-u-z-s-p5-ogob-e-7-a-a-oy-f-b-5",
+      "venueId": "prospect-bartaco",
+      "venueName": "bartaco",
+      "neighborhood": "SoHo",
+      "sourceKind": "prospect",
+      "placeId": "ChIJDZWIHmLDwogRux0qtYlHGos",
+      "status": "pending",
+      "sourceUrl": "https://bartaco.com/media/web_BTMenu_7010_trifold_HIF_HID_FT4_2026_04_08.pdf",
+      "sourceTitle": "",
+      "snippet": "���\u001c�}\u000f��d�u�����\u0013�\u0010z�������\u0005\u0000�s�;��P5�㡢�\u0012oGOb�#\u0018��e��7�Ĵa�a\u001b�OY�F�bݫ�$5��S���2�d���tW�D�q��h�\u001b�\u0005��\u0000�8��o�B���\u0014JC�ȡf6���bjj��Y�\u0005\u0016_A�\u0002�o�d��r\u001c����G�]Z�\u001c��\u0016\u001dF���[��Z;-݊l1�?Ÿ��t���؀P��",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-bartaco-8-oh-z-z-k-ox-w-1-6-o-r3uv-8o-si-j",
+      "venueId": "prospect-bartaco",
+      "venueName": "bartaco",
+      "neighborhood": "SoHo",
+      "sourceKind": "prospect",
+      "placeId": "ChIJDZWIHmLDwogRux0qtYlHGos",
+      "status": "pending",
+      "sourceUrl": "https://bartaco.com/media/web_BTMenu_7010_trifold_HIF_HID_FT4_2026_04_08.pdf",
+      "sourceTitle": "",
+      "snippet": "Oh��\u0013Z��\u0017Z��\u0013\\��.�� /���~�K?ᥟ��Ox�~��\u0017_*\u0010~�,w�\u001d-��1\u0001�6�\u001f���\u0003o�:�R3uv�$8O�\u0001SI�J�y�7�PW��m#\u0015\u0000�\u001c��|�(�H R%\u0012]�+�d�;{�NO-\u001a�Ȫ���]\u001d�J����0��\u001c�\u001a�f��",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-bartaco-9-f-3-9-ph-p-d-m-h-2k-i-k-g-ym-g-c",
+      "venueId": "prospect-bartaco",
+      "venueName": "bartaco",
+      "neighborhood": "SoHo",
+      "sourceKind": "prospect",
+      "placeId": "ChIJDZWIHmLDwogRux0qtYlHGos",
+      "status": "pending",
+      "sourceUrl": "https://bartaco.com/media/web_BTMenu_7010_trifold_HIF_HID_FT4_2026_04_08.pdf",
+      "sourceTitle": "",
+      "snippet": "F�,��$3@��9�PH\u0014\u001c��P��d\u0006 ����m�ց\u0010��h��2k�ᚲI�\u0011k��\u001f~���\u0007`G\u001d��YM��g\"�C�$�\u0017���n��S�וF\b���\u0013ʭ\u0012�u�X\"6m��\u001b��xq`&�\u0003����1�\u0012�K���$�z",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-columbia-restaurant-1-treat-someone-to-a-columbia-rest",
+      "venueId": "prospect-columbia-restaurant",
+      "venueName": "Columbia Restaurant",
+      "neighborhood": "Ybor",
+      "sourceKind": "prospect",
+      "placeId": "ChIJz8e7TVLEwogRBeybvscHnD4",
+      "status": "pending",
+      "sourceUrl": "https://www.columbiarestaurant.com/",
+      "sourceTitle": "Home | Columbia Restaurant",
+      "snippet": "Treat someone to a Columbia Restaurant gift card and make their next celebration special.",
+      "suggestedCategory": "Drinks",
+      "confidence": "low",
+      "matchedKeywords": [
+        "specials?"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-mangos-southern-kitchen-and-bar-1-as-our-second-location-this-elev",
+      "venueId": "prospect-mangos-southern-kitchen-and-bar",
+      "venueName": "Mangos Southern Kitchen and Bar",
+      "neighborhood": "Tampa",
+      "sourceKind": "prospect",
+      "placeId": "ChIJ7ThsNUPFwogRQ_WAyKqMz3A",
+      "status": "pending",
+      "sourceUrl": "https://www.mangossouthernkitchen.com/events-and-catering",
+      "sourceTitle": "EVENTS & CATERING | MANGOS SOUTHERN KITCHEN & BAR",
+      "snippet": "As our second location, this elevated concept brings a refined twist to the beloved flavors Mangos is known for&mdash;perfect for date nights, special celebrations, and private gatherings.",
+      "suggestedCategory": "Drinks",
+      "confidence": "low",
+      "matchedKeywords": [
+        "specials?"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-mangos-southern-kitchen-and-bar-2-whether-you-rsquo-re-in-the-mood",
+      "venueId": "prospect-mangos-southern-kitchen-and-bar",
+      "venueName": "Mangos Southern Kitchen and Bar",
+      "neighborhood": "Tampa",
+      "sourceKind": "prospect",
+      "placeId": "ChIJ7ThsNUPFwogRQ_WAyKqMz3A",
+      "status": "pending",
+      "sourceUrl": "https://www.mangossouthernkitchen.com/",
+      "sourceTitle": "HOME | MANGOS SOUTHERN KITCHEN & BAR",
+      "snippet": "Whether you&rsquo;re in the mood for a light bite, a hearty meal, or a sweet treat, we have something special for everyone.",
+      "suggestedCategory": "Drinks",
+      "confidence": "low",
+      "matchedKeywords": [
+        "specials?"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-mangos-southern-kitchen-and-bar-3-sunday-11am-ndash-10pm-brunch-me",
+      "venueId": "prospect-mangos-southern-kitchen-and-bar",
+      "venueName": "Mangos Southern Kitchen and Bar",
+      "neighborhood": "Tampa",
+      "sourceKind": "prospect",
+      "placeId": "ChIJ7ThsNUPFwogRQ_WAyKqMz3A",
+      "status": "pending",
+      "sourceUrl": "https://www.mangossouthernkitchen.com/menus",
+      "sourceTitle": "MENUS | MANGOS SOUTHERN KITCHEN & BAR",
+      "snippet": "Sunday 11AM &ndash; 10PM (Brunch Menu 11a-5p / Dinner 5p-10p)",
+      "suggestedCategory": "Food",
+      "confidence": "low",
+      "matchedKeywords": [
+        "brunch"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-mangos-southern-kitchen-and-bar-4-wed-thurs-3pm-ndash-10pm-soul-fo",
+      "venueId": "prospect-mangos-southern-kitchen-and-bar",
+      "venueName": "Mangos Southern Kitchen and Bar",
+      "neighborhood": "Tampa",
+      "sourceKind": "prospect",
+      "placeId": "ChIJ7ThsNUPFwogRQ_WAyKqMz3A",
+      "status": "pending",
+      "sourceUrl": "https://www.mangossouthernkitchen.com/menus",
+      "sourceTitle": "MENUS | MANGOS SOUTHERN KITCHEN & BAR",
+      "snippet": "Wed & Thurs 3PM &ndash; 10PM (Soul Food Menu)",
+      "suggestedCategory": "Food",
+      "confidence": "low",
+      "matchedKeywords": [],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-mangos-southern-kitchen-and-bar-5-wed-thurs-3-pm-6-pm",
+      "venueId": "prospect-mangos-southern-kitchen-and-bar",
+      "venueName": "Mangos Southern Kitchen and Bar",
+      "neighborhood": "Tampa",
+      "sourceKind": "prospect",
+      "placeId": "ChIJ7ThsNUPFwogRQ_WAyKqMz3A",
+      "status": "pending",
+      "sourceUrl": "https://www.mangossouthernkitchen.com/",
+      "sourceTitle": "HOME | MANGOS SOUTHERN KITCHEN & BAR",
+      "snippet": "Wed - Thurs: 3 PM - 6 PM",
+      "suggestedCategory": "Drinks",
+      "confidence": "low",
+      "matchedKeywords": [],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-oak-ola-1-m-k-hl-ypr-q-j-s-7-a-r7-o-4-i-d-",
+      "venueId": "prospect-oak-ola",
+      "venueName": "Oak & Ola",
+      "neighborhood": "Downtown Tampa",
+      "sourceKind": "prospect",
+      "placeId": "ChIJFdsuKwDFwogRNyTrKi7NGtE",
+      "status": "pending",
+      "sourceUrl": "https://static1.squarespace.com/static/5b7c4d0d5cfd792b8412f560/t/6988d015ce63e161d69b5a29/1770573845808/Jan+2026+Phase+2+menu.pdf",
+      "sourceTitle": "",
+      "snippet": "\u0001M!\u0018 �\u0014��\u0003�\u0002�\u0004K�%`\\�hL��\u0005�YPR�������\u0017� \u001e��Q�ȩ�\u0002j�䱈S�\u0011'7*�\u0005��#��A�� �\u0014R7� O�4�$i�󒧘���,D�\u0003�Kb[Ǵp�=��a\u001dR�e�c$6R[�\u00139��� �ķ���;�s�\u0001r��e8��4�\u0003Y��O�� ���'�\u00030�{��'?\u001a��v웳IbB��{;,��V�o�T%~�1$o��)��O\"�`��Ϣx��`����j\u0019���\u0006��n� >����",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-oak-ola-2-d-j-l-8-o-c-2-n-e-g-c-7c-f-n-p-j",
+      "venueId": "prospect-oak-ola",
+      "venueName": "Oak & Ola",
+      "neighborhood": "Downtown Tampa",
+      "sourceKind": "prospect",
+      "placeId": "ChIJFdsuKwDFwogRNyTrKi7NGtE",
+      "status": "pending",
+      "sourceUrl": "https://static1.squarespace.com/static/5b7c4d0d5cfd792b8412f560/t/6988d015ce63e161d69b5a29/1770573845808/Jan+2026+Phase+2+menu.pdf",
+      "sourceTitle": "",
+      "snippet": "�d.,���J�l 8�\u0010����o�C:��'�2\u001a\u0010+\u001c�N�e�g��\u000f뗺�C\u000e��ʁ�7C�����FĊ%�\u0001�N��p 利\u0010J6:V�0\\��/m*����kBN�Y�$h\u0012ki� �j)���\u000f�?��Ԛr��� �,-\"�t4m򼙦2Q�$��\u001a (�$0���\u0001��\u0001�\u001f�B �y�P�l*l�\u0012x��y��\u0005���\u0001�!\u001e\u0015/��\u0001\u001b�L\u0010ȸ",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-oak-ola-3-9-x-qy-76-1-7-v-w-0-y-h-8-n-k-g-",
+      "venueId": "prospect-oak-ola",
+      "venueName": "Oak & Ola",
+      "neighborhood": "Downtown Tampa",
+      "sourceKind": "prospect",
+      "placeId": "ChIJFdsuKwDFwogRNyTrKi7NGtE",
+      "status": "pending",
+      "sourceUrl": "https://static1.squarespace.com/static/5b7c4d0d5cfd792b8412f560/t/6988d015ce63e161d69b5a29/1770573845808/Jan+2026+Phase+2+menu.pdf",
+      "sourceTitle": "",
+      "snippet": "��\u001d �9(�x��]�qy\u001076��1��7` v���w[0����y\u0011\u001e�/�ƕ�H$8!\u0012�א���\u0015���]���N\u001f���������K\u0016�\u000f����(�\u001a��G)OE\u0007�{�mڭ�v��k�,��. \u0007��Jَ�Y��7�?���X���ލk�T�c�N�R��?���xw���ާʷ�޹Q�;�A��ȲW�wZ���\u001b�S��",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-oak-ola-4-t-m-j-p-w-b-r0-s-6-3-0-h-f-c-nim",
+      "venueId": "prospect-oak-ola",
+      "venueName": "Oak & Ola",
+      "neighborhood": "Downtown Tampa",
+      "sourceKind": "prospect",
+      "placeId": "ChIJFdsuKwDFwogRNyTrKi7NGtE",
+      "status": "pending",
+      "sourceUrl": "https://static1.squarespace.com/static/5b7c4d0d5cfd792b8412f560/t/6988d015ce63e161d69b5a29/1770573845808/Jan+2026+Phase+2+menu.pdf",
+      "sourceTitle": "",
+      "snippet": "����\u0016T޵\u000fѓ&Ϫ\u0018�M�\u000e�J��]P\u0005��.�w\u0012(B\u0017����݈�\u0015r0��.\u0016\u0005���\u0014��S;�6�\u0001�3�0�~%\u0010'/��H�f��ƻ\u001ac¤niM��TK�@ v|7�^�� z`IdM\u000eR�z4������q�sbB��#I�\u0000NҲmM�\u0017Y\u000eq�����L\u0006}E��4k,�_ɝ�$2?�\u0010j",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-oak-ola-5-6-tx-h-2-8-l-l-n-tl1-g-9l-d-e2-l",
+      "venueId": "prospect-oak-ola",
+      "venueName": "Oak & Ola",
+      "neighborhood": "Downtown Tampa",
+      "sourceKind": "prospect",
+      "placeId": "ChIJFdsuKwDFwogRNyTrKi7NGtE",
+      "status": "pending",
+      "sourceUrl": "https://static1.squarespace.com/static/5b7c4d0d5cfd792b8412f560/t/69ee25696711b46accdf1811/1777214825048/Brunch+Menu+April+2026.docx",
+      "sourceTitle": "",
+      "snippet": "\u0002�6� \u0018TX�H 2/��8�L޹�L����\u0001N\u0006\u0012\\; tl1����$\u001b�G�9L� ��D&��@���E2����|l����6w=��\u001a\u0016�j������#?\u0015����=��K¨\\+L7)���P�p���t\u000f�� F�b\u0018�$0���]^o�6S� pu��*��QϸNo\u001b[M�V�6\\",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-oak-ola-6-m-pdtbdr-1i-l-w-0-4-976-r-3-u-m-",
+      "venueId": "prospect-oak-ola",
+      "venueName": "Oak & Ola",
+      "neighborhood": "Downtown Tampa",
+      "sourceKind": "prospect",
+      "placeId": "ChIJFdsuKwDFwogRNyTrKi7NGtE",
+      "status": "pending",
+      "sourceUrl": "https://static1.squarespace.com/static/5b7c4d0d5cfd792b8412f560/t/6988d015ce63e161d69b5a29/1770573845808/Jan+2026+Phase+2+menu.pdf",
+      "sourceTitle": "",
+      "snippet": "$�����;M&\u000e�\u0014\u001e�PDTbdR�Ҕ\u001b\u0000�\u0001����&\u001b�+�\u0000�\u0007\u0002��1I�\u0012��L�\u0001�\u0019\u0000w\u001e�0>���\u0001�\u0001�4\u0010976:r苭�:\u00023?\u0011�u�\u0015\u000e?m��)����\u0014c�a��s���\u0012FFErue7�t���&F�$5���\u0001j:]�7��L�n�}:K�\u001b���I#�$;Cp",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-oak-ola-7-9-qp-p5-b6-3-wf-r-ba-y-9-i-il-d-",
+      "venueId": "prospect-oak-ola",
+      "venueName": "Oak & Ola",
+      "neighborhood": "Downtown Tampa",
+      "sourceKind": "prospect",
+      "placeId": "ChIJFdsuKwDFwogRNyTrKi7NGtE",
+      "status": "pending",
+      "sourceUrl": "https://static1.squarespace.com/static/5b7c4d0d5cfd792b8412f560/t/69ee25696711b46accdf1811/1777214825048/Brunch+Menu+April+2026.docx",
+      "sourceTitle": "",
+      "snippet": "�9����QPۣ�?p5���\u0014\u001dB6]\u0002$3\u0012$��\u0017�=|�wF�R�ba��[��\u0016�\u0018y��9ϱI��$�\u0017����\u0003Il�\u0014D\u001e\u0005P�0E�:�$z���B$4V���)\u00117Q�O���/\u0014\u0003�tn� \"0",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-oak-ola-8-r-u-h-h-nm-l-v-q-x-f-x-2t-w-7-u-",
+      "venueId": "prospect-oak-ola",
+      "venueName": "Oak & Ola",
+      "neighborhood": "Downtown Tampa",
+      "sourceKind": "prospect",
+      "placeId": "ChIJFdsuKwDFwogRNyTrKi7NGtE",
+      "status": "pending",
+      "sourceUrl": "https://static1.squarespace.com/static/5b7c4d0d5cfd792b8412f560/t/6988d015ce63e161d69b5a29/1770573845808/Jan+2026+Phase+2+menu.pdf",
+      "sourceTitle": "",
+      "snippet": "\b�Ϸ����R�.��\b_�U�h\u001e��H�Nm%~ɴ̠}\u0002�l\u0006\u0017V�\u0005���qĿ�\u001c�Xں�|f]X�2t�w��\u001a��ݻ�$7\u001bu�JW\u00149����S\" C�z1�N\u0007r�\u001c��f��",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-oak-ola-9-j-1-e-8-l-j-z-r-s-rv-o-y-k-n-w-s",
+      "venueId": "prospect-oak-ola",
+      "venueName": "Oak & Ola",
+      "neighborhood": "Downtown Tampa",
+      "sourceKind": "prospect",
+      "placeId": "ChIJFdsuKwDFwogRNyTrKi7NGtE",
+      "status": "pending",
+      "sourceUrl": "https://static1.squarespace.com/static/5b7c4d0d5cfd792b8412f560/t/6988d015ce63e161d69b5a29/1770573845808/Jan+2026+Phase+2+menu.pdf",
+      "sourceTitle": "",
+      "snippet": "�\u0012��j�$1)�e��\u0004�8\u0005l�J��Z-$r��Sѣ��/RV����\u0006�\u0000�*\u000e\u001e��\b��O~y �K����N\u0004\u001aW���\u001f��S\u0018/~����ALh�5�w��bաѵ�'��\u0007",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-oak-ola-10-w-ql-i-h-b-x-5ymu-j-ju-u-p-k-t9-",
+      "venueId": "prospect-oak-ola",
+      "venueName": "Oak & Ola",
+      "neighborhood": "Downtown Tampa",
+      "sourceKind": "prospect",
+      "placeId": "ChIJFdsuKwDFwogRNyTrKi7NGtE",
+      "status": "pending",
+      "sourceUrl": "https://static1.squarespace.com/static/5b7c4d0d5cfd792b8412f560/t/6988d015ce63e161d69b5a29/1770573845808/Jan+2026+Phase+2+menu.pdf",
+      "sourceTitle": "",
+      "snippet": "W\u0011\"QL\u0014IꜺ\u000f��\u0013\u0015�ƪh\u0015�b�x\u0015�\u0012�\u0004��&�$5YMU)j�JU�U��P�*K�T9*W�|U�",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-oak-ola-11-n-1-1v-x-3-f-e-x-q",
+      "venueId": "prospect-oak-ola",
+      "venueName": "Oak & Ola",
+      "neighborhood": "Downtown Tampa",
+      "sourceKind": "prospect",
+      "placeId": "ChIJFdsuKwDFwogRNyTrKi7NGtE",
+      "status": "pending",
+      "sourceUrl": "https://static1.squarespace.com/static/5b7c4d0d5cfd792b8412f560/t/6988d015ce63e161d69b5a29/1770573845808/Jan+2026+Phase+2+menu.pdf",
+      "sourceTitle": "",
+      "snippet": "�n�>����1�=���1v�X$3�F\u0013]�\u0015�#��=� �ĝ��E�x�>�\\��,��Q",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    },
+    {
+      "id": "prospect-oak-ola-12-4-v-cj-e-f-ch-k-4i-m",
+      "venueId": "prospect-oak-ola",
+      "venueName": "Oak & Ola",
+      "neighborhood": "Downtown Tampa",
+      "sourceKind": "prospect",
+      "placeId": "ChIJFdsuKwDFwogRNyTrKi7NGtE",
+      "status": "pending",
+      "sourceUrl": "https://static1.squarespace.com/static/5b7c4d0d5cfd792b8412f560/t/6988d015ce63e161d69b5a29/1770573845808/Jan+2026+Phase+2+menu.pdf",
+      "sourceTitle": "",
+      "snippet": "4\u0015\\��V\bہCj�e��F\u0018cH\u0003�K\u0018\u0003\u0018$4I�M",
+      "suggestedCategory": "Drinks",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-30T21:33:51.079Z"
+    }
+  ]
+}

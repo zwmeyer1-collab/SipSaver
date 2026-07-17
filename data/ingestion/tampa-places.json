@@ -1,0 +1,4913 @@
+{
+  "generatedAt": "2026-04-29T23:23:18.432Z",
+  "provider": "google-places",
+  "city": "Tampa",
+  "searchCount": 10,
+  "placeCount": 140,
+  "searches": [
+    {
+      "label": "SoHo bars",
+      "resultCount": 20
+    },
+    {
+      "label": "Downtown Tampa bars",
+      "resultCount": 20
+    },
+    {
+      "label": "Ybor nightlife",
+      "resultCount": 20
+    },
+    {
+      "label": "Channelside bars",
+      "resultCount": 20
+    },
+    {
+      "label": "Hyde Park bars",
+      "resultCount": 20
+    },
+    {
+      "label": "Seminole Heights bars",
+      "resultCount": 20
+    },
+    {
+      "label": "Armature Works Tampa Heights",
+      "resultCount": 20
+    },
+    {
+      "label": "Westshore bars",
+      "resultCount": 20
+    },
+    {
+      "label": "Gasworx Ybor",
+      "resultCount": 20
+    },
+    {
+      "label": "Tampa sports bars",
+      "resultCount": 20
+    }
+  ],
+  "places": [
+    {
+      "id": "ChIJKZtZZWzDwogRyyDRAy_sXKg",
+      "name": "4 Rivers Smokehouse",
+      "address": "623 S MacDill Ave, Tampa, FL 33609, USA",
+      "latitude": 27.9377189,
+      "longitude": -82.4935106,
+      "website": "https://www.4rsmokehouse.com/locations/south-tampa/?utm_source=gmb&utm_medium=yext",
+      "googleMapsUri": "https://maps.google.com/?cid=12131831182900928715&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "barbecue_restaurant",
+      "types": [
+        "barbecue_restaurant",
+        "catering_service",
+        "food_delivery",
+        "dessert_shop",
+        "confectionery",
+        "restaurant",
+        "food_store",
+        "food",
+        "service",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_MODERATE",
+      "rating": 4.5,
+      "openingHours": [
+        "Monday: 11:00 AM – 9:00 PM",
+        "Tuesday: 11:00 AM – 9:00 PM",
+        "Wednesday: 11:00 AM – 9:00 PM",
+        "Thursday: 11:00 AM – 9:00 PM",
+        "Friday: 11:00 AM – 9:00 PM",
+        "Saturday: 11:00 AM – 9:00 PM",
+        "Sunday: 11:00 AM – 7:00 PM"
+      ],
+      "sourceBuckets": [
+        "SoHo bars"
+      ]
+    },
+    {
+      "id": "ChIJIWBtiVDEwogRMhQaWzp66Ew",
+      "name": "7-Eleven",
+      "address": "1535 E 7th Ave, Tampa, FL 33605, USA",
+      "latitude": 27.9601842,
+      "longitude": -82.4418116,
+      "website": "https://www.7-eleven.com/locations/fl/tampa/1535-e-7th-ave-37012?utm_source=G&utm_medium=local&utm_campaign=google-local",
+      "googleMapsUri": "https://maps.google.com/?cid=5541813732534522930&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "convenience_store",
+      "types": [
+        "convenience_store",
+        "liquor_store",
+        "pizza_restaurant",
+        "restaurant",
+        "coffee_shop",
+        "cafe",
+        "food_store",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+      "rating": 2.3,
+      "openingHours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "sourceBuckets": [
+        "Ybor nightlife",
+        "Gasworx Ybor"
+      ]
+    },
+    {
+      "id": "ChIJe8K8_L_FwogR_NktLxO3WMs",
+      "name": "7-Eleven",
+      "address": "802 E Dr Martin Luther King Jr Blvd, Tampa, FL 33603, USA",
+      "latitude": 27.981681,
+      "longitude": -82.4530458,
+      "website": "https://www.7-eleven.com/locations/fl/tampa/802-e-martin-luther-king-38437?utm_source=G&utm_medium=local&utm_campaign=google-local",
+      "googleMapsUri": "https://maps.google.com/?cid=14652662680673704444&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "convenience_store",
+      "types": [
+        "convenience_store",
+        "coffee_shop",
+        "liquor_store",
+        "pizza_restaurant",
+        "cafe",
+        "restaurant",
+        "food_store",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": null,
+      "rating": 2.9,
+      "openingHours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "sourceBuckets": [
+        "Seminole Heights bars"
+      ]
+    },
+    {
+      "id": "ChIJmfFGVBPFwogRIYyNhvz3X9Y",
+      "name": "7th + Grove",
+      "address": "1930 E 7th Ave, Tampa, FL 33605, USA",
+      "latitude": 27.9604164,
+      "longitude": -82.43687779999999,
+      "website": "http://7thandgrove.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=15447337910865333281&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "american_restaurant",
+      "types": [
+        "cocktail_bar",
+        "lounge_bar",
+        "catering_service",
+        "food_delivery",
+        "night_club",
+        "american_restaurant",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_MODERATE",
+      "rating": 4.5,
+      "openingHours": [
+        "Monday: Closed",
+        "Tuesday: 11:00 AM – 10:00 PM",
+        "Wednesday: 11:00 AM – 10:00 PM",
+        "Thursday: 11:00 AM – 1:00 AM",
+        "Friday: 11:00 AM – 2:30 AM",
+        "Saturday: 11:00 AM – 3:00 PM, 4:00 PM – 2:30 AM",
+        "Sunday: 11:00 AM – 4:00 PM, 5:00 – 10:00 PM"
+      ],
+      "sourceBuckets": [
+        "Ybor nightlife",
+        "Gasworx Ybor",
+        "Tampa sports bars"
+      ]
+    },
+    {
+      "id": "ChIJD_49nVHEwogR0Fy_o2shqfE",
+      "name": "Acropolis Greek Taverna - Tampa",
+      "address": "1833 E 7th Ave, Tampa, FL 33605, USA",
+      "latitude": 27.9601291,
+      "longitude": -82.43810789999999,
+      "website": "https://acropolistaverna.com/tampa",
+      "googleMapsUri": "https://maps.google.com/?cid=17413486180397178064&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "greek_restaurant",
+      "types": [
+        "greek_restaurant",
+        "family_restaurant",
+        "mediterranean_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_MODERATE",
+      "rating": 4.5,
+      "openingHours": [
+        "Monday: 11:00 AM – 10:00 PM",
+        "Tuesday: 11:00 AM – 10:00 PM",
+        "Wednesday: 11:00 AM – 10:00 PM",
+        "Thursday: 11:00 AM – 10:00 PM",
+        "Friday: 11:00 AM – 12:00 AM",
+        "Saturday: 11:00 AM – 12:00 AM",
+        "Sunday: 11:00 AM – 10:00 PM"
+      ],
+      "sourceBuckets": [
+        "Ybor nightlife",
+        "Gasworx Ybor"
+      ]
+    },
+    {
+      "id": "ChIJzyHjx5LEwogRuGs9V-RMHrA",
+      "name": "American Social - Bar & Kitchen - Tampa",
+      "address": "601 S Harbour Island Blvd #107, Tampa, FL 33602, USA",
+      "latitude": 27.938405799999998,
+      "longitude": -82.454863,
+      "website": "https://americansocialbar.com/locations/tampa/",
+      "googleMapsUri": "https://maps.google.com/?cid=12690665343576533944&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "american_restaurant",
+      "types": [
+        "american_restaurant",
+        "sports_bar",
+        "brunch_restaurant",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_MODERATE",
+      "rating": 4.2,
+      "openingHours": [
+        "Monday: 11:00 AM – 12:00 AM",
+        "Tuesday: 11:00 AM – 12:00 AM",
+        "Wednesday: 11:00 AM – 12:00 AM",
+        "Thursday: 11:00 AM – 1:00 AM",
+        "Friday: 11:00 AM – 2:00 AM",
+        "Saturday: 10:30 AM – 2:00 AM",
+        "Sunday: 10:30 AM – 12:00 AM"
+      ],
+      "sourceBuckets": [
+        "Downtown Tampa bars",
+        "Channelside bars",
+        "Tampa sports bars"
+      ]
+    },
+    {
+      "id": "ChIJe0fPH2PFwogRoPiK7j3Jbzw",
+      "name": "Anchor and Brine",
+      "address": "505 Water St, Tampa, FL 33602, USA",
+      "latitude": 27.9409256,
+      "longitude": -82.45384779999999,
+      "website": "https://www.anchorandbrine.com/?scid=feed67b0-9a2f-4de1-8df6-114544116108",
+      "googleMapsUri": "https://maps.google.com/?cid=4354920632522832032&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "restaurant",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_MODERATE",
+      "rating": 4.3,
+      "openingHours": [
+        "Monday: 11:00 AM – 10:00 PM",
+        "Tuesday: 11:00 AM – 10:00 PM",
+        "Wednesday: 11:00 AM – 10:00 PM",
+        "Thursday: 11:00 AM – 10:00 PM",
+        "Friday: 11:00 AM – 11:00 PM",
+        "Saturday: 11:00 AM – 11:00 PM",
+        "Sunday: 11:00 AM – 10:00 PM"
+      ],
+      "sourceBuckets": [
+        "Channelside bars"
+      ]
+    },
+    {
+      "id": "ChIJR7wcAaTGwogRx4-8AlvPFpo",
+      "name": "Angry Chair Brewing",
+      "address": "4101 N Florida Ave, Tampa, FL 33603, USA",
+      "latitude": 27.982592999999998,
+      "longitude": -82.45860499999999,
+      "website": "http://angrychairbrewing.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=11103289921123422151&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "brewery",
+      "types": [
+        "brewery",
+        "manufacturer",
+        "food",
+        "service",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": null,
+      "rating": 4.6,
+      "openingHours": [
+        "Monday: 11:00 AM – 10:00 PM",
+        "Tuesday: 11:00 AM – 10:00 PM",
+        "Wednesday: 11:00 AM – 10:00 PM",
+        "Thursday: 11:00 AM – 10:00 PM",
+        "Friday: 11:00 AM – 11:00 PM",
+        "Saturday: 11:00 AM – 11:00 PM",
+        "Sunday: 11:00 AM – 8:00 PM"
+      ],
+      "sourceBuckets": [
+        "Seminole Heights bars"
+      ]
+    },
+    {
+      "id": "ChIJYWj9iZ_PwogRQebjN7pJ_Nw",
+      "name": "Armature Works",
+      "address": "1910 N Ola Ave, Tampa, FL 33602, USA",
+      "latitude": 27.960934299999998,
+      "longitude": -82.4642724,
+      "website": "https://armatureworks.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=15923683446625658433&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "american_restaurant",
+      "types": [
+        "american_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_MODERATE",
+      "rating": 4.6,
+      "openingHours": [
+        "Monday: 7:30 AM – 10:00 PM",
+        "Tuesday: 7:30 AM – 10:00 PM",
+        "Wednesday: 7:30 AM – 10:00 PM",
+        "Thursday: 7:30 AM – 10:00 PM",
+        "Friday: 7:30 AM – 12:00 AM",
+        "Saturday: 8:00 AM – 12:00 AM",
+        "Sunday: 9:00 AM – 9:00 PM"
+      ],
+      "sourceBuckets": [
+        "Downtown Tampa bars",
+        "Armature Works Tampa Heights"
+      ]
+    },
+    {
+      "id": "ChIJf7PUWy7FwogRU7CrN8rdncg",
+      "name": "Babushka's - Hyde Park",
+      "address": "901 W Platt St, Tampa, FL 33606, USA",
+      "latitude": 27.941854300000003,
+      "longitude": -82.46890309999999,
+      "website": "http://babushkas.us/",
+      "googleMapsUri": "https://maps.google.com/?cid=14455954239516291155&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "eastern_european_restaurant",
+      "types": [
+        "eastern_european_restaurant",
+        "bar_and_grill",
+        "russian_restaurant",
+        "polish_restaurant",
+        "ukrainian_restaurant",
+        "tea_house",
+        "brunch_restaurant",
+        "european_restaurant",
+        "bar",
+        "bakery",
+        "restaurant",
+        "food_store",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_MODERATE",
+      "rating": 4.6,
+      "openingHours": [
+        "Monday: Closed",
+        "Tuesday: 11:00 AM – 9:00 PM",
+        "Wednesday: 11:00 AM – 9:00 PM",
+        "Thursday: 11:00 AM – 9:00 PM",
+        "Friday: 11:00 AM – 10:00 PM",
+        "Saturday: 11:00 AM – 10:00 PM",
+        "Sunday: 11:00 AM – 9:00 PM"
+      ],
+      "sourceBuckets": [
+        "SoHo bars",
+        "Hyde Park bars"
+      ]
+    },
+    {
+      "id": "ChIJDZWIHmLDwogRux0qtYlHGos",
+      "name": "bartaco",
+      "address": "1601 W Snow Ave, Tampa, FL 33606, USA",
+      "latitude": 27.9362248,
+      "longitude": -82.4760119,
+      "website": "https://bartaco.com/location/tampa/",
+      "googleMapsUri": "https://maps.google.com/?cid=10023402577441988027&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "taco_restaurant",
+      "types": [
+        "taco_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_MODERATE",
+      "rating": 4.4,
+      "openingHours": [
+        "Monday: 11:00 AM – 12:00 AM",
+        "Tuesday: 11:00 AM – 12:00 AM",
+        "Wednesday: 11:00 AM – 12:00 AM",
+        "Thursday: 11:00 AM – 1:00 AM",
+        "Friday: 11:00 AM – 1:00 AM",
+        "Saturday: 11:00 AM – 1:00 AM",
+        "Sunday: 11:00 AM – 12:00 AM"
+      ],
+      "sourceBuckets": [
+        "SoHo bars",
+        "Hyde Park bars"
+      ]
+    },
+    {
+      "id": "ChIJWQ712IvEwogRE0ttihJf_Jc",
+      "name": "Bavaro's Pizza Napoletana & Pastaria",
+      "address": "514 N Franklin St STE 101, Tampa, FL 33602, USA",
+      "latitude": 27.9489438,
+      "longitude": -82.4586083,
+      "website": "https://bavarospizza.com/locations/tampa/",
+      "googleMapsUri": "https://maps.google.com/?cid=10951732927094672147&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "italian_restaurant",
+      "types": [
+        "italian_restaurant",
+        "pizza_restaurant",
+        "pizza_delivery",
+        "meal_delivery",
+        "vegetarian_restaurant",
+        "food_delivery",
+        "meal_takeaway",
+        "food_store",
+        "european_restaurant",
+        "store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_MODERATE",
+      "rating": 4.4,
+      "openingHours": [
+        "Monday: 12:00 – 9:00 PM",
+        "Tuesday: 12:00 – 9:00 PM",
+        "Wednesday: 12:00 – 9:00 PM",
+        "Thursday: 12:00 – 9:00 PM",
+        "Friday: 12:00 – 10:00 PM",
+        "Saturday: 12:00 – 10:00 PM",
+        "Sunday: 12:00 – 9:00 PM"
+      ],
+      "sourceBuckets": [
+        "Channelside bars"
+      ]
+    },
+    {
+      "id": "ChIJKQXHdmfDwogRJFCLuT7eJ6I",
+      "name": "Bern's Steak House",
+      "address": "1208 S Howard Ave, Tampa, FL 33606, USA",
+      "latitude": 27.9316028,
+      "longitude": -82.48285179999999,
+      "website": "http://www.bernssteakhouse.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=11684552119218294820&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "steak_house",
+      "types": [
+        "steak_house",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE",
+      "rating": 4.6,
+      "openingHours": [
+        "Monday: Closed",
+        "Tuesday: 5:00 – 10:00 PM",
+        "Wednesday: 5:00 – 10:00 PM",
+        "Thursday: 5:00 – 10:00 PM",
+        "Friday: 5:00 – 11:00 PM",
+        "Saturday: 5:00 – 11:00 PM",
+        "Sunday: 5:00 – 10:00 PM"
+      ],
+      "sourceBuckets": [
+        "SoHo bars",
+        "Tampa sports bars"
+      ]
+    },
+    {
+      "id": "ChIJiydUsfPEwogRpCvlFFYLch8",
+      "name": "Boulon Brasserie and Bakery",
+      "address": "1001 Water St, Tampa, FL 33602, USA",
+      "latitude": 27.9437675,
+      "longitude": -82.45001979999999,
+      "website": "https://www.boulontampa.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=2265886026866437028&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "french_restaurant",
+      "types": [
+        "french_restaurant",
+        "bakery",
+        "food_store",
+        "restaurant",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_MODERATE",
+      "rating": 4.3,
+      "openingHours": [
+        "Monday: 7:00 AM – 11:00 PM",
+        "Tuesday: 7:00 AM – 11:00 PM",
+        "Wednesday: 7:00 AM – 11:00 PM",
+        "Thursday: 7:00 AM – 12:00 AM",
+        "Friday: 7:00 AM – 1:00 AM",
+        "Saturday: 7:00 AM – 1:00 AM",
+        "Sunday: 7:00 AM – 11:00 PM"
+      ],
+      "sourceBuckets": [
+        "Downtown Tampa bars",
+        "Channelside bars"
+      ]
+    },
+    {
+      "id": "ChIJJ88DolHDwogRLJ0tysorwnM",
+      "name": "Bouzy - Bar & Restaurant",
+      "address": "1640 W Snow Ave, Tampa, FL 33606, USA",
+      "latitude": 27.9352742,
+      "longitude": -82.47668329999999,
+      "website": "https://www.bouzytampa.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=8341277609818955052&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "restaurant",
+      "types": [
+        "restaurant",
+        "cocktail_bar",
+        "bar",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": null,
+      "rating": 4.2,
+      "openingHours": [
+        "Monday: 11:00 AM – 10:00 PM",
+        "Tuesday: 11:00 AM – 10:00 PM",
+        "Wednesday: 11:00 AM – 10:00 PM",
+        "Thursday: 11:00 AM – 10:00 PM",
+        "Friday: 11:00 AM – 12:00 AM",
+        "Saturday: 10:00 AM – 12:00 AM",
+        "Sunday: 10:00 AM – 9:00 PM"
+      ],
+      "sourceBuckets": [
+        "Hyde Park bars"
+      ]
+    },
+    {
+      "id": "ChIJ2c8wflDEwogRgu_B_IAnWJo",
+      "name": "Bradley's on 7th",
+      "address": "1510 E 7th Ave, Tampa, FL 33605, USA",
+      "latitude": 27.9604026,
+      "longitude": -82.44257309999999,
+      "website": "http://www.bradleyson7th.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=11121682714741305218&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "bar",
+      "types": [
+        "bar",
+        "night_club",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+      "rating": 4.1,
+      "openingHours": [
+        "Monday: 4:00 PM – 3:00 AM",
+        "Tuesday: 4:00 PM – 3:00 AM",
+        "Wednesday: 4:00 PM – 3:00 AM",
+        "Thursday: 4:00 PM – 3:00 AM",
+        "Friday: 4:00 PM – 3:00 AM",
+        "Saturday: 12:00 PM – 3:00 AM",
+        "Sunday: 12:00 PM – 3:00 AM"
+      ],
+      "sourceBuckets": [
+        "Gasworx Ybor"
+      ]
+    },
+    {
+      "id": "ChIJRezwHGLDwogRUPWChNxYQLo",
+      "name": "Buddy Brew Coffee",
+      "address": "Buddy Brew Coffee - Hyde Park, 1605 W Snow Ave, Tampa, FL 33606, USA",
+      "latitude": 27.9361321,
+      "longitude": -82.4761963,
+      "website": "http://www.buddybrew.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=13420824593703302480&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "coffee_shop",
+      "types": [
+        "coffee_shop",
+        "coffee_roastery",
+        "sandwich_shop",
+        "breakfast_restaurant",
+        "cafe",
+        "pastry_shop",
+        "bakery",
+        "dessert_shop",
+        "confectionery",
+        "food_store",
+        "restaurant",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_MODERATE",
+      "rating": 4.3,
+      "openingHours": [
+        "Monday: 6:30 AM – 8:00 PM",
+        "Tuesday: 6:30 AM – 8:00 PM",
+        "Wednesday: 6:30 AM – 8:00 PM",
+        "Thursday: 6:30 AM – 9:00 PM",
+        "Friday: 6:30 AM – 9:00 PM",
+        "Saturday: 8:00 AM – 9:00 PM",
+        "Sunday: 8:00 AM – 7:00 PM"
+      ],
+      "sourceBuckets": [
+        "Hyde Park bars"
+      ]
+    },
+    {
+      "id": "ChIJzXMD72bDwogRUmY0GaY63xI",
+      "name": "Bulla Gastrobar Tampa",
+      "address": "930 S Howard Ave, Tampa, FL 33606, USA",
+      "latitude": 27.934213099999997,
+      "longitude": -82.4829034,
+      "website": "https://bullagastrobar.com/locations/tampa",
+      "googleMapsUri": "https://maps.google.com/?cid=1359870097551025746&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "spanish_restaurant",
+      "types": [
+        "spanish_restaurant",
+        "tapas_restaurant",
+        "cocktail_bar",
+        "seafood_restaurant",
+        "event_venue",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_MODERATE",
+      "rating": 4.9,
+      "openingHours": [
+        "Monday: 11:30 AM – 10:00 PM",
+        "Tuesday: 11:30 AM – 10:00 PM",
+        "Wednesday: 11:30 AM – 10:00 PM",
+        "Thursday: 11:30 AM – 11:00 PM",
+        "Friday: 11:30 AM – 11:00 PM",
+        "Saturday: 11:00 AM – 11:00 PM",
+        "Sunday: 11:00 AM – 10:00 PM"
+      ],
+      "sourceBuckets": [
+        "SoHo bars",
+        "Tampa sports bars"
+      ]
+    },
+    {
+      "id": "ChIJQTs-62PEwogRkt12cHfEiZU",
+      "name": "Cafe Hey",
+      "address": "1540 N Franklin St, Tampa, FL 33602, USA",
+      "latitude": 27.957226,
+      "longitude": -82.4602847,
+      "website": "http://www.cafehey.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=10775359600727612818&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "coffee_shop",
+      "types": [
+        "coffee_shop",
+        "sandwich_shop",
+        "cafe",
+        "live_music_venue",
+        "food_store",
+        "restaurant",
+        "food",
+        "store",
+        "event_venue",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+      "rating": 4.6,
+      "openingHours": [
+        "Monday: 7:00 AM – 3:00 PM",
+        "Tuesday: 7:00 AM – 3:00 PM",
+        "Wednesday: 7:00 AM – 3:00 PM",
+        "Thursday: 7:00 AM – 3:00 PM",
+        "Friday: 7:00 AM – 3:00 PM",
+        "Saturday: 9:00 AM – 3:00 PM",
+        "Sunday: 9:00 AM – 3:00 PM"
+      ],
+      "sourceBuckets": [
+        "Armature Works Tampa Heights"
+      ]
+    },
+    {
+      "id": "ChIJh_362hvEwogRA93HAsdBiyA",
+      "name": "Cappys Pizza Seminole Heights",
+      "address": "4910 N Florida Ave, Tampa, FL 33603, USA",
+      "latitude": 27.9912673,
+      "longitude": -82.45968719999999,
+      "website": "https://www.cappyspizzash.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=2345040353977425155&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "pizza_restaurant",
+      "types": [
+        "pizza_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+      "rating": 4.3,
+      "openingHours": [
+        "Monday: 5:00 – 9:00 PM",
+        "Tuesday: 5:00 – 9:00 PM",
+        "Wednesday: 5:00 – 9:00 PM",
+        "Thursday: 5:00 – 9:00 PM",
+        "Friday: 5:00 – 10:00 PM",
+        "Saturday: 12:00 – 9:00 PM",
+        "Sunday: 12:00 – 9:00 PM"
+      ],
+      "sourceBuckets": [
+        "Seminole Heights bars"
+      ]
+    },
+    {
+      "id": "ChIJ-VB9B1PEwogRAR_8Q9lKsqQ",
+      "name": "Casa Santo Stefano",
+      "address": "1607 N 22nd St, Tampa, FL 33605, USA",
+      "latitude": 27.9593696,
+      "longitude": -82.43457219999999,
+      "website": "https://casasantostefano.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=11867630265083633409&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "italian_restaurant",
+      "types": [
+        "italian_restaurant",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": null,
+      "rating": 4.6,
+      "openingHours": [
+        "Monday: 11:00 AM – 10:00 PM",
+        "Tuesday: 11:00 AM – 10:00 PM",
+        "Wednesday: 11:00 AM – 10:00 PM",
+        "Thursday: 11:00 AM – 10:00 PM",
+        "Friday: 11:00 AM – 10:00 PM",
+        "Saturday: 11:00 AM – 10:00 PM",
+        "Sunday: 11:00 AM – 10:00 PM"
+      ],
+      "sourceBuckets": [
+        "Ybor nightlife",
+        "Tampa sports bars"
+      ]
+    },
+    {
+      "id": "ChIJYyy7AnLFwogR5qi7CFPUeh4",
+      "name": "CAVA",
+      "address": "1001 Water St Suite 110, Tampa, FL 33602, USA",
+      "latitude": 27.944082299999998,
+      "longitude": -82.45011749999999,
+      "website": "https://cava.com/locations/water-street-fl",
+      "googleMapsUri": "https://maps.google.com/?cid=2196301221390428390&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "mediterranean_restaurant",
+      "types": [
+        "mediterranean_restaurant",
+        "greek_restaurant",
+        "falafel_restaurant",
+        "gyro_restaurant",
+        "salad_shop",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_MODERATE",
+      "rating": 4.5,
+      "openingHours": [
+        "Monday: 10:30 AM – 11:00 PM",
+        "Tuesday: 10:30 AM – 11:00 PM",
+        "Wednesday: 10:30 AM – 11:00 PM",
+        "Thursday: 10:30 AM – 11:00 PM",
+        "Friday: 10:30 AM – 11:00 PM",
+        "Saturday: 10:30 AM – 11:00 PM",
+        "Sunday: 10:30 AM – 11:00 PM"
+      ],
+      "sourceBuckets": [
+        "Channelside bars"
+      ]
+    },
+    {
+      "id": "ChIJK42kgKTGwogRyWvAkT2RmgE",
+      "name": "Chanko",
+      "address": "4603 N Florida Ave, Tampa, FL 33603, USA",
+      "latitude": 27.9872481,
+      "longitude": -82.4592301,
+      "website": "http://chanko-ichiban.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=115564434075708361&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "japanese_restaurant",
+      "types": [
+        "japanese_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+      "rating": 4.7,
+      "openingHours": [
+        "Monday: 5:00 – 10:00 PM",
+        "Tuesday: 5:00 – 10:00 PM",
+        "Wednesday: 11:30 AM – 10:00 PM",
+        "Thursday: 11:30 AM – 10:00 PM",
+        "Friday: 11:30 AM – 10:00 PM",
+        "Saturday: 11:30 AM – 10:00 PM",
+        "Sunday: 11:30 AM – 10:00 PM"
+      ],
+      "sourceBuckets": [
+        "Seminole Heights bars"
+      ]
+    },
+    {
+      "id": "ChIJHUT6O_7CwogR5cYxe7yk5nM",
+      "name": "Charley's Steak House",
+      "address": "4444 W Cypress St, Tampa, FL 33607, USA",
+      "latitude": 27.9515021,
+      "longitude": -82.51958049999999,
+      "website": "http://www.charleyssteakhouse.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=8351543688432830181&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "steak_house",
+      "types": [
+        "steak_house",
+        "seafood_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE",
+      "rating": 4.5,
+      "openingHours": [
+        "Monday: 5:00 – 9:00 PM",
+        "Tuesday: 5:00 – 9:00 PM",
+        "Wednesday: 5:00 – 9:00 PM",
+        "Thursday: 5:00 – 9:00 PM",
+        "Friday: 5:00 – 10:00 PM",
+        "Saturday: 5:00 – 10:00 PM",
+        "Sunday: 5:00 – 9:00 PM"
+      ],
+      "sourceBuckets": [
+        "Westshore bars"
+      ]
+    },
+    {
+      "id": "ChIJwU8x96TDwogRjdXpoBuo3LU",
+      "name": "Chick-fil-A",
+      "address": "2551 N Dale Mabry Hwy, Tampa, FL 33607, USA",
+      "latitude": 27.9645603,
+      "longitude": -82.5049344,
+      "website": "https://www.chick-fil-a.com/locations/fl/tampa-stadium?utm_source=google&utm_medium=gmb",
+      "googleMapsUri": "https://maps.google.com/?cid=13104533852358563213&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "fast_food_restaurant",
+      "types": [
+        "fast_food_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+      "rating": 3.8,
+      "openingHours": [
+        "Monday: 6:00 AM – 10:00 PM",
+        "Tuesday: 6:00 AM – 10:00 PM",
+        "Wednesday: 6:00 AM – 10:00 PM",
+        "Thursday: 6:00 AM – 10:00 PM",
+        "Friday: 6:00 AM – 11:00 PM",
+        "Saturday: 6:00 AM – 11:00 PM",
+        "Sunday: Closed"
+      ],
+      "sourceBuckets": [
+        "Westshore bars"
+      ]
+    },
+    {
+      "id": "ChIJbRGiHqXDwogRpmNvdRYdY6U",
+      "name": "Chili's Grill & Bar",
+      "address": "2903 N Dale Mabry Hwy, Tampa, FL 33607, USA",
+      "latitude": 27.965169999999997,
+      "longitude": -82.504776,
+      "website": "https://www.chilis.com/locations/us/florida/tampa/tampa-stadium?utm_source=google&utm_medium=local&utm_campaign=Chilis",
+      "googleMapsUri": "https://maps.google.com/?cid=11917401021249184678&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "restaurant",
+      "types": [
+        "restaurant",
+        "family_restaurant",
+        "tex_mex_restaurant",
+        "bar_and_grill",
+        "hamburger_restaurant",
+        "mexican_restaurant",
+        "american_restaurant",
+        "bar",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_MODERATE",
+      "rating": 4.2,
+      "openingHours": [
+        "Monday: 11:00 AM – 11:00 PM",
+        "Tuesday: 11:00 AM – 11:00 PM",
+        "Wednesday: 11:00 AM – 11:00 PM",
+        "Thursday: 11:00 AM – 11:00 PM",
+        "Friday: 11:00 AM – 12:00 AM",
+        "Saturday: 11:00 AM – 12:00 AM",
+        "Sunday: 11:00 AM – 11:00 PM"
+      ],
+      "sourceBuckets": [
+        "Westshore bars"
+      ]
+    },
+    {
+      "id": "ChIJMZzY-GTDwogRbWCgcKkljtI",
+      "name": "Chipotle Mexican Grill",
+      "address": "533 S Howard Ave, Tampa, FL 33606, USA",
+      "latitude": 27.9396845,
+      "longitude": -82.4833869,
+      "website": "https://locations.chipotle.com/fl/tampa/533-s-howard-ave?utm_source=google&utm_medium=yext&utm_campaign=yext_listings?restaurant=823",
+      "googleMapsUri": "https://maps.google.com/?cid=15172105604327039085&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "fast_food_restaurant",
+      "types": [
+        "fast_food_restaurant",
+        "mexican_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+      "rating": 3.1,
+      "openingHours": [
+        "Monday: 10:45 AM – 12:00 AM",
+        "Tuesday: 10:45 AM – 12:00 AM",
+        "Wednesday: 10:45 AM – 12:00 AM",
+        "Thursday: 10:45 AM – 12:00 AM",
+        "Friday: 10:45 AM – 12:00 AM",
+        "Saturday: 10:45 AM – 12:00 AM",
+        "Sunday: 10:45 AM – 12:00 AM"
+      ],
+      "sourceBuckets": [
+        "SoHo bars"
+      ]
+    },
+    {
+      "id": "ChIJi7fzBTnCwogRq4GVtqfGawY",
+      "name": "Cigar City Brewing Spruce Street Brewery & Taproom",
+      "address": "3924 W Spruce St, Tampa, FL 33607, USA",
+      "latitude": 27.9590292,
+      "longitude": -82.50917390000001,
+      "website": "https://www.cigarcitybrewing.com/tasting-room/?utm_source=gmb&utm_medium=yext",
+      "googleMapsUri": "https://maps.google.com/?cid=462681810360697259&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "brewery",
+      "types": [
+        "brewery",
+        "pub",
+        "bar",
+        "manufacturer",
+        "service",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": null,
+      "rating": 4.6,
+      "openingHours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: 12:00 – 9:00 PM",
+        "Thursday: 12:00 – 9:00 PM",
+        "Friday: 12:00 – 9:00 PM",
+        "Saturday: 12:00 – 9:00 PM",
+        "Sunday: 12:00 – 8:00 PM"
+      ],
+      "sourceBuckets": [
+        "Westshore bars"
+      ]
+    },
+    {
+      "id": "ChIJEw6e91DEwogRqPes5sxjERQ",
+      "name": "Club Prana",
+      "address": "1619 E 7th Ave, Tampa, FL 33605, USA",
+      "latitude": 27.960072900000004,
+      "longitude": -82.4408194,
+      "website": "https://clubprana.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+      "googleMapsUri": "https://maps.google.com/?cid=1446046687057213352&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "night_club",
+      "types": [
+        "night_club",
+        "lounge_bar",
+        "sports_club",
+        "bar",
+        "event_venue",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_MODERATE",
+      "rating": 4.1,
+      "openingHours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: 12:00 – 8:00 PM",
+        "Thursday: 10:00 PM – 3:00 AM",
+        "Friday: 9:00 PM – 3:00 AM",
+        "Saturday: 9:00 PM – 3:00 AM",
+        "Sunday: Closed"
+      ],
+      "sourceBuckets": [
+        "Ybor nightlife",
+        "Gasworx Ybor",
+        "Tampa sports bars"
+      ]
+    },
+    {
+      "id": "ChIJpQkta2LDwogRS8gF064HIPk",
+      "name": "CMX CinéBistro at Hyde Park Village",
+      "address": "1609 W Swann Ave, Tampa, FL 33606, USA",
+      "latitude": 27.9377419,
+      "longitude": -82.4764423,
+      "website": "https://www.cmxcinemas.com/Showtimes/Cinebistro--Hyde-Park",
+      "googleMapsUri": "https://maps.google.com/?cid=17951356562144872523&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "movie_theater",
+      "types": [
+        "movie_theater",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_MODERATE",
+      "rating": 4.3,
+      "openingHours": [
+        "Monday: 12:00 – 9:00 PM",
+        "Tuesday: 12:00 – 9:00 PM",
+        "Wednesday: 12:00 – 9:00 PM",
+        "Thursday: 12:00 – 9:00 PM",
+        "Friday: 11:00 AM – 10:30 PM",
+        "Saturday: 11:00 AM – 10:30 PM",
+        "Sunday: 11:00 AM – 10:30 PM"
+      ],
+      "sourceBuckets": [
+        "SoHo bars",
+        "Hyde Park bars",
+        "Tampa sports bars"
+      ]
+    },
+    {
+      "id": "ChIJyz7ELojEwogRsjrgE32aIyE",
+      "name": "Columbia Cafe at the Tampa Bay History Center",
+      "address": "801 Water St #1905, Tampa, FL 33602, USA",
+      "latitude": 27.9419591,
+      "longitude": -82.44992529999999,
+      "website": "https://www.columbiarestaurant.com/columbia-cafe-at-the-tbhc",
+      "googleMapsUri": "https://maps.google.com/?cid=2387922089431546546&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "spanish_restaurant",
+      "types": [
+        "spanish_restaurant",
+        "family_restaurant",
+        "tapas_restaurant",
+        "cuban_restaurant",
+        "wine_bar",
+        "cocktail_bar",
+        "seafood_restaurant",
+        "event_venue",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_MODERATE",
+      "rating": 4.4,
+      "openingHours": [
+        "Monday: 11:00 AM – 9:00 PM",
+        "Tuesday: 11:00 AM – 9:00 PM",
+        "Wednesday: 11:00 AM – 9:00 PM",
+        "Thursday: 11:00 AM – 9:00 PM",
+        "Friday: 11:00 AM – 10:00 PM",
+        "Saturday: 11:00 AM – 10:00 PM",
+        "Sunday: 11:00 AM – 9:00 PM"
+      ],
+      "sourceBuckets": [
+        "Downtown Tampa bars",
+        "Channelside bars",
+        "Tampa sports bars"
+      ]
+    },
+    {
+      "id": "ChIJz8e7TVLEwogRBeybvscHnD4",
+      "name": "Columbia Restaurant",
+      "address": "2117 E 7th Ave, Tampa, FL 33605, USA",
+      "latitude": 27.959992399999997,
+      "longitude": -82.4351423,
+      "website": "http://www.columbiarestaurant.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=4511489481196170245&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "spanish_restaurant",
+      "types": [
+        "spanish_restaurant",
+        "cuban_restaurant",
+        "gift_shop",
+        "meal_takeaway",
+        "event_venue",
+        "restaurant",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_MODERATE",
+      "rating": 4.6,
+      "openingHours": [
+        "Monday: 11:00 AM – 9:00 PM",
+        "Tuesday: 11:00 AM – 9:00 PM",
+        "Wednesday: 11:00 AM – 9:00 PM",
+        "Thursday: 11:00 AM – 9:00 PM",
+        "Friday: 11:00 AM – 10:00 PM",
+        "Saturday: 11:00 AM – 10:00 PM",
+        "Sunday: 11:00 AM – 9:00 PM"
+      ],
+      "sourceBuckets": [
+        "Ybor nightlife"
+      ]
+    },
+    {
+      "id": "ChIJd0Y12wTFwogRSTylifrBZp4",
+      "name": "Common Dialect Beerworks",
+      "address": "5023 N Florida Ave, Tampa, FL 33603, USA",
+      "latitude": 27.9920996,
+      "longitude": -82.4591318,
+      "website": "http://www.commondialectbeer.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=11414023587412393033&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "brewery",
+      "types": [
+        "brewery",
+        "manufacturer",
+        "food",
+        "service",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": null,
+      "rating": 4.7,
+      "openingHours": [
+        "Monday: 3:00 – 10:00 PM",
+        "Tuesday: 3:00 – 10:00 PM",
+        "Wednesday: 3:00 – 10:00 PM",
+        "Thursday: 3:00 – 11:00 PM",
+        "Friday: 12:00 PM – 12:00 AM",
+        "Saturday: 12:00 PM – 12:00 AM",
+        "Sunday: 12:00 – 9:00 PM"
+      ],
+      "sourceBuckets": [
+        "Seminole Heights bars"
+      ]
+    },
+    {
+      "id": "ChIJHwWZC67DwogR08aGytYCBTQ",
+      "name": "Cooper’s Hawk Winery & Restaurant",
+      "address": "4110 W Boy Scout Blvd, Tampa, FL 33607, USA",
+      "latitude": 27.9654,
+      "longitude": -82.5125056,
+      "website": "https://chwinery.com/locations/florida/tampa",
+      "googleMapsUri": "https://maps.google.com/?cid=3748405386399893203&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "american_restaurant",
+      "types": [
+        "american_restaurant",
+        "wine_bar",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_MODERATE",
+      "rating": 4.5,
+      "openingHours": [
+        "Monday: 11:00 AM – 9:00 PM",
+        "Tuesday: 11:00 AM – 9:00 PM",
+        "Wednesday: 11:00 AM – 9:00 PM",
+        "Thursday: 11:00 AM – 9:00 PM",
+        "Friday: 11:00 AM – 10:00 PM",
+        "Saturday: 10:00 AM – 10:00 PM",
+        "Sunday: 10:00 AM – 9:00 PM"
+      ],
+      "sourceBuckets": [
+        "Westshore bars"
+      ]
+    },
+    {
+      "id": "ChIJy3uaZKvFwogRpk-ruMef9nE",
+      "name": "Coppertail Brewing Co.",
+      "address": "2601 E 2nd Ave, Tampa, FL 33605, USA",
+      "latitude": 27.9562878,
+      "longitude": -82.430219,
+      "website": "http://coppertailbrewing.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=8211926650702221222&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "brewery",
+      "types": [
+        "brewery",
+        "brewpub",
+        "liquor_store",
+        "pub",
+        "bar",
+        "restaurant",
+        "manufacturer",
+        "food",
+        "store",
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "priceLevel": null,
+      "rating": 4.6,
+      "openingHours": [
+        "Monday: 11:00 AM – 11:00 PM",
+        "Tuesday: 11:00 AM – 11:00 PM",
+        "Wednesday: 11:00 AM – 11:00 PM",
+        "Thursday: 11:00 AM – 11:00 PM",
+        "Friday: 11:00 AM – 12:00 AM",
+        "Saturday: 11:00 AM – 12:00 AM",
+        "Sunday: 11:00 AM – 9:00 PM"
+      ],
+      "sourceBuckets": [
+        "Ybor nightlife"
+      ]
+    },
+    {
+      "id": "ChIJ76SYUVDEwogRJec_Q3szUk0",
+      "name": "Crowbar",
+      "address": "1812 N 17th St, Ybor City, FL 33605, USA",
+      "latitude": 27.960778599999998,
+      "longitude": -82.4405992,
+      "website": "http://crowbarybor.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=5571572293512980261&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "live_music_venue",
+      "types": [
+        "live_music_venue",
+        "bar",
+        "night_club",
+        "event_venue",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_MODERATE",
+      "rating": 4.6,
+      "openingHours": null,
+      "sourceBuckets": [
+        "Gasworx Ybor"
+      ]
+    },
+    {
+      "id": "ChIJmx9Ai2bDwogR0KirfRhQSos",
+      "name": "Daily Eats",
+      "address": "901 S Howard Ave, Tampa, FL 33606, USA",
+      "latitude": 27.9350004,
+      "longitude": -82.4832065,
+      "website": "http://www.ilovedailyeats.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=10036922785666410704&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "diner",
+      "types": [
+        "diner",
+        "breakfast_restaurant",
+        "brunch_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_MODERATE",
+      "rating": 4.6,
+      "openingHours": [
+        "Monday: 7:00 AM – 3:00 PM",
+        "Tuesday: 7:00 AM – 3:00 PM",
+        "Wednesday: 7:00 AM – 3:00 PM",
+        "Thursday: 7:00 AM – 3:00 PM",
+        "Friday: 7:00 AM – 3:00 PM",
+        "Saturday: 7:00 AM – 3:00 PM",
+        "Sunday: 7:00 AM – 3:00 PM"
+      ],
+      "sourceBuckets": [
+        "SoHo bars"
+      ]
+    },
+    {
+      "id": "ChIJdXcjKwDDwogR4nwaqq-cOGU",
+      "name": "Dave's Hot Chicken",
+      "address": "2961 N Dale Mabry Hwy Unit 101, Tampa, FL 33607, USA",
+      "latitude": 27.965886299999998,
+      "longitude": -82.5050433,
+      "website": "https://restaurants.daveshotchicken.com/fl/tampa/best-hot-chicken-sandwich-on-north-dale-mabry-hwy/?utm_campaign=google_maps&utm_medium=organic&utm_source=google&utm_content=website&utm_keyword=1214",
+      "googleMapsUri": "https://maps.google.com/?cid=7293751874813590754&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "chicken_restaurant",
+      "types": [
+        "chicken_restaurant",
+        "halal_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_MODERATE",
+      "rating": 4.6,
+      "openingHours": [
+        "Monday: 11:00 AM – 11:00 PM",
+        "Tuesday: 11:00 AM – 12:00 AM",
+        "Wednesday: 11:00 AM – 12:00 AM",
+        "Thursday: 11:00 AM – 12:00 AM",
+        "Friday: 11:00 AM – 1:00 AM",
+        "Saturday: 11:00 AM – 1:00 AM",
+        "Sunday: 11:00 AM – 11:00 PM"
+      ],
+      "sourceBuckets": [
+        "Westshore bars"
+      ]
+    },
+    {
+      "id": "ChIJkRpVRjzFwogRil2u11kHzHI",
+      "name": "Deviant Libation",
+      "address": "3800 N Nebraska Ave, Tampa, FL 33603, USA",
+      "latitude": 27.979016599999998,
+      "longitude": -82.4518148,
+      "website": "https://deviantlibation.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=8271994698024770954&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "brewery",
+      "types": [
+        "brewery",
+        "event_venue",
+        "manufacturer",
+        "food",
+        "service",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": null,
+      "rating": 4.8,
+      "openingHours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: 4:00 – 11:00 PM",
+        "Friday: 4:00 PM – 12:00 AM",
+        "Saturday: 1:00 PM – 12:00 AM",
+        "Sunday: 1:00 – 9:00 PM"
+      ],
+      "sourceBuckets": [
+        "Seminole Heights bars"
+      ]
+    },
+    {
+      "id": "ChIJN3OK1nzDwogRObHLy2MughY",
+      "name": "Don Rigatoni",
+      "address": "219 S Packwood Ave, Tampa, FL 33606, USA",
+      "latitude": 27.942397500000002,
+      "longitude": -82.47805679999999,
+      "website": "http://donrigatoni.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=1621909821962563897&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "italian_restaurant",
+      "types": [
+        "italian_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_MODERATE",
+      "rating": 4.5,
+      "openingHours": [
+        "Monday: 11:00 AM – 12:00 AM",
+        "Tuesday: 11:00 AM – 12:00 AM",
+        "Wednesday: 11:00 AM – 12:00 AM",
+        "Thursday: 11:00 AM – 12:00 AM",
+        "Friday: 11:00 AM – 12:00 AM",
+        "Saturday: 12:00 PM – 12:00 AM",
+        "Sunday: 12:00 PM – 12:00 AM"
+      ],
+      "sourceBuckets": [
+        "Hyde Park bars"
+      ]
+    },
+    {
+      "id": "ChIJn2Mfbv5654gRVPqvg4fcmlA",
+      "name": "Due Amici Pizza & Pasta Bar",
+      "address": "1724 E 7th Ave, Tampa, FL 33605, USA",
+      "latitude": 27.96039,
+      "longitude": -82.439655,
+      "website": "https://dueamiciybor.com/?utm_source=google",
+      "googleMapsUri": "https://maps.google.com/?cid=5808197144035719764&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "italian_restaurant",
+      "types": [
+        "italian_restaurant",
+        "hamburger_restaurant",
+        "deli",
+        "pizza_delivery",
+        "meal_delivery",
+        "food_delivery",
+        "meal_takeaway",
+        "american_restaurant",
+        "pizza_restaurant",
+        "bar",
+        "restaurant",
+        "food_store",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+      "rating": 4.7,
+      "openingHours": [
+        "Monday: 11:00 AM – 3:00 AM",
+        "Tuesday: 11:00 AM – 3:00 AM",
+        "Wednesday: 11:00 AM – 3:00 AM",
+        "Thursday: 11:00 AM – 3:00 AM",
+        "Friday: 11:00 AM – 3:00 AM",
+        "Saturday: 11:30 AM – 3:00 AM",
+        "Sunday: 11:30 AM – 3:00 AM"
+      ],
+      "sourceBuckets": [
+        "Ybor nightlife",
+        "Gasworx Ybor"
+      ]
+    },
+    {
+      "id": "ChIJ-dHEfInEwogRHESqR5evH2w",
+      "name": "Eddie And Sam's N.Y Pizza",
+      "address": "203 E Twiggs St, Tampa, FL 33602, USA",
+      "latitude": 27.948793,
+      "longitude": -82.45914669999999,
+      "website": "http://www.eddieandsamspizza.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=7791138944651510812&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "pizza_restaurant",
+      "types": [
+        "pizza_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+      "rating": 4.6,
+      "openingHours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: 11:00 AM – 10:00 PM",
+        "Thursday: 11:00 AM – 10:00 PM",
+        "Friday: 11:00 AM – 10:00 PM",
+        "Saturday: 11:00 AM – 10:00 PM",
+        "Sunday: 11:00 AM – 10:00 PM"
+      ],
+      "sourceBuckets": [
+        "Downtown Tampa bars",
+        "Channelside bars"
+      ]
+    },
+    {
+      "id": "ChIJo-LUT6vDwogRUFEzrVQ_Ce8",
+      "name": "Eddie V's Prime Seafood",
+      "address": "4400 W Boy Scout Blvd, Tampa, FL 33607, USA",
+      "latitude": 27.9603129,
+      "longitude": -82.51826249999999,
+      "website": "https://www.eddiev.com/locations/fl/tampa/tampa/8512?cmpid=br:ev_ag:ie_ch:loc_ca:EVGMB_sn:gmb_gt:tampa-fl-8512_pl:locurl_rd:1011",
+      "googleMapsUri": "https://maps.google.com/?cid=17224367882770796880&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "seafood_restaurant",
+      "types": [
+        "seafood_restaurant",
+        "oyster_bar_restaurant",
+        "cocktail_bar",
+        "steak_house",
+        "fine_dining_restaurant",
+        "live_music_venue",
+        "lounge_bar",
+        "night_club",
+        "american_restaurant",
+        "bar",
+        "event_venue",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE",
+      "rating": 4.7,
+      "openingHours": [
+        "Monday: 4:00 – 9:00 PM",
+        "Tuesday: 4:00 – 9:00 PM",
+        "Wednesday: 4:00 – 9:00 PM",
+        "Thursday: 4:00 – 9:00 PM",
+        "Friday: 4:00 – 10:00 PM",
+        "Saturday: 4:00 – 10:00 PM",
+        "Sunday: 4:00 – 9:00 PM"
+      ],
+      "sourceBuckets": [
+        "Westshore bars"
+      ]
+    },
+    {
+      "id": "ChIJv-jRZJbFwogRHQD_IMvCCK4",
+      "name": "Empamamas",
+      "address": "1910 N Ola Ave #13, Tampa, FL 33602, USA",
+      "latitude": 27.9613883,
+      "longitude": -82.46389490000001,
+      "website": "https://www.empamamas.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=12540487340100878365&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "cuban_restaurant",
+      "types": [
+        "cuban_restaurant",
+        "chicken_restaurant",
+        "taco_restaurant",
+        "catering_service",
+        "food_delivery",
+        "spanish_restaurant",
+        "latin_american_restaurant",
+        "american_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "priceLevel": null,
+      "rating": 4.4,
+      "openingHours": [
+        "Monday: 11:00 AM – 9:00 PM",
+        "Tuesday: 11:00 AM – 10:00 PM",
+        "Wednesday: 11:00 AM – 10:00 PM",
+        "Thursday: 11:00 AM – 10:00 PM",
+        "Friday: 11:00 AM – 11:00 PM",
+        "Saturday: 11:00 AM – 11:00 PM",
+        "Sunday: 11:00 AM – 9:00 PM"
+      ],
+      "sourceBuckets": [
+        "Armature Works Tampa Heights"
+      ]
+    },
+    {
+      "id": "ChIJi8WsgzTFwogRZFu2ieB9zIE",
+      "name": "First Watch",
+      "address": "400 N Tampa St Ste 100, Tampa, FL 33602, USA",
+      "latitude": 27.947825899999998,
+      "longitude": -82.4597241,
+      "website": "http://www.firstwatch.com/locations/dt-tampa/?utm_source=gbp-listing&utm_medium=organic&utm_campaign=gbp-listing&utm_content=dt-tampa",
+      "googleMapsUri": "https://maps.google.com/?cid=9352988929478253412&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "breakfast_restaurant",
+      "types": [
+        "breakfast_restaurant",
+        "family_restaurant",
+        "brunch_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_MODERATE",
+      "rating": 4.6,
+      "openingHours": [
+        "Monday: 7:00 AM – 2:30 PM",
+        "Tuesday: 7:00 AM – 2:30 PM",
+        "Wednesday: 7:00 AM – 2:30 PM",
+        "Thursday: 7:00 AM – 2:30 PM",
+        "Friday: 7:00 AM – 2:30 PM",
+        "Saturday: 7:00 AM – 2:30 PM",
+        "Sunday: 7:00 AM – 2:30 PM"
+      ],
+      "sourceBuckets": [
+        "Downtown Tampa bars",
+        "Channelside bars"
+      ]
+    },
+    {
+      "id": "ChIJtyjCT8zFwogRDeMzOrl5Rn4",
+      "name": "Flan Factory - Ybor",
+      "address": "1718 N Nebraska Ave, Tampa, FL 33602, USA",
+      "latitude": 27.9601848,
+      "longitude": -82.4514981,
+      "website": "http://flanfactory.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=9099093933601055501&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "cuban_restaurant",
+      "types": [
+        "cuban_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_MODERATE",
+      "rating": 4.8,
+      "openingHours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: 10:00 AM – 8:00 PM",
+        "Thursday: 10:00 AM – 8:00 PM",
+        "Friday: 10:00 AM – 8:00 PM",
+        "Saturday: 9:00 AM – 8:00 PM",
+        "Sunday: 9:00 AM – 6:00 PM"
+      ],
+      "sourceBuckets": [
+        "Ybor nightlife",
+        "Gasworx Ybor"
+      ]
+    },
+    {
+      "id": "ChIJVwY-iKzDwogRertNM1YPMjg",
+      "name": "Fleming’s Prime Steakhouse & Wine Bar",
+      "address": "4342 W Boy Scout Blvd, Tampa, FL 33607, USA",
+      "latitude": 27.961411899999998,
+      "longitude": -82.5166157,
+      "website": "https://www.flemingssteakhouse.com/Locations/FL/Tampa?y_source=1_MTU1MDMxNzUtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "googleMapsUri": "https://maps.google.com/?cid=4049315877861833594&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "fine_dining_restaurant",
+      "types": [
+        "fine_dining_restaurant",
+        "wine_bar",
+        "steak_house",
+        "bar_and_grill",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE",
+      "rating": 4.7,
+      "openingHours": [
+        "Monday: 11:00 AM – 10:00 PM",
+        "Tuesday: 11:00 AM – 10:00 PM",
+        "Wednesday: 11:00 AM – 10:00 PM",
+        "Thursday: 11:00 AM – 10:00 PM",
+        "Friday: 11:00 AM – 10:00 PM",
+        "Saturday: 11:00 AM – 10:00 PM",
+        "Sunday: 11:00 AM – 9:00 PM"
+      ],
+      "sourceBuckets": [
+        "Westshore bars"
+      ]
+    },
+    {
+      "id": "ChIJf_GumVXFwogR3KW00_zdKw0",
+      "name": "Florida Avenue Brewing Co.",
+      "address": "4315 N Florida Ave, Tampa, FL 33603, USA",
+      "latitude": 27.9849057,
+      "longitude": -82.4591232,
+      "website": "http://floridaavebrewing.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=949096224444949980&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "brewery",
+      "types": [
+        "brewery",
+        "bar",
+        "manufacturer",
+        "restaurant",
+        "food",
+        "service",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": null,
+      "rating": 4.5,
+      "openingHours": [
+        "Monday: Closed",
+        "Tuesday: 4:00 – 10:00 PM",
+        "Wednesday: 4:00 – 10:00 PM",
+        "Thursday: 4:00 – 10:00 PM",
+        "Friday: 11:00 AM – 10:00 PM",
+        "Saturday: 11:00 AM – 10:00 PM",
+        "Sunday: 11:00 AM – 8:00 PM"
+      ],
+      "sourceBuckets": [
+        "Seminole Heights bars"
+      ]
+    },
+    {
+      "id": "ChIJ9fWNyY_DwogRm-LWv0s5VF4",
+      "name": "Forbici Modern Italian",
+      "address": "1633 W Snow Ave, Tampa, FL 33606, USA",
+      "latitude": 27.935776999999998,
+      "longitude": -82.47667179999999,
+      "website": "https://www.eatforbici.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=6797120735112782491&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "italian_restaurant",
+      "types": [
+        "italian_restaurant",
+        "pizza_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_MODERATE",
+      "rating": 4.4,
+      "openingHours": [
+        "Monday: 11:00 AM – 10:00 PM",
+        "Tuesday: 11:00 AM – 10:00 PM",
+        "Wednesday: 11:00 AM – 10:00 PM",
+        "Thursday: 11:00 AM – 11:00 PM",
+        "Friday: 11:00 AM – 12:00 AM",
+        "Saturday: 10:00 AM – 12:00 AM",
+        "Sunday: 10:00 AM – 10:00 PM"
+      ],
+      "sourceBuckets": [
+        "SoHo bars",
+        "Hyde Park bars"
+      ]
+    },
+    {
+      "id": "ChIJK_D-ZlDEwogR1TZphg5U4M0",
+      "name": "Funny Bone Comedy Club",
+      "address": "1600 E 8th Ave C-112, Tampa, FL 33605, USA",
+      "latitude": 27.9608675,
+      "longitude": -82.44198279999999,
+      "website": "https://tampa.funnybone.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=14834949593919731413&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "comedy_club",
+      "types": [
+        "comedy_club",
+        "performing_arts_theater",
+        "bar",
+        "event_venue",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_MODERATE",
+      "rating": 4.4,
+      "openingHours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: 4:00 – 8:00 PM",
+        "Thursday: 4:00 – 8:00 PM",
+        "Friday: 4:00 – 10:30 PM",
+        "Saturday: 3:00 – 10:00 PM",
+        "Sunday: 3:00 – 7:30 PM"
+      ],
+      "sourceBuckets": [
+        "Ybor nightlife",
+        "Gasworx Ybor",
+        "Tampa sports bars"
+      ]
+    },
+    {
+      "id": "ChIJK_D-ZlDEwogReadEFEDV-dE",
+      "name": "GameTime Tampa",
+      "address": "1600 E 8th Ave, Tampa, FL 33605, USA",
+      "latitude": 27.961133099999998,
+      "longitude": -82.4406971,
+      "website": "https://www.gametimeplayers.com/locations/tampa/",
+      "googleMapsUri": "https://maps.google.com/?cid=15130358894322558841&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "video_arcade",
+      "types": [
+        "video_arcade",
+        "sports_bar",
+        "family_restaurant",
+        "tourist_attraction",
+        "amusement_center",
+        "bar",
+        "event_venue",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_MODERATE",
+      "rating": 4.1,
+      "openingHours": [
+        "Monday: 4:00 – 11:00 PM",
+        "Tuesday: 4:00 – 11:00 PM",
+        "Wednesday: 4:00 – 11:00 PM",
+        "Thursday: 4:00 PM – 12:00 AM",
+        "Friday: 4:00 PM – 2:00 AM",
+        "Saturday: 10:00 AM – 2:00 AM",
+        "Sunday: 10:00 AM – 11:00 PM"
+      ],
+      "sourceBuckets": [
+        "Ybor nightlife",
+        "Gasworx Ybor"
+      ]
+    },
+    {
+      "id": "ChIJ1yQNClHEwogRaCW7u5bgT0Y",
+      "name": "Gaspar's Grotto",
+      "address": "1805 E 7th Ave, Tampa, FL 33605, USA",
+      "latitude": 27.9601078,
+      "longitude": -82.4389619,
+      "website": "https://gasparsgrotto.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=5066515043814417768&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "restaurant",
+      "types": [
+        "restaurant",
+        "bar_and_grill",
+        "live_music_venue",
+        "historical_landmark",
+        "historical_place",
+        "bar",
+        "event_venue",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_MODERATE",
+      "rating": 4.3,
+      "openingHours": [
+        "Monday: 7:00 AM – 2:00 AM",
+        "Tuesday: 7:00 AM – 2:00 AM",
+        "Wednesday: 7:00 AM – 2:00 AM",
+        "Thursday: 7:00 AM – 2:00 AM",
+        "Friday: 7:00 AM – 2:00 AM",
+        "Saturday: 7:00 AM – 2:00 AM",
+        "Sunday: 11:00 AM – 2:00 AM"
+      ],
+      "sourceBuckets": [
+        "Ybor nightlife",
+        "Gasworx Ybor"
+      ]
+    },
+    {
+      "id": "ChIJi-canvHDwogRWyvbddlFtvQ",
+      "name": "Gasparilla Restaurants",
+      "address": "1818 W Platt St, Tampa Florida, 33602, Tampa, FL 33606, USA",
+      "latitude": 27.9416823,
+      "longitude": -82.4785967,
+      "website": "https://www.gasparillarestaurants.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=17633358191303273307&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "pizza_restaurant",
+      "types": [
+        "pizza_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+      "rating": 4.7,
+      "openingHours": null,
+      "sourceBuckets": [
+        "Hyde Park bars"
+      ]
+    },
+    {
+      "id": "ChIJDRR9RdDFwogRSKUb6F8CQes",
+      "name": "Girl And A Grill",
+      "address": "4330 N Nebraska Ave, Tampa, FL 33603, USA",
+      "latitude": 27.9849872,
+      "longitude": -82.4514078,
+      "website": "https://www.girlandagrill813.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=16951833083338532168&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "breakfast_restaurant",
+      "types": [
+        "breakfast_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": null,
+      "rating": 4.8,
+      "openingHours": [
+        "Monday: Closed",
+        "Tuesday: 6:00 AM – 12:00 PM",
+        "Wednesday: 6:00 AM – 12:00 PM",
+        "Thursday: 6:00 AM – 12:00 PM",
+        "Friday: 6:00 AM – 12:00 PM",
+        "Saturday: 6:00 AM – 12:00 PM",
+        "Sunday: Closed"
+      ],
+      "sourceBuckets": [
+        "Seminole Heights bars"
+      ]
+    },
+    {
+      "id": "ChIJlz7sdNvFwogR6JSVsxUaFGs",
+      "name": "Graze 1910",
+      "address": "1910 N Ola Ave, Tampa, FL 33602, USA",
+      "latitude": 27.960847899999997,
+      "longitude": -82.463971,
+      "website": "http://www.graze1910.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=7715820742102062312&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "diner",
+      "types": [
+        "diner",
+        "breakfast_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_MODERATE",
+      "rating": 4,
+      "openingHours": [
+        "Monday: 7:30 AM – 9:00 PM",
+        "Tuesday: 7:30 AM – 9:00 PM",
+        "Wednesday: 7:30 AM – 9:00 PM",
+        "Thursday: 7:30 AM – 9:00 PM",
+        "Friday: 7:30 AM – 10:00 PM",
+        "Saturday: 8:00 AM – 10:00 PM",
+        "Sunday: 9:00 AM – 8:30 PM"
+      ],
+      "sourceBuckets": [
+        "Armature Works Tampa Heights"
+      ]
+    },
+    {
+      "id": "ChIJ9RjM9WbDwogROYi4rArfa5M",
+      "name": "Green Lemon",
+      "address": "915 S Howard Ave, Tampa, FL 33606, USA",
+      "latitude": 27.9346341,
+      "longitude": -82.48324819999999,
+      "website": "http://www.eatgreenlemon.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=10622829383023888441&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "mexican_restaurant",
+      "types": [
+        "mexican_restaurant",
+        "taco_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_MODERATE",
+      "rating": 4.6,
+      "openingHours": [
+        "Monday: 11:00 AM – 10:00 PM",
+        "Tuesday: 11:00 AM – 11:00 PM",
+        "Wednesday: 11:00 AM – 10:00 PM",
+        "Thursday: 11:00 AM – 10:00 PM",
+        "Friday: 11:00 AM – 11:00 PM",
+        "Saturday: 11:00 AM – 11:00 PM",
+        "Sunday: 11:00 AM – 10:00 PM"
+      ],
+      "sourceBuckets": [
+        "SoHo bars"
+      ]
+    },
+    {
+      "id": "ChIJ48NfP8HDwogRMdfxUqAPBJE",
+      "name": "Hales Blackbrick",
+      "address": "1809 W Platt St, Tampa, FL 33606, USA",
+      "latitude": 27.9419985,
+      "longitude": -82.4785544,
+      "website": "https://www.halesblackbrick.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=10449494216667158321&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "restaurant",
+      "types": [
+        "restaurant",
+        "fine_dining_restaurant",
+        "asian_fusion_restaurant",
+        "asian_restaurant",
+        "fusion_restaurant",
+        "chinese_restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_MODERATE",
+      "rating": 4.5,
+      "openingHours": [
+        "Monday: Closed",
+        "Tuesday: 5:00 – 9:00 PM",
+        "Wednesday: 5:00 – 9:00 PM",
+        "Thursday: 5:00 – 9:00 PM",
+        "Friday: 5:00 – 10:00 PM",
+        "Saturday: 5:00 – 10:00 PM",
+        "Sunday: 5:00 – 9:00 PM"
+      ],
+      "sourceBuckets": [
+        "Hyde Park bars"
+      ]
+    },
+    {
+      "id": "ChIJfdR_2D3FwogR5xUXk9UQPQk",
+      "name": "Hampton Chocolate Factory",
+      "address": "615 Channelside Dr Ste. 118, Tampa, FL 33602, USA",
+      "latitude": 27.9431248,
+      "longitude": -82.447077,
+      "website": "http://hamptonchocolatefactory.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=665706829402543591&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "dessert_shop",
+      "types": [
+        "dessert_shop",
+        "chocolate_shop",
+        "dessert_restaurant",
+        "candy_store",
+        "gift_shop",
+        "ice_cream_shop",
+        "confectionery",
+        "food_store",
+        "restaurant",
+        "food",
+        "store",
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_MODERATE",
+      "rating": 4.7,
+      "openingHours": [
+        "Monday: 12:00 – 10:00 PM",
+        "Tuesday: 12:00 – 10:00 PM",
+        "Wednesday: 12:00 – 10:00 PM",
+        "Thursday: 12:00 – 10:00 PM",
+        "Friday: 11:00 AM – 12:00 AM",
+        "Saturday: 11:00 AM – 12:00 AM",
+        "Sunday: 11:00 AM – 10:00 PM"
+      ],
+      "sourceBuckets": [
+        "Downtown Tampa bars",
+        "Channelside bars"
+      ]
+    },
+    {
+      "id": "ChIJJ13SCI3EwogRcX2q5Fs_HkU",
+      "name": "Harpoon Harry's Crab House - Tampa",
+      "address": "225 S Franklin St, Tampa, FL 33602, USA",
+      "latitude": 27.942736,
+      "longitude": -82.4559944,
+      "website": "https://www.harpoonharryscrabhousetampa.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=4980487901829299569&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "seafood_restaurant",
+      "types": [
+        "seafood_restaurant",
+        "sushi_restaurant",
+        "japanese_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_MODERATE",
+      "rating": 4.3,
+      "openingHours": [
+        "Monday: 11:00 AM – 9:00 PM",
+        "Tuesday: 11:00 AM – 9:00 PM",
+        "Wednesday: 11:00 AM – 9:00 PM",
+        "Thursday: 11:00 AM – 9:00 PM",
+        "Friday: 11:00 AM – 11:00 PM",
+        "Saturday: 11:00 AM – 11:00 PM",
+        "Sunday: 11:00 AM – 9:00 PM"
+      ],
+      "sourceBuckets": [
+        "Downtown Tampa bars",
+        "Channelside bars"
+      ]
+    },
+    {
+      "id": "ChIJB1L_XIzEwogR1Eslu42A1NQ",
+      "name": "Hattricks",
+      "address": "107 S Franklin St, Tampa, FL 33602, USA",
+      "latitude": 27.944865900000003,
+      "longitude": -82.4569758,
+      "website": "http://www.hattrickstavern.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=15336023977321909204&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "american_restaurant",
+      "types": [
+        "american_restaurant",
+        "sports_bar",
+        "irish_pub",
+        "pub",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_MODERATE",
+      "rating": 4.4,
+      "openingHours": [
+        "Monday: 11:00 AM – 1:00 AM",
+        "Tuesday: 11:00 AM – 1:00 AM",
+        "Wednesday: 11:00 AM – 1:00 AM",
+        "Thursday: 11:00 AM – 1:00 AM",
+        "Friday: 11:00 AM – 1:00 AM",
+        "Saturday: 11:00 AM – 1:00 AM",
+        "Sunday: 11:00 AM – 1:00 AM"
+      ],
+      "sourceBuckets": [
+        "Downtown Tampa bars",
+        "Channelside bars",
+        "Tampa sports bars"
+      ]
+    },
+    {
+      "id": "ChIJBdVltRzFwogRLS4pltofRn8",
+      "name": "Heights Kava Lounge (Coffee , Kava, Kombucha, Herbal tea, Hookah)",
+      "address": "723 W Columbus Dr, Tampa, FL 33602, USA",
+      "latitude": 27.9671602,
+      "longitude": -82.46829480000001,
+      "website": null,
+      "googleMapsUri": "https://maps.google.com/?cid=9171052714869206573&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "coffee_shop",
+      "types": [
+        "coffee_shop",
+        "tea_store",
+        "lounge_bar",
+        "hookah_bar",
+        "tea_house",
+        "night_club",
+        "bar",
+        "cafe",
+        "live_music_venue",
+        "food_store",
+        "food",
+        "health",
+        "store",
+        "event_venue",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_MODERATE",
+      "rating": 5,
+      "openingHours": [
+        "Monday: 7:00 AM – 12:00 AM",
+        "Tuesday: 7:00 AM – 12:00 AM",
+        "Wednesday: 7:00 AM – 12:00 AM",
+        "Thursday: 7:00 AM – 12:00 AM",
+        "Friday: 7:00 AM – 1:00 AM",
+        "Saturday: 11:00 AM – 1:00 AM",
+        "Sunday: 11:00 AM – 12:00 AM"
+      ],
+      "sourceBuckets": [
+        "Armature Works Tampa Heights"
+      ]
+    },
+    {
+      "id": "ChIJ91OSMGfFwogRD8L_rG6FEG8",
+      "name": "Heights Public Market",
+      "address": "1910 N Ola Ave, Tampa, FL 33602, USA",
+      "latitude": 27.9609924,
+      "longitude": -82.46403839999999,
+      "website": "https://armatureworks.com/heights-market/",
+      "googleMapsUri": "https://maps.google.com/?cid=8003043248232710671&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "food_court",
+      "types": [
+        "food_court",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_MODERATE",
+      "rating": 4.7,
+      "openingHours": [
+        "Monday: 7:30 AM – 10:00 PM",
+        "Tuesday: 7:30 AM – 10:00 PM",
+        "Wednesday: 7:30 AM – 10:00 PM",
+        "Thursday: 7:30 AM – 10:00 PM",
+        "Friday: 7:30 AM – 12:00 AM",
+        "Saturday: 8:00 AM – 12:00 AM",
+        "Sunday: 9:00 AM – 9:00 PM"
+      ],
+      "sourceBuckets": [
+        "Armature Works Tampa Heights"
+      ]
+    },
+    {
+      "id": "ChIJP5IJEWTEwogRGG32fm4iHtw",
+      "name": "Hidden Springs Ale Works",
+      "address": "1631 N Franklin St, Tampa, FL 33602, USA",
+      "latitude": 27.959295,
+      "longitude": -82.459935,
+      "website": "http://www.hiddenspringsaleworks.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=15861152795617291544&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "brewery",
+      "types": [
+        "brewery",
+        "bar",
+        "manufacturer",
+        "food",
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "priceLevel": null,
+      "rating": 4.6,
+      "openingHours": [
+        "Monday: 2:00 – 8:00 PM",
+        "Tuesday: 2:00 – 8:00 PM",
+        "Wednesday: 3:00 – 9:00 PM",
+        "Thursday: 3:00 – 9:00 PM",
+        "Friday: 12:00 – 10:00 PM",
+        "Saturday: 12:00 – 10:00 PM",
+        "Sunday: 12:00 – 6:00 PM"
+      ],
+      "sourceBuckets": [
+        "Armature Works Tampa Heights"
+      ]
+    },
+    {
+      "id": "ChIJ2_xFiVrEwogRHOkifwb6NpU",
+      "name": "Hotel Haya",
+      "address": "1412 E 7th Ave, Tampa, FL 33605, USA",
+      "latitude": 27.9604949,
+      "longitude": -82.4438431,
+      "website": "https://hotelhaya.com/?utm_source=google&utm_medium=organic&utm_campaign=googlelisting&utm_id=gmb",
+      "googleMapsUri": "https://maps.google.com/?cid=10752056066203379996&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "hotel",
+      "types": [
+        "hotel",
+        "cuban_restaurant",
+        "wedding_venue",
+        "lodging",
+        "event_venue",
+        "restaurant",
+        "cafe",
+        "food",
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "priceLevel": null,
+      "rating": 4.5,
+      "openingHours": null,
+      "sourceBuckets": [
+        "Ybor nightlife",
+        "Gasworx Ybor"
+      ]
+    },
+    {
+      "id": "ChIJQZRp15bDwogReY6sMTk-YWg",
+      "name": "Hyde Park Village",
+      "address": "1602 W Swann Ave, Tampa, FL 33606, USA",
+      "latitude": 27.937453299999998,
+      "longitude": -82.47548789999999,
+      "website": "http://hydeparkvillage.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=7521361268052889209&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "shopping_mall",
+      "types": [
+        "shopping_mall",
+        "womens_clothing_store",
+        "clothing_store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "priceLevel": null,
+      "rating": 4.7,
+      "openingHours": [
+        "Monday: 10:00 AM – 8:00 PM",
+        "Tuesday: 10:00 AM – 8:00 PM",
+        "Wednesday: 10:00 AM – 8:00 PM",
+        "Thursday: 10:00 AM – 8:00 PM",
+        "Friday: 10:00 AM – 8:00 PM",
+        "Saturday: 10:00 AM – 8:00 PM",
+        "Sunday: 12:00 – 5:00 PM"
+      ],
+      "sourceBuckets": [
+        "SoHo bars",
+        "Hyde Park bars"
+      ]
+    },
+    {
+      "id": "ChIJXze1LS_FwogRIeQKUSTt268",
+      "name": "Ichiban Sushi & Ramen",
+      "address": "5127 N Florida Ave, Tampa, FL 33603, USA",
+      "latitude": 27.993581,
+      "longitude": -82.45926,
+      "website": "https://tampaichibansushi.com/?utm_source=google",
+      "googleMapsUri": "https://maps.google.com/?cid=12671982716771296289&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "japanese_restaurant",
+      "types": [
+        "japanese_restaurant",
+        "ramen_restaurant",
+        "vegetarian_restaurant",
+        "sushi_restaurant",
+        "hawaiian_restaurant",
+        "seafood_restaurant",
+        "catering_service",
+        "food_delivery",
+        "american_restaurant",
+        "noodle_shop",
+        "korean_restaurant",
+        "restaurant",
+        "food",
+        "service",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": null,
+      "rating": 4.8,
+      "openingHours": [
+        "Monday: 11:30 AM – 9:00 PM",
+        "Tuesday: 11:30 AM – 9:00 PM",
+        "Wednesday: 11:30 AM – 9:00 PM",
+        "Thursday: 11:30 AM – 9:00 PM",
+        "Friday: 11:30 AM – 10:00 PM",
+        "Saturday: 3:00 – 10:00 PM",
+        "Sunday: 4:00 – 9:00 PM"
+      ],
+      "sourceBuckets": [
+        "Seminole Heights bars"
+      ]
+    },
+    {
+      "id": "ChIJPf7N5xvEwogRo0adU2c7_2s",
+      "name": "Independent Bar & Kitchen",
+      "address": "5016 N Florida Ave, Tampa, FL 33603, USA",
+      "latitude": 27.991972699999998,
+      "longitude": -82.45961129999999,
+      "website": "https://www.indietpa.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=7782003996089992867&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "restaurant",
+      "types": [
+        "restaurant",
+        "bar",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_MODERATE",
+      "rating": 4.6,
+      "openingHours": [
+        "Monday: 11:00 AM – 12:00 AM",
+        "Tuesday: 11:00 AM – 12:00 AM",
+        "Wednesday: 11:00 AM – 12:00 AM",
+        "Thursday: 11:00 AM – 12:00 AM",
+        "Friday: 11:00 AM – 1:00 AM",
+        "Saturday: 11:00 AM – 1:00 AM",
+        "Sunday: 11:00 AM – 12:00 AM"
+      ],
+      "sourceBuckets": [
+        "Seminole Heights bars"
+      ]
+    },
+    {
+      "id": "ChIJufAqa2LDwogRlL9MutPaUdI",
+      "name": "Irish 31 Pub House & Eatery",
+      "address": "1611 W Swann Ave, Tampa, FL 33606, USA",
+      "latitude": 27.937512299999998,
+      "longitude": -82.4765736,
+      "website": "https://irish31.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=15155134823976976276&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "irish_pub",
+      "types": [
+        "irish_pub",
+        "sports_bar",
+        "european_restaurant",
+        "pub",
+        "american_restaurant",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_MODERATE",
+      "rating": 4.4,
+      "openingHours": [
+        "Monday: 12:00 – 11:00 PM",
+        "Tuesday: 12:00 – 11:00 PM",
+        "Wednesday: 12:00 – 11:00 PM",
+        "Thursday: 12:00 PM – 12:00 AM",
+        "Friday: 11:00 AM – 12:00 AM",
+        "Saturday: 11:00 AM – 12:00 AM",
+        "Sunday: 11:00 AM – 11:00 PM"
+      ],
+      "sourceBuckets": [
+        "Hyde Park bars"
+      ]
+    },
+    {
+      "id": "ChIJF3KEwZLEwogRaqYCFY7x_0k",
+      "name": "Jackson's Bistro, Bar & Sushi of Tampa",
+      "address": "601 S Harbour Island Blvd Ste 100, Tampa, FL 33602, USA",
+      "latitude": 27.938731699999998,
+      "longitude": -82.4548937,
+      "website": "https://www.jacksonsbistro.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=5332246076370101866&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "american_restaurant",
+      "types": [
+        "american_restaurant",
+        "sushi_restaurant",
+        "japanese_restaurant",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_MODERATE",
+      "rating": 4.3,
+      "openingHours": [
+        "Monday: 11:00 AM – 10:00 PM",
+        "Tuesday: 11:00 AM – 10:00 PM",
+        "Wednesday: 11:00 AM – 10:00 PM",
+        "Thursday: 11:00 AM – 10:00 PM",
+        "Friday: 11:00 AM – 11:00 PM",
+        "Saturday: 10:00 AM – 11:00 PM",
+        "Sunday: 10:00 AM – 10:00 PM"
+      ],
+      "sourceBuckets": [
+        "Downtown Tampa bars",
+        "Channelside bars",
+        "Tampa sports bars"
+      ]
+    },
+    {
+      "id": "ChIJK031VFDEwogRA-CPh1rNsnQ",
+      "name": "James Joyce Irish Pub & Eatery",
+      "address": "1724 E 8th Ave, Tampa, FL 33605, USA",
+      "latitude": 27.961150099999998,
+      "longitude": -82.43935640000001,
+      "website": null,
+      "googleMapsUri": "https://maps.google.com/?cid=8409009242959241219&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "irish_pub",
+      "types": [
+        "irish_pub",
+        "irish_restaurant",
+        "hamburger_restaurant",
+        "pub",
+        "american_restaurant",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_MODERATE",
+      "rating": 4.6,
+      "openingHours": [
+        "Monday: 11:00 AM – 3:00 AM",
+        "Tuesday: 11:00 AM – 3:00 AM",
+        "Wednesday: 11:00 AM – 3:00 AM",
+        "Thursday: 11:00 AM – 3:00 AM",
+        "Friday: 11:00 AM – 3:00 AM",
+        "Saturday: 11:00 AM – 3:00 AM",
+        "Sunday: 11:00 AM – 3:00 AM"
+      ],
+      "sourceBuckets": [
+        "Gasworx Ybor"
+      ]
+    },
+    {
+      "id": "ChIJB9JCMbHFwogRIHaDQD6I1FE",
+      "name": "Jekyll",
+      "address": "705 S Oregon Ave, Tampa, FL 33606, USA",
+      "latitude": 27.936785200000003,
+      "longitude": -82.47491079999999,
+      "website": "https://www.jekyllhydepark.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=5896487613086529056&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "lounge_bar",
+      "types": [
+        "lounge_bar",
+        "night_club",
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": null,
+      "rating": 4.1,
+      "openingHours": [
+        "Monday: Closed",
+        "Tuesday: 5:00 – 11:00 PM",
+        "Wednesday: 5:00 – 11:00 PM",
+        "Thursday: 5:00 PM – 1:00 AM",
+        "Friday: 5:00 PM – 1:00 AM",
+        "Saturday: 5:00 PM – 1:00 AM",
+        "Sunday: Closed"
+      ],
+      "sourceBuckets": [
+        "Hyde Park bars"
+      ]
+    },
+    {
+      "id": "ChIJ27GzUEPFwogRulJovqXIaH0",
+      "name": "Kōsen",
+      "address": "307 W Palm Ave, Tampa, FL 33602, USA",
+      "latitude": 27.962431799999997,
+      "longitude": -82.4642532,
+      "website": "http://www.kosentampa.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=9036693266508567226&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "fine_dining_restaurant",
+      "types": [
+        "fine_dining_restaurant",
+        "japanese_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE",
+      "rating": 4.6,
+      "openingHours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: 5:00 – 9:30 PM",
+        "Thursday: 5:00 – 9:30 PM",
+        "Friday: 5:00 – 10:00 PM",
+        "Saturday: 5:00 – 10:00 PM",
+        "Sunday: 5:00 – 9:30 PM"
+      ],
+      "sourceBuckets": [
+        "Armature Works Tampa Heights"
+      ]
+    },
+    {
+      "id": "ChIJXTeLe0XEwogR-wheRdFeKEY",
+      "name": "La Segunda Bakery and Cafe",
+      "address": "2512 N 15th St, Tampa, FL 33605, USA",
+      "latitude": 27.9658405,
+      "longitude": -82.4433739,
+      "website": "https://www.lasegundabakery.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=5055394834628348155&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "bakery",
+      "types": [
+        "bakery",
+        "cuban_restaurant",
+        "breakfast_restaurant",
+        "sandwich_shop",
+        "dessert_shop",
+        "confectionery",
+        "historical_landmark",
+        "historical_place",
+        "restaurant",
+        "coffee_shop",
+        "cafe",
+        "manufacturer",
+        "food_store",
+        "food",
+        "wholesaler",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+      "rating": 4.5,
+      "openingHours": [
+        "Monday: 6:30 AM – 3:00 PM",
+        "Tuesday: 6:30 AM – 3:00 PM",
+        "Wednesday: 6:30 AM – 3:00 PM",
+        "Thursday: 6:30 AM – 3:00 PM",
+        "Friday: 6:30 AM – 3:00 PM",
+        "Saturday: 6:30 AM – 3:00 PM",
+        "Sunday: 6:30 AM – 3:00 PM"
+      ],
+      "sourceBuckets": [
+        "Ybor nightlife"
+      ]
+    },
+    {
+      "id": "ChIJ0W7CipfDwogRv8PUu_Wwvo0",
+      "name": "La Teresita Restaurant",
+      "address": "3248 W Columbus Dr, Tampa, FL 33607, USA",
+      "latitude": 27.966448099999997,
+      "longitude": -82.4965192,
+      "website": "http://www.lateresitarestaurant.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=10213795574387622847&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "cuban_restaurant",
+      "types": [
+        "cuban_restaurant",
+        "brazilian_restaurant",
+        "bar_and_grill",
+        "spanish_restaurant",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+      "rating": 4.4,
+      "openingHours": [
+        "Monday: 6:00 AM – 9:00 PM",
+        "Tuesday: 6:00 AM – 9:00 PM",
+        "Wednesday: 6:00 AM – 9:00 PM",
+        "Thursday: 6:00 AM – 9:00 PM",
+        "Friday: 6:00 AM – 12:00 AM",
+        "Saturday: 6:00 AM – 12:00 AM",
+        "Sunday: 6:00 AM – 9:00 PM"
+      ],
+      "sourceBuckets": [
+        "Westshore bars",
+        "Tampa sports bars"
+      ]
+    },
+    {
+      "id": "ChIJuQ2eLXLFwogRbaCsQdzl60Q",
+      "name": "Los Chapos Tacos",
+      "address": "951 E 7th Ave, Tampa, FL 33605, USA",
+      "latitude": 27.960027999999998,
+      "longitude": -82.4488763,
+      "website": "https://loschapostacos.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=4966315748263501933&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "mexican_restaurant",
+      "types": [
+        "mexican_restaurant",
+        "latin_american_restaurant",
+        "taco_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_MODERATE",
+      "rating": 4.5,
+      "openingHours": [
+        "Monday: 11:00 AM – 11:00 PM",
+        "Tuesday: 11:00 AM – 11:00 PM",
+        "Wednesday: 11:00 AM – 11:00 PM",
+        "Thursday: 11:00 AM – 11:00 PM",
+        "Friday: 11:00 AM – 11:00 PM",
+        "Saturday: 11:00 AM – 11:00 PM",
+        "Sunday: Closed"
+      ],
+      "sourceBuckets": [
+        "Gasworx Ybor"
+      ]
+    },
+    {
+      "id": "ChIJTY7XE2PFwogRDgMOQRLEAhw",
+      "name": "M.Bird Rooftop Restaurant, Bar & DJ's",
+      "address": "1903 Market St, Tampa, FL 33602, USA",
+      "latitude": 27.96099,
+      "longitude": -82.46428619999999,
+      "website": "https://www.mbirdtampa.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=2018391165695296270&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "american_restaurant",
+      "types": [
+        "american_restaurant",
+        "night_club",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_MODERATE",
+      "rating": 4.3,
+      "openingHours": [
+        "Monday: 4:00 PM – 12:00 AM",
+        "Tuesday: 4:00 PM – 12:00 AM",
+        "Wednesday: 4:00 PM – 12:00 AM",
+        "Thursday: 4:00 PM – 3:00 AM",
+        "Friday: 3:00 PM – 3:00 AM",
+        "Saturday: 11:00 AM – 3:00 AM",
+        "Sunday: 11:00 AM – 12:00 AM"
+      ],
+      "sourceBuckets": [
+        "Downtown Tampa bars",
+        "Armature Works Tampa Heights",
+        "Tampa sports bars"
+      ]
+    },
+    {
+      "id": "ChIJTSQO5GTDwogR5VNtdse_zBw",
+      "name": "MacDinton's Irish Pub",
+      "address": "405 S Howard Ave, Tampa, FL 33606, USA",
+      "latitude": 27.9405322,
+      "longitude": -82.48318139999999,
+      "website": "https://macdintons.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=2075244391717229541&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "irish_pub",
+      "types": [
+        "irish_pub",
+        "pub",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_MODERATE",
+      "rating": 4.2,
+      "openingHours": [
+        "Monday: 4:00 PM – 3:00 AM",
+        "Tuesday: 4:00 PM – 3:00 AM",
+        "Wednesday: 4:00 PM – 3:00 AM",
+        "Thursday: 4:00 PM – 3:00 AM",
+        "Friday: 4:00 PM – 3:00 AM",
+        "Saturday: 11:00 AM – 3:00 AM",
+        "Sunday: 11:00 AM – 3:00 AM"
+      ],
+      "sourceBuckets": [
+        "SoHo bars"
+      ]
+    },
+    {
+      "id": "ChIJ7ThsNUPFwogRQ_WAyKqMz3A",
+      "name": "Mangos Southern Kitchen and Bar",
+      "address": "5137 N Florida Ave, Tampa, FL 33603, USA",
+      "latitude": 27.9941137,
+      "longitude": -82.4592282,
+      "website": "https://www.mangossouthernkitchen.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=8128870517563258179&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "restaurant",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": null,
+      "rating": 4.6,
+      "openingHours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: 3:00 – 10:00 PM",
+        "Thursday: 3:00 – 10:00 PM",
+        "Friday: 3:00 – 11:00 PM",
+        "Saturday: 3:00 – 11:00 PM",
+        "Sunday: 11:00 AM – 4:00 PM"
+      ],
+      "sourceBuckets": [
+        "Seminole Heights bars"
+      ]
+    },
+    {
+      "id": "ChIJb941fH3DwogRJUar7RezRjQ",
+      "name": "McDonald's",
+      "address": "1520 W Kennedy Blvd, Tampa, FL 33606, USA",
+      "latitude": 27.9442429,
+      "longitude": -82.4754069,
+      "website": "https://www.mcdonalds.com/us/en-us/location/FL/TAMPA/1520-W-KENNEDY-BLVD/23662.html?cid=RF:YXT:GMB::Clicks",
+      "googleMapsUri": "https://maps.google.com/?cid=3766895053695043109&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "fast_food_restaurant",
+      "types": [
+        "fast_food_restaurant",
+        "sandwich_shop",
+        "coffee_shop",
+        "breakfast_restaurant",
+        "hamburger_restaurant",
+        "cafe",
+        "american_restaurant",
+        "restaurant",
+        "food_store",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+      "rating": 3.6,
+      "openingHours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "sourceBuckets": [
+        "SoHo bars"
+      ]
+    },
+    {
+      "id": "ChIJv8Kdo03EwogR3HoxBWem40Q",
+      "name": "McDonald's",
+      "address": "2101 E 13th Ave, Tampa, FL 33605, USA",
+      "latitude": 27.964267999999997,
+      "longitude": -82.43529819999999,
+      "website": "https://www.mcdonalds.com/us/en-us/location/FL/TAMPA/2101-E-13TH-AVENUE/27982.html?cid=RF:YXT:GMB::Clicks",
+      "googleMapsUri": "https://maps.google.com/?cid=4963994175691389660&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "fast_food_restaurant",
+      "types": [
+        "fast_food_restaurant",
+        "hamburger_restaurant",
+        "breakfast_restaurant",
+        "sandwich_shop",
+        "american_restaurant",
+        "restaurant",
+        "coffee_shop",
+        "cafe",
+        "food_store",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+      "rating": 3.4,
+      "openingHours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "sourceBuckets": [
+        "Ybor nightlife"
+      ]
+    },
+    {
+      "id": "ChIJkZxi4BXEwogRtCwllumRgRI",
+      "name": "McDonald's",
+      "address": "501 E Dr, W M.L.K. Jr Blvd, Tampa, FL 33603, USA",
+      "latitude": 27.981131899999998,
+      "longitude": -82.45492639999999,
+      "website": "https://www.mcdonalds.com/us/en-us/location/FL/TAMPA/501-E-DR-M-L-K-JR-DR/10773.html?cid=RF:YXT:GMB::Clicks",
+      "googleMapsUri": "https://maps.google.com/?cid=1333507397110803636&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "fast_food_restaurant",
+      "types": [
+        "fast_food_restaurant",
+        "hamburger_restaurant",
+        "breakfast_restaurant",
+        "coffee_shop",
+        "sandwich_shop",
+        "american_restaurant",
+        "cafe",
+        "restaurant",
+        "food_store",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+      "rating": 3.4,
+      "openingHours": [
+        "Monday: 5:00 AM – 2:00 AM",
+        "Tuesday: 5:00 AM – 2:00 AM",
+        "Wednesday: 5:00 AM – 2:00 AM",
+        "Thursday: 5:00 AM – 2:00 AM",
+        "Friday: 5:00 AM – 2:00 AM",
+        "Saturday: 5:00 AM – 2:00 AM",
+        "Sunday: 5:00 AM – 2:00 AM"
+      ],
+      "sourceBuckets": [
+        "Seminole Heights bars"
+      ]
+    },
+    {
+      "id": "ChIJtwli6xvDwogRdNWjO4byk5U",
+      "name": "Meat Market Steakhouse Tampa",
+      "address": "1606 W Snow Ave, Tampa, FL 33606, USA",
+      "latitude": 27.935898,
+      "longitude": -82.47608149999999,
+      "website": "https://www.meatmarket.net/location/meat-market-tampa/",
+      "googleMapsUri": "https://maps.google.com/?cid=10778224991567861108&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "steak_house",
+      "types": [
+        "steak_house",
+        "fine_dining_restaurant",
+        "american_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+      "rating": 3.9,
+      "openingHours": [
+        "Monday: 11:30 AM – 11:00 PM",
+        "Tuesday: 11:30 AM – 11:00 PM",
+        "Wednesday: 11:30 AM – 11:00 PM",
+        "Thursday: 11:30 AM – 12:00 AM",
+        "Friday: 11:30 AM – 12:00 AM",
+        "Saturday: 11:00 AM – 12:00 AM",
+        "Sunday: 11:00 AM – 11:00 PM"
+      ],
+      "sourceBuckets": [
+        "SoHo bars",
+        "Hyde Park bars"
+      ]
+    },
+    {
+      "id": "ChIJVyBYJ4XDwogR9PcvBSIlXwE",
+      "name": "Midtown Tampa",
+      "address": "3659 Midtown Dr, Tampa, FL 33607, USA",
+      "latitude": 27.953087699999998,
+      "longitude": -82.501958,
+      "website": "http://www.midtowntampa.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=98838544871585780&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "shopping_mall",
+      "types": [
+        "shopping_mall",
+        "apartment_complex",
+        "bar_and_grill",
+        "live_music_venue",
+        "coffee_shop",
+        "gym",
+        "cafe",
+        "bar",
+        "event_venue",
+        "real_estate_agency",
+        "sports_activity_location",
+        "food_store",
+        "store",
+        "service",
+        "health",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": null,
+      "rating": 4.6,
+      "openingHours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "sourceBuckets": [
+        "Westshore bars",
+        "Tampa sports bars"
+      ]
+    },
+    {
+      "id": "ChIJM8VKwq_DwogR1syjySCWcOg",
+      "name": "Miller's Ale House",
+      "address": "3860 W Columbus Dr, Tampa, FL 33607, USA",
+      "latitude": 27.966441699999997,
+      "longitude": -82.5093637,
+      "website": "https://millersalehouse.com/locations/tampa-airport/?utm_source=gmb&utm_medium=organic",
+      "googleMapsUri": "https://maps.google.com/?cid=16749052081756949718&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "restaurant",
+      "types": [
+        "restaurant",
+        "brewpub",
+        "chicken_wings_restaurant",
+        "sports_bar",
+        "steak_house",
+        "seafood_restaurant",
+        "pub",
+        "american_restaurant",
+        "meal_takeaway",
+        "bar",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_MODERATE",
+      "rating": 4.4,
+      "openingHours": [
+        "Monday: 11:00 AM – 1:00 AM",
+        "Tuesday: 11:00 AM – 1:00 AM",
+        "Wednesday: 10:00 AM – 1:00 AM",
+        "Thursday: 11:00 AM – 2:00 AM",
+        "Friday: 11:00 AM – 2:00 AM",
+        "Saturday: 11:00 AM – 2:00 AM",
+        "Sunday: 11:00 AM – 2:00 AM"
+      ],
+      "sourceBuckets": [
+        "Westshore bars"
+      ]
+    },
+    {
+      "id": "ChIJN9ULHm_EwogRX81d4aC8wpg",
+      "name": "ming garden Chinese Restaurant",
+      "address": "2601 N Tampa St, Tampa, FL 33602, USA",
+      "latitude": 27.967148599999998,
+      "longitude": -82.4606546,
+      "website": "http://www.minggardentampa.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=11007567838408723807&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "chinese_restaurant",
+      "types": [
+        "chinese_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+      "rating": 4.3,
+      "openingHours": [
+        "Monday: 11:00 AM – 10:30 PM",
+        "Tuesday: Closed",
+        "Wednesday: 11:00 AM – 10:30 PM",
+        "Thursday: 11:00 AM – 10:30 PM",
+        "Friday: 11:00 AM – 11:00 PM",
+        "Saturday: 11:00 AM – 11:00 PM",
+        "Sunday: 12:00 – 10:00 PM"
+      ],
+      "sourceBuckets": [
+        "Armature Works Tampa Heights"
+      ]
+    },
+    {
+      "id": "ChIJRxXOTQDFwogRwF74OMPdvhg",
+      "name": "Morgan’s Cove",
+      "address": "210 N Morgan St, Tampa, FL 33602, USA",
+      "latitude": 27.9475445,
+      "longitude": -82.45517129999999,
+      "website": "https://morganscovetampa.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=1783106333029457600&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "cocktail_bar",
+      "types": [
+        "cocktail_bar",
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": null,
+      "rating": 4.4,
+      "openingHours": [
+        "Monday: 4:00 – 11:00 PM",
+        "Tuesday: 4:00 – 11:00 PM",
+        "Wednesday: 4:00 – 11:00 PM",
+        "Thursday: 4:00 – 11:00 PM",
+        "Friday: 4:00 PM – 1:00 AM",
+        "Saturday: 2:00 PM – 1:00 AM",
+        "Sunday: 2:00 – 11:00 PM"
+      ],
+      "sourceBuckets": [
+        "Channelside bars"
+      ]
+    },
+    {
+      "id": "ChIJVVVhGP3DwogRCCo4928XkvU",
+      "name": "Mr. Pepito Venezuelan Food Truck",
+      "address": "4105 N Florida Ave, Tampa, FL 33603, USA",
+      "latitude": 27.982973299999998,
+      "longitude": -82.4590278,
+      "website": null,
+      "googleMapsUri": "https://maps.google.com/?cid=17695231655548561928&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "restaurant",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_MODERATE",
+      "rating": 4.6,
+      "openingHours": [
+        "Monday: 6:00 – 10:00 PM",
+        "Tuesday: 6:00 – 10:00 PM",
+        "Wednesday: 6:00 – 10:00 PM",
+        "Thursday: 6:00 – 10:00 PM",
+        "Friday: 6:00 PM – 12:00 AM",
+        "Saturday: 6:00 PM – 12:00 AM",
+        "Sunday: 6:00 – 10:00 PM"
+      ],
+      "sourceBuckets": [
+        "Seminole Heights bars"
+      ]
+    },
+    {
+      "id": "ChIJY2gjK7TFwogRGgzs7ZHVsPI",
+      "name": "Muchachas",
+      "address": "1910 N Ola Ave #14, Tampa, FL 33602, USA",
+      "latitude": 27.9615764,
+      "longitude": -82.4638818,
+      "website": "https://www.holamuchachas.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=17487712175818279962&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "mexican_restaurant",
+      "types": [
+        "mexican_restaurant",
+        "bar_and_grill",
+        "taco_restaurant",
+        "burrito_restaurant",
+        "tex_mex_restaurant",
+        "meal_takeaway",
+        "bar",
+        "latin_american_restaurant",
+        "american_restaurant",
+        "restaurant",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": null,
+      "rating": 4.3,
+      "openingHours": [
+        "Monday: 11:00 AM – 9:00 PM",
+        "Tuesday: 11:00 AM – 10:00 PM",
+        "Wednesday: 11:00 AM – 10:00 PM",
+        "Thursday: 11:00 AM – 10:00 PM",
+        "Friday: 11:00 AM – 11:00 PM",
+        "Saturday: 11:00 AM – 11:00 PM",
+        "Sunday: 11:00 AM – 9:00 PM"
+      ],
+      "sourceBuckets": [
+        "Armature Works Tampa Heights"
+      ]
+    },
+    {
+      "id": "ChIJkTDP2OLFwogR9W0EjRYIL-0",
+      "name": "Naked Farmer",
+      "address": "1001 Water St, Tampa, FL 33602, USA",
+      "latitude": 27.9437958,
+      "longitude": -82.44983239999999,
+      "website": "https://www.eatnakedfarmer.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=17090888003842502133&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "american_restaurant",
+      "types": [
+        "american_restaurant",
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_MODERATE",
+      "rating": 4.8,
+      "openingHours": [
+        "Monday: 11:00 AM – 9:30 PM",
+        "Tuesday: 11:00 AM – 9:30 PM",
+        "Wednesday: 11:00 AM – 9:30 PM",
+        "Thursday: 11:00 AM – 9:30 PM",
+        "Friday: 11:00 AM – 10:30 PM",
+        "Saturday: 11:00 AM – 10:30 PM",
+        "Sunday: 11:30 AM – 9:00 PM"
+      ],
+      "sourceBuckets": [
+        "Downtown Tampa bars",
+        "Channelside bars"
+      ]
+    },
+    {
+      "id": "ChIJmzKZ8InEwogR0PM7xTqUB6M",
+      "name": "Nueva Cantina - Downtown Tampa",
+      "address": "903 N Franklin St, Tampa, FL 33602, USA",
+      "latitude": 27.951779499999997,
+      "longitude": -82.4594647,
+      "website": "https://nuevacantina.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=11747521133157282768&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "mexican_restaurant",
+      "types": [
+        "mexican_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": null,
+      "rating": 4.5,
+      "openingHours": [
+        "Monday: 11:00 AM – 10:00 PM",
+        "Tuesday: 11:00 AM – 10:00 PM",
+        "Wednesday: 11:00 AM – 10:00 PM",
+        "Thursday: 11:00 AM – 10:00 PM",
+        "Friday: 11:00 AM – 12:00 AM",
+        "Saturday: 11:00 AM – 12:00 AM",
+        "Sunday: 11:00 AM – 10:00 PM"
+      ],
+      "sourceBuckets": [
+        "Downtown Tampa bars"
+      ]
+    },
+    {
+      "id": "ChIJFdsuKwDFwogRNyTrKi7NGtE",
+      "name": "Oak & Ola",
+      "address": "1910 N Ola Ave, Tampa, FL 33602, USA",
+      "latitude": 27.9608352,
+      "longitude": -82.4643177,
+      "website": "http://www.oakandola.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=15067581101493658679&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "restaurant",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_MODERATE",
+      "rating": 4.6,
+      "openingHours": [
+        "Monday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM",
+        "Tuesday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM",
+        "Wednesday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM",
+        "Thursday: 11:00 AM – 3:00 PM, 5:00 – 10:00 PM",
+        "Friday: 11:00 AM – 3:00 PM, 5:00 – 11:00 PM",
+        "Saturday: 10:00 AM – 4:00 PM, 5:00 – 11:00 PM",
+        "Sunday: 10:00 AM – 4:00 PM, 5:00 – 10:00 PM"
+      ],
+      "sourceBuckets": [
+        "Downtown Tampa bars",
+        "Armature Works Tampa Heights"
+      ]
+    },
+    {
+      "id": "ChIJIUpfJ1TCwogRDsxgDUkhIJg",
+      "name": "Ocean Prime",
+      "address": "2205 N Westshore Blvd, Tampa, FL 33607, USA",
+      "latitude": 27.9611977,
+      "longitude": -82.52312769999999,
+      "website": "https://www.ocean-prime.com/locations-menus/tampa",
+      "googleMapsUri": "https://maps.google.com/?cid=10961798090660563982&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "seafood_restaurant",
+      "types": [
+        "seafood_restaurant",
+        "steak_house",
+        "fine_dining_restaurant",
+        "lounge_bar",
+        "night_club",
+        "american_restaurant",
+        "bar",
+        "sushi_restaurant",
+        "japanese_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_EXPENSIVE",
+      "rating": 4.7,
+      "openingHours": [
+        "Monday: 12:00 – 10:00 PM",
+        "Tuesday: 12:00 – 10:00 PM",
+        "Wednesday: 12:00 – 10:00 PM",
+        "Thursday: 12:00 – 10:00 PM",
+        "Friday: 12:00 – 10:00 PM",
+        "Saturday: 3:00 – 10:00 PM",
+        "Sunday: 5:00 – 9:00 PM"
+      ],
+      "sourceBuckets": [
+        "Westshore bars"
+      ]
+    },
+    {
+      "id": "ChIJz78LcVbCwogRPI1pB1aEViE",
+      "name": "Olive Garden Italian Restaurant",
+      "address": "1802 N Westshore Blvd, Tampa, FL 33607, USA",
+      "latitude": 27.958005999999997,
+      "longitude": -82.52448700000001,
+      "website": "https://www.olivegarden.com/locations/fl/tampa/tampa-airport-westshore/4480?cmpid=br:og_ag:ie_ch:loc_ca:OGGMB_sn:gmb_gt:tampa-fl-4480_pl:locurl_rd:1814",
+      "googleMapsUri": "https://maps.google.com/?cid=2402252956275150140&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "italian_restaurant",
+      "types": [
+        "italian_restaurant",
+        "wine_bar",
+        "family_restaurant",
+        "catering_service",
+        "mediterranean_restaurant",
+        "soup_restaurant",
+        "food_delivery",
+        "seafood_restaurant",
+        "meal_takeaway",
+        "bar",
+        "service",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_MODERATE",
+      "rating": 4.4,
+      "openingHours": [
+        "Monday: 11:00 AM – 10:00 PM",
+        "Tuesday: 11:00 AM – 10:00 PM",
+        "Wednesday: 11:00 AM – 10:00 PM",
+        "Thursday: 11:00 AM – 10:00 PM",
+        "Friday: 11:00 AM – 11:00 PM",
+        "Saturday: 11:00 AM – 11:00 PM",
+        "Sunday: 11:00 AM – 10:00 PM"
+      ],
+      "sourceBuckets": [
+        "Westshore bars"
+      ]
+    },
+    {
+      "id": "ChIJ5crCip3EwogRQnhkbw_Ir6U",
+      "name": "On Swann",
+      "address": "1501 W Swann Ave, Tampa, FL 33606, USA",
+      "latitude": 27.9374672,
+      "longitude": -82.4749343,
+      "website": "http://onswann.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=11938981105801394242&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "american_restaurant",
+      "types": [
+        "american_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_EXPENSIVE",
+      "rating": 4.6,
+      "openingHours": [
+        "Monday: 11:00 AM – 2:00 PM, 5:00 – 10:00 PM",
+        "Tuesday: 11:00 AM – 2:00 PM, 5:00 – 10:00 PM",
+        "Wednesday: 11:00 AM – 2:00 PM, 5:00 – 10:00 PM",
+        "Thursday: 11:00 AM – 2:00 PM, 5:00 – 10:00 PM",
+        "Friday: 11:00 AM – 2:00 PM, 5:00 – 11:00 PM",
+        "Saturday: 11:00 AM – 2:00 PM, 5:00 – 11:00 PM",
+        "Sunday: 11:00 AM – 2:00 PM, 5:00 – 10:00 PM"
+      ],
+      "sourceBuckets": [
+        "SoHo bars",
+        "Hyde Park bars"
+      ]
+    },
+    {
+      "id": "ChIJ11hsiYXEwogRjDBv39F04J8",
+      "name": "Oxford Exchange",
+      "address": "420 W Kennedy Blvd, Tampa, FL 33606, USA",
+      "latitude": 27.9449261,
+      "longitude": -82.4646338,
+      "website": "http://oxfordexchange.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=11520336291559321740&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "american_restaurant",
+      "types": [
+        "american_restaurant",
+        "wedding_venue",
+        "breakfast_restaurant",
+        "coworking_space",
+        "gift_shop",
+        "coffee_shop",
+        "cafe",
+        "tea_house",
+        "event_venue",
+        "food_store",
+        "restaurant",
+        "food",
+        "book_store",
+        "store",
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_EXPENSIVE",
+      "rating": 4.6,
+      "openingHours": [
+        "Monday: 7:30 AM – 5:30 PM",
+        "Tuesday: 7:30 AM – 5:30 PM",
+        "Wednesday: 7:30 AM – 5:30 PM",
+        "Thursday: 7:30 AM – 5:30 PM",
+        "Friday: 7:30 AM – 5:30 PM",
+        "Saturday: 8:00 AM – 5:30 PM",
+        "Sunday: 8:00 AM – 5:30 PM"
+      ],
+      "sourceBuckets": [
+        "Downtown Tampa bars"
+      ]
+    },
+    {
+      "id": "ChIJVxmZN4XEwogRN-xGba30hnU",
+      "name": "Pizza Hut",
+      "address": "614 W Platt St, Tampa, FL 33606, USA",
+      "latitude": 27.941366199999997,
+      "longitude": -82.4664039,
+      "website": "https://locations.pizzahut.com/fl/tampa/614-w-platt-st?utm_medium=organic&utm_source=local&utm_campaign=googlelistings&utm_content=website&utm_term=284684",
+      "googleMapsUri": "https://maps.google.com/?cid=8468725175016680503&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "pizza_delivery",
+      "types": [
+        "pizza_delivery",
+        "pizza_restaurant",
+        "chicken_wings_restaurant",
+        "meal_delivery",
+        "food_delivery",
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+      "rating": 3.4,
+      "openingHours": [
+        "Monday: 9:00 AM – 1:00 AM",
+        "Tuesday: 9:00 AM – 1:00 AM",
+        "Wednesday: 9:00 AM – 1:00 AM",
+        "Thursday: 9:00 AM – 1:00 AM",
+        "Friday: 9:00 AM – 2:00 AM",
+        "Saturday: 9:00 AM – 2:00 AM",
+        "Sunday: 9:00 AM – 1:00 AM"
+      ],
+      "sourceBuckets": [
+        "Hyde Park bars"
+      ]
+    },
+    {
+      "id": "ChIJ7aECsrzFwogRKra8aP0X5cE",
+      "name": "Predalina",
+      "address": "1001 E Cumberland Ave, Tampa, FL 33602, USA",
+      "latitude": 27.944868,
+      "longitude": -82.45000449999999,
+      "website": "https://predalina.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=13971599796138194474&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "mediterranean_restaurant",
+      "types": [
+        "mediterranean_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_MODERATE",
+      "rating": 4.1,
+      "openingHours": [
+        "Monday: 3:00 – 10:00 PM",
+        "Tuesday: 3:00 – 10:00 PM",
+        "Wednesday: 3:00 – 10:00 PM",
+        "Thursday: 3:00 – 10:00 PM",
+        "Friday: 3:00 PM – 12:00 AM",
+        "Saturday: 10:30 AM – 12:00 AM",
+        "Sunday: 10:30 AM – 10:00 PM"
+      ],
+      "sourceBuckets": [
+        "Channelside bars"
+      ]
+    },
+    {
+      "id": "ChIJ_RvwD3nDwogRCeHQydPsx_k",
+      "name": "Psomi",
+      "address": "701 N Howard Ave, Tampa, FL 33606, USA",
+      "latitude": 27.9501545,
+      "longitude": -82.4827529,
+      "website": "http://www.eatpsomi.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=17998614830177640713&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "greek_restaurant",
+      "types": [
+        "greek_restaurant",
+        "sandwich_shop",
+        "coffee_shop",
+        "breakfast_restaurant",
+        "bagel_shop",
+        "mediterranean_restaurant",
+        "gyro_restaurant",
+        "cafe",
+        "brunch_restaurant",
+        "bakery",
+        "restaurant",
+        "food_store",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_MODERATE",
+      "rating": 4.5,
+      "openingHours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: 8:00 AM – 3:00 PM",
+        "Thursday: 8:00 AM – 3:00 PM",
+        "Friday: 8:00 AM – 3:00 PM",
+        "Saturday: 8:00 AM – 3:00 PM",
+        "Sunday: 8:00 AM – 3:00 PM"
+      ],
+      "sourceBuckets": [
+        "SoHo bars"
+      ]
+    },
+    {
+      "id": "ChIJ96w84aXHwogRaata302GvTs",
+      "name": "Ranchero Tacos",
+      "address": "4901 N Florida Ave, Tampa, FL 33603, USA",
+      "latitude": 27.9907697,
+      "longitude": -82.4592643,
+      "website": "http://rancherotacos.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=4304744487853927273&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "mexican_restaurant",
+      "types": [
+        "mexican_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": null,
+      "rating": 4.8,
+      "openingHours": [
+        "Monday: Closed",
+        "Tuesday: 11:00 AM – 6:30 PM",
+        "Wednesday: 11:00 AM – 6:30 PM",
+        "Thursday: 11:00 AM – 6:30 PM",
+        "Friday: 11:00 AM – 6:30 PM",
+        "Saturday: 11:00 AM – 6:30 PM",
+        "Sunday: Closed"
+      ],
+      "sourceBuckets": [
+        "Seminole Heights bars"
+      ]
+    },
+    {
+      "id": "ChIJVdT9P3jEwogRaJV9QTenmCg",
+      "name": "Rick's on the River",
+      "address": "2305 N Willow Ave, Tampa, FL 33607, USA",
+      "latitude": 27.9628254,
+      "longitude": -82.4738657,
+      "website": "http://www.ricksontheriver.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=2925271813740926312&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "bar_and_grill",
+      "types": [
+        "bar_and_grill",
+        "marina",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+      "rating": 4.2,
+      "openingHours": [
+        "Monday: 11:00 AM – 11:00 PM",
+        "Tuesday: 11:00 AM – 11:00 PM",
+        "Wednesday: 11:00 AM – 11:00 PM",
+        "Thursday: 11:00 AM – 11:00 PM",
+        "Friday: 11:00 AM – 12:00 AM",
+        "Saturday: 11:00 AM – 12:00 AM",
+        "Sunday: 11:00 AM – 11:00 PM"
+      ],
+      "sourceBuckets": [
+        "Armature Works Tampa Heights",
+        "Tampa sports bars"
+      ]
+    },
+    {
+      "id": "ChIJHXTrIgzEwogRtkvYLJ4JAZI",
+      "name": "Rincon Guatemalteco",
+      "address": "708 W Dr Martin Luther King Jr Blvd, Tampa, FL 33603, USA",
+      "latitude": 27.9811971,
+      "longitude": -82.4684006,
+      "website": "https://www.instagram.com/rincon.guatemalteco?igsh=MW1kN28yanNpMW5vOQ%3D%3D&utm_source=qr",
+      "googleMapsUri": "https://maps.google.com/?cid=10520700779476044726&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "family_restaurant",
+      "types": [
+        "family_restaurant",
+        "bakery",
+        "restaurant",
+        "food_store",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+      "rating": 4.2,
+      "openingHours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: 9:00 AM – 5:00 PM",
+        "Friday: 9:00 AM – 5:00 PM",
+        "Saturday: 9:00 AM – 5:00 PM",
+        "Sunday: 9:00 AM – 5:00 PM"
+      ],
+      "sourceBuckets": [
+        "Seminole Heights bars"
+      ]
+    },
+    {
+      "id": "ChIJdd5wB0zDwogRMowZSgASa9U",
+      "name": "Riveters Tampa",
+      "address": "2301 N Dale Mabry Hwy, Tampa, FL 33607, USA",
+      "latitude": 27.9618382,
+      "longitude": -82.5050866,
+      "website": "http://riveterstampa.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=15378405145039178802&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "american_restaurant",
+      "types": [
+        "american_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_MODERATE",
+      "rating": 4.5,
+      "openingHours": [
+        "Monday: 11:00 AM – 12:00 AM",
+        "Tuesday: 11:00 AM – 12:00 AM",
+        "Wednesday: 11:00 AM – 12:00 AM",
+        "Thursday: 11:00 AM – 2:00 AM",
+        "Friday: 11:00 AM – 3:00 AM",
+        "Saturday: 11:00 AM – 3:00 AM",
+        "Sunday: 11:00 AM – 11:00 PM"
+      ],
+      "sourceBuckets": [
+        "Westshore bars"
+      ]
+    },
+    {
+      "id": "ChIJe_sgCQTFwogRzB1ctERShiI",
+      "name": "Ro Hyde Park",
+      "address": "1500 W Swann Ave, Tampa, FL 33606, USA",
+      "latitude": 27.9371704,
+      "longitude": -82.474997,
+      "website": "https://www.rohydepark.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=2487766299205967308&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "japanese_restaurant",
+      "types": [
+        "japanese_restaurant",
+        "sushi_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": null,
+      "rating": 4.4,
+      "openingHours": [
+        "Monday: 11:00 AM – 10:00 PM",
+        "Tuesday: 11:00 AM – 10:00 PM",
+        "Wednesday: 11:00 AM – 10:00 PM",
+        "Thursday: 11:00 AM – 12:00 AM",
+        "Friday: 11:00 AM – 12:00 AM",
+        "Saturday: 11:00 AM – 12:00 AM",
+        "Sunday: 11:00 AM – 10:00 PM"
+      ],
+      "sourceBuckets": [
+        "SoHo bars",
+        "Hyde Park bars"
+      ]
+    },
+    {
+      "id": "ChIJ1WZIXhjFwogR1M-_3DXnG6Y",
+      "name": "Rocca",
+      "address": "323 W Palm Ave, Tampa, FL 33602, USA",
+      "latitude": 27.9624349,
+      "longitude": -82.465183,
+      "website": "https://roccatampa.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=11969414653190066132&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "italian_restaurant",
+      "types": [
+        "italian_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": null,
+      "rating": 4.6,
+      "openingHours": [
+        "Monday: Closed",
+        "Tuesday: 5:00 – 9:15 PM",
+        "Wednesday: 5:00 – 9:15 PM",
+        "Thursday: 5:00 – 9:15 PM",
+        "Friday: 5:00 – 10:00 PM",
+        "Saturday: 5:00 – 10:00 PM",
+        "Sunday: 5:00 – 9:15 PM"
+      ],
+      "sourceBuckets": [
+        "Armature Works Tampa Heights"
+      ]
+    },
+    {
+      "id": "ChIJsxMgXXfFwogRCniVX75FxGU",
+      "name": "Rosenheim Restaurant",
+      "address": "2001 N 22nd St, Tampa, FL 33605, USA",
+      "latitude": 27.9618283,
+      "longitude": -82.4345439,
+      "website": "https://rosenheimrestaurant.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=7333062777215744010&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "middle_eastern_restaurant",
+      "types": [
+        "middle_eastern_restaurant",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_MODERATE",
+      "rating": 4.9,
+      "openingHours": [
+        "Monday: 5:00 PM – 12:00 AM",
+        "Tuesday: 11:00 AM – 12:00 AM",
+        "Wednesday: 11:00 AM – 12:00 AM",
+        "Thursday: 11:00 AM – 12:00 AM",
+        "Friday: 11:00 AM – 2:00 AM",
+        "Saturday: 11:00 AM – 2:00 AM",
+        "Sunday: 11:00 AM – 12:00 AM"
+      ],
+      "sourceBuckets": [
+        "Ybor nightlife"
+      ]
+    },
+    {
+      "id": "ChIJvQfUtV3EwogR3NIyRTwlS_4",
+      "name": "Salem's Fresh Eats",
+      "address": "1611 N Nebraska Ave, Tampa, FL 33602, USA",
+      "latitude": 27.959403599999998,
+      "longitude": -82.4508085,
+      "website": "https://salemsfresheats.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=18323780449676219100&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "fast_food_restaurant",
+      "types": [
+        "fast_food_restaurant",
+        "gyro_restaurant",
+        "seafood_restaurant",
+        "chicken_wings_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_MODERATE",
+      "rating": 4,
+      "openingHours": [
+        "Monday: 10:00 AM – 4:00 AM",
+        "Tuesday: 10:00 AM – 4:00 AM",
+        "Wednesday: 10:00 AM – 4:00 AM",
+        "Thursday: 10:00 AM – 4:00 AM",
+        "Friday: 10:00 AM – 5:00 AM",
+        "Saturday: 10:00 AM – 5:00 AM",
+        "Sunday: 10:00 AM – 4:00 AM"
+      ],
+      "sourceBuckets": [
+        "Gasworx Ybor"
+      ]
+    },
+    {
+      "id": "ChIJ8aWPnTzFwogRGefqJ6fUML0",
+      "name": "Santoro's Pizzeria",
+      "address": "1329 W Cass St, Tampa, FL 33606, USA",
+      "latitude": 27.9499803,
+      "longitude": -82.47406889999999,
+      "website": "http://santorospizzeria.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=13632629886444824345&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "pizza_restaurant",
+      "types": [
+        "pizza_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+      "rating": 4.5,
+      "openingHours": [
+        "Monday: 11:00 AM – 9:00 PM",
+        "Tuesday: 11:00 AM – 9:00 PM",
+        "Wednesday: 11:00 AM – 9:00 PM",
+        "Thursday: 11:00 AM – 9:00 PM",
+        "Friday: 11:00 AM – 10:00 PM",
+        "Saturday: 11:00 AM – 10:00 PM",
+        "Sunday: 11:00 AM – 9:00 PM"
+      ],
+      "sourceBuckets": [
+        "SoHo bars"
+      ]
+    },
+    {
+      "id": "ChIJc3x_mGbFwogRENmo9wLf2YM",
+      "name": "Sea Maids Creamery (Icecream & a Little More)",
+      "address": "4230 N Florida Ave, Tampa, FL 33603, USA",
+      "latitude": 27.984261,
+      "longitude": -82.45965,
+      "website": "https://www.ubereats.com/store/sea-maids-creamery/D2dYHmJqSYWSeC0MyXP2Jg?diningMode=DELIVERY",
+      "googleMapsUri": "https://maps.google.com/?cid=9500870092752738576&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "ice_cream_shop",
+      "types": [
+        "ice_cream_shop",
+        "coffee_shop",
+        "pastry_shop",
+        "acai_shop",
+        "brazilian_restaurant",
+        "tea_house",
+        "snack_bar",
+        "meal_takeaway",
+        "dessert_shop",
+        "cafe",
+        "dessert_restaurant",
+        "buffet_restaurant",
+        "bakery",
+        "restaurant",
+        "confectionery",
+        "food_store",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+      "rating": 4.8,
+      "openingHours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: 4:00 – 10:00 PM",
+        "Friday: 3:00 – 10:00 PM",
+        "Saturday: 2:00 – 10:00 PM",
+        "Sunday: 2:00 – 9:30 PM"
+      ],
+      "sourceBuckets": [
+        "Seminole Heights bars"
+      ]
+    },
+    {
+      "id": "ChIJCZRB-rzDwogRktE2urJ4Qfo",
+      "name": "Shake Shack Midtown Tampa",
+      "address": "1011 Gramercy Ln, Tampa, FL 33607, USA",
+      "latitude": 27.9523875,
+      "longitude": -82.503157,
+      "website": "https://www.shakeshack.com/location/midtown-tampa-fl?utm_source=google&utm_medium=listing",
+      "googleMapsUri": "https://maps.google.com/?cid=18032827091991843218&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "hamburger_restaurant",
+      "types": [
+        "hamburger_restaurant",
+        "sandwich_shop",
+        "catering_service",
+        "chicken_restaurant",
+        "food_delivery",
+        "dessert_restaurant",
+        "fast_food_restaurant",
+        "american_restaurant",
+        "meal_takeaway",
+        "service",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_MODERATE",
+      "rating": 4.2,
+      "openingHours": [
+        "Monday: 10:30 AM – 11:00 PM",
+        "Tuesday: 10:30 AM – 11:00 PM",
+        "Wednesday: 10:30 AM – 11:00 PM",
+        "Thursday: 10:30 AM – 11:00 PM",
+        "Friday: 10:30 AM – 11:30 PM",
+        "Saturday: 10:30 AM – 11:30 PM",
+        "Sunday: 10:30 AM – 11:00 PM"
+      ],
+      "sourceBuckets": [
+        "Westshore bars"
+      ]
+    },
+    {
+      "id": "ChIJ5WqV_G7EwogRKqT8w4ifFDg",
+      "name": "Shuffle",
+      "address": "2612 N Tampa St, Tampa, FL 33602, USA",
+      "latitude": 27.9675004,
+      "longitude": -82.46118829999999,
+      "website": "https://shuffletampa.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=4041030175410660394&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "bar",
+      "types": [
+        "bar",
+        "snack_bar",
+        "meal_takeaway",
+        "banquet_hall",
+        "wedding_venue",
+        "concert_hall",
+        "live_music_venue",
+        "auditorium",
+        "restaurant",
+        "food",
+        "event_venue",
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_MODERATE",
+      "rating": 4.7,
+      "openingHours": [
+        "Monday: Closed",
+        "Tuesday: 5:00 PM – 12:00 AM",
+        "Wednesday: 5:00 PM – 12:00 AM",
+        "Thursday: 5:00 PM – 12:00 AM",
+        "Friday: 5:00 PM – 12:00 AM",
+        "Saturday: 12:00 PM – 12:00 AM",
+        "Sunday: 12:00 – 9:00 PM"
+      ],
+      "sourceBuckets": [
+        "Armature Works Tampa Heights"
+      ]
+    },
+    {
+      "id": "ChIJVwcx-_DGwogRHxZd_FIpCmw",
+      "name": "Southern Brewing & Winery",
+      "address": "4500 N Nebraska Ave, Tampa, FL 33603, USA",
+      "latitude": 27.986203699999997,
+      "longitude": -82.4514442,
+      "website": "http://www.southernbrewingwinemaking.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=7785080342261339679&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "brewery",
+      "types": [
+        "brewery",
+        "winery",
+        "manufacturer",
+        "food",
+        "farm",
+        "service",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": null,
+      "rating": 4.7,
+      "openingHours": [
+        "Monday: Closed",
+        "Tuesday: 2:00 – 10:00 PM",
+        "Wednesday: 2:00 – 10:00 PM",
+        "Thursday: 2:00 – 10:00 PM",
+        "Friday: 12:00 – 11:00 PM",
+        "Saturday: 12:00 – 11:00 PM",
+        "Sunday: 12:00 – 10:00 PM"
+      ],
+      "sourceBuckets": [
+        "Seminole Heights bars"
+      ]
+    },
+    {
+      "id": "ChIJaYVkGhzEwogRpmWVf8uJnoY",
+      "name": "Spaddy's Coffee Co.",
+      "address": "5206 N Florida Ave, Tampa, FL 33603, USA",
+      "latitude": 27.9942039,
+      "longitude": -82.4596993,
+      "website": "http://www.spaddyscoffee.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=9700342154514490790&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "coffee_shop",
+      "types": [
+        "coffee_shop",
+        "vegan_restaurant",
+        "vegetarian_restaurant",
+        "cafe",
+        "restaurant",
+        "food_store",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+      "rating": 4.8,
+      "openingHours": [
+        "Monday: 7:00 AM – 2:00 PM",
+        "Tuesday: 7:00 AM – 2:00 PM",
+        "Wednesday: 7:00 AM – 2:00 PM",
+        "Thursday: 7:00 AM – 2:00 PM",
+        "Friday: 7:00 AM – 2:00 PM",
+        "Saturday: 7:00 AM – 2:00 PM",
+        "Sunday: 7:00 AM – 2:00 PM"
+      ],
+      "sourceBuckets": [
+        "Seminole Heights bars"
+      ]
+    },
+    {
+      "id": "ChIJaT3tefHEwogR97OqtTDBBjk",
+      "name": "Splitsville Tiki + Social",
+      "address": "615 Channelside Dr Suite 120, Tampa, FL 33602, USA",
+      "latitude": 27.943083899999998,
+      "longitude": -82.4467801,
+      "website": "http://www.splitsvillelanes.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=4109184124972610551&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "bowling_alley",
+      "types": [
+        "bowling_alley",
+        "sports_complex",
+        "sports_activity_location",
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_MODERATE",
+      "rating": 4.2,
+      "openingHours": [
+        "Monday: 4:00 – 10:00 PM",
+        "Tuesday: 4:00 – 10:00 PM",
+        "Wednesday: 4:00 – 10:00 PM",
+        "Thursday: 4:00 – 10:00 PM",
+        "Friday: 11:00 AM – 11:30 PM",
+        "Saturday: 11:00 AM – 11:30 PM",
+        "Sunday: 11:00 AM – 10:00 PM"
+      ],
+      "sourceBuckets": [
+        "Channelside bars"
+      ]
+    },
+    {
+      "id": "ChIJ7QVjUK_FwogRaTLY8uxOico",
+      "name": "SpookEasy Lounge",
+      "address": "1909 N 15th St, Tampa, FL 33605, USA",
+      "latitude": 27.961415700000003,
+      "longitude": -82.44272680000002,
+      "website": "http://spookeasylounge.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=2383020484045406313",
+      "googleMapsUri": "https://maps.google.com/?cid=14594282847064306281&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "restaurant",
+      "types": [
+        "restaurant",
+        "lounge_bar",
+        "tourist_attraction",
+        "night_club",
+        "bar",
+        "coffee_shop",
+        "cafe",
+        "food_store",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_MODERATE",
+      "rating": 4.7,
+      "openingHours": [
+        "Monday: 3:00 PM – 1:00 AM",
+        "Tuesday: 3:00 PM – 1:00 AM",
+        "Wednesday: 3:00 PM – 1:00 AM",
+        "Thursday: 3:00 PM – 1:00 AM",
+        "Friday: 3:00 PM – 3:00 AM",
+        "Saturday: 11:00 AM – 3:00 AM",
+        "Sunday: 11:00 AM – 1:00 AM"
+      ],
+      "sourceBuckets": [
+        "Ybor nightlife",
+        "Gasworx Ybor"
+      ]
+    },
+    {
+      "id": "ChIJl_430WTEwogRVZnjsx40LvI",
+      "name": "Steelbach",
+      "address": "1902 N Ola Ave, Tampa, FL 33602, USA",
+      "latitude": 27.9609067,
+      "longitude": -82.46373129999999,
+      "website": "https://www.steelbach.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=17450942912578951509&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "american_restaurant",
+      "types": [
+        "american_restaurant",
+        "steak_house",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": null,
+      "rating": 4.3,
+      "openingHours": [
+        "Monday: 11:00 AM – 11:00 PM",
+        "Tuesday: 11:00 AM – 11:00 PM",
+        "Wednesday: 11:00 AM – 11:00 PM",
+        "Thursday: 11:00 AM – 11:00 PM",
+        "Friday: 11:00 AM – 12:00 AM",
+        "Saturday: 9:30 AM – 12:00 AM",
+        "Sunday: 9:30 AM – 10:00 PM"
+      ],
+      "sourceBuckets": [
+        "Armature Works Tampa Heights"
+      ]
+    },
+    {
+      "id": "ChIJy6-xc6bFwogRdzcgoJwCjBM",
+      "name": "Stones Throw",
+      "address": "304 W 7th Ave, Tampa, FL 33602, USA",
+      "latitude": 27.960180200000003,
+      "longitude": -82.46367950000001,
+      "website": "https://www.stonesthrowtampa.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=1408503655184742263&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "american_restaurant",
+      "types": [
+        "american_restaurant",
+        "seafood_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": null,
+      "rating": 4,
+      "openingHours": [
+        "Monday: 11:00 AM – 11:00 PM",
+        "Tuesday: 11:00 AM – 11:00 PM",
+        "Wednesday: 11:00 AM – 11:00 PM",
+        "Thursday: 11:00 AM – 11:00 PM",
+        "Friday: 11:00 AM – 1:00 AM",
+        "Saturday: 11:00 AM – 1:00 AM",
+        "Sunday: 11:00 AM – 10:00 PM"
+      ],
+      "sourceBuckets": [
+        "Armature Works Tampa Heights"
+      ]
+    },
+    {
+      "id": "ChIJUVX3MWXEwogRMmHunvjE6xY",
+      "name": "Strandhill Public (Tampa Heights)",
+      "address": "309 W Palm Ave, Tampa, FL 33602, USA",
+      "latitude": 27.9624253,
+      "longitude": -82.4643986,
+      "website": "http://www.strandhillpublic.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=1651630260458774834&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "irish_pub",
+      "types": [
+        "irish_pub",
+        "sports_bar",
+        "irish_restaurant",
+        "brunch_restaurant",
+        "pub",
+        "cocktail_bar",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": null,
+      "rating": 4.5,
+      "openingHours": [
+        "Monday: 11:00 AM – 1:00 AM",
+        "Tuesday: 11:00 AM – 1:00 AM",
+        "Wednesday: 11:00 AM – 1:00 AM",
+        "Thursday: 11:00 AM – 1:00 AM",
+        "Friday: 11:00 AM – 3:00 AM",
+        "Saturday: 11:00 AM – 3:00 AM",
+        "Sunday: 11:00 AM – 1:00 AM"
+      ],
+      "sourceBuckets": [
+        "Armature Works Tampa Heights"
+      ]
+    },
+    {
+      "id": "ChIJ4VV6ppbDwogRbOl5NqhG6kA",
+      "name": "Sunda New Asian",
+      "address": "3648 Midtown Dr, Tampa, FL 33607, USA",
+      "latitude": 27.9528882,
+      "longitude": -82.5025258,
+      "website": "https://sundanewasian.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=4677628851260090732&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "asian_fusion_restaurant",
+      "types": [
+        "asian_fusion_restaurant",
+        "fusion_restaurant",
+        "asian_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE",
+      "rating": 4.7,
+      "openingHours": [
+        "Monday: 5:00 – 10:00 PM",
+        "Tuesday: 5:00 – 10:00 PM",
+        "Wednesday: 5:00 – 10:00 PM",
+        "Thursday: 5:00 – 10:00 PM",
+        "Friday: 5:00 – 11:00 PM",
+        "Saturday: 10:00 AM – 2:00 PM, 5:00 – 11:00 PM",
+        "Sunday: 10:00 AM – 2:00 PM, 5:00 – 10:00 PM"
+      ],
+      "sourceBuckets": [
+        "Westshore bars"
+      ]
+    },
+    {
+      "id": "ChIJj3fYLhbFwogRkNwI2R5JA3k",
+      "name": "sweetgreen - Healthy Salads, Bowls and Plates",
+      "address": "722 S Village Cir, Tampa, FL 33606, USA",
+      "latitude": 27.9358835,
+      "longitude": -82.47515349999999,
+      "website": "https://www.sweetgreen.com/locations/hyde-park-village",
+      "googleMapsUri": "https://maps.google.com/?cid=8719893700358495376&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "salad_shop",
+      "types": [
+        "salad_shop",
+        "vegetarian_restaurant",
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "service",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_MODERATE",
+      "rating": 3.3,
+      "openingHours": [
+        "Monday: 10:30 AM – 9:00 PM",
+        "Tuesday: 10:30 AM – 9:00 PM",
+        "Wednesday: 10:30 AM – 9:00 PM",
+        "Thursday: 10:30 AM – 9:00 PM",
+        "Friday: 10:30 AM – 9:00 PM",
+        "Saturday: 10:30 AM – 9:00 PM",
+        "Sunday: 10:30 AM – 9:00 PM"
+      ],
+      "sourceBuckets": [
+        "Hyde Park bars"
+      ]
+    },
+    {
+      "id": "ChIJ1c5QaHzFwogR0-lm7ZpZMRk",
+      "name": "sweetgreen - Healthy Salads, Bowls and Plates",
+      "address": "301 W Palm Ave, Tampa, FL 33602, USA",
+      "latitude": 27.9624286,
+      "longitude": -82.46380429999999,
+      "website": "https://www.sweetgreen.com/locations/tampa-heights",
+      "googleMapsUri": "https://maps.google.com/?cid=1815330646749800915&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "salad_shop",
+      "types": [
+        "salad_shop",
+        "vegetarian_restaurant",
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_MODERATE",
+      "rating": 4.1,
+      "openingHours": [
+        "Monday: 10:00 AM – 9:00 PM",
+        "Tuesday: 10:00 AM – 9:00 PM",
+        "Wednesday: 10:00 AM – 9:00 PM",
+        "Thursday: 10:00 AM – 9:00 PM",
+        "Friday: 10:00 AM – 9:00 PM",
+        "Saturday: 10:00 AM – 9:00 PM",
+        "Sunday: 10:00 AM – 9:00 PM"
+      ],
+      "sourceBuckets": [
+        "Armature Works Tampa Heights"
+      ]
+    },
+    {
+      "id": "ChIJgVXfQFDEwogRW-6mIk_NnEo",
+      "name": "Tampa Bay Brewing Company",
+      "address": "1600 E 8th Ave, Tampa, FL 33605, USA",
+      "latitude": 27.9613765,
+      "longitude": -82.4416305,
+      "website": "https://www.tbbc.beer/",
+      "googleMapsUri": "https://maps.google.com/?cid=5376397794941005403&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "brewery",
+      "types": [
+        "brewery",
+        "brewpub",
+        "pub",
+        "bar",
+        "restaurant",
+        "manufacturer",
+        "food",
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_MODERATE",
+      "rating": 4.4,
+      "openingHours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: 11:00 AM – 10:00 PM",
+        "Thursday: 11:00 AM – 10:00 PM",
+        "Friday: 11:00 AM – 11:00 PM",
+        "Saturday: 11:00 AM – 11:00 PM",
+        "Sunday: 11:00 AM – 10:00 PM"
+      ],
+      "sourceBuckets": [
+        "Ybor nightlife",
+        "Gasworx Ybor"
+      ]
+    },
+    {
+      "id": "ChIJHdigC67DwogRkWjPRn8SUbQ",
+      "name": "Texas de Brazil - Tampa",
+      "address": "4112 W Boy Scout Blvd, Tampa, FL 33607, USA",
+      "latitude": 27.965185400000003,
+      "longitude": -82.5128981,
+      "website": "https://texasdebrazil.com/locations/tampa/?utm_source=gmb&utm_medium=yext&y_source=1_NDg4MzA3NDUtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+      "googleMapsUri": "https://maps.google.com/?cid=12993186737798736017&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "steak_house",
+      "types": [
+        "steak_house",
+        "brazilian_restaurant",
+        "south_american_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_EXPENSIVE",
+      "rating": 4.4,
+      "openingHours": [
+        "Monday: 11:00 AM – 2:00 PM, 5:00 – 9:30 PM",
+        "Tuesday: 11:00 AM – 2:00 PM, 5:00 – 9:30 PM",
+        "Wednesday: 11:00 AM – 2:00 PM, 5:00 – 9:30 PM",
+        "Thursday: 11:00 AM – 2:00 PM, 5:00 – 9:30 PM",
+        "Friday: 11:00 AM – 2:00 PM, 5:00 – 10:00 PM",
+        "Saturday: 12:00 – 10:00 PM",
+        "Sunday: 11:00 AM – 9:00 PM"
+      ],
+      "sourceBuckets": [
+        "Westshore bars"
+      ]
+    },
+    {
+      "id": "ChIJw3ZLa1DEwogR3B-B1fQW7UM",
+      "name": "The Castle",
+      "address": "2004 N 16th St, Tampa, FL 33605, USA",
+      "latitude": 27.961914200000002,
+      "longitude": -82.44192319999999,
+      "website": "http://castleybor.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=4894593610831437788&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "night_club",
+      "types": [
+        "night_club",
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_MODERATE",
+      "rating": 4.2,
+      "openingHours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: Closed",
+        "Friday: 10:30 PM – 3:00 AM",
+        "Saturday: 10:30 PM – 3:00 AM",
+        "Sunday: Closed"
+      ],
+      "sourceBuckets": [
+        "Ybor nightlife",
+        "Gasworx Ybor",
+        "Tampa sports bars"
+      ]
+    },
+    {
+      "id": "ChIJraVcblPCwogRguC8g6FyGBQ",
+      "name": "The Cheesecake Factory",
+      "address": "2223 N Westshore Blvd Suite B201, Tampa, FL 33607, USA",
+      "latitude": 27.9663166,
+      "longitude": -82.5211276,
+      "website": "https://locations.thecheesecakefactory.com/fl/tampa-50.html?utm_source=Google&utm_medium=Maps&utm_campaign=Google+Places",
+      "googleMapsUri": "https://maps.google.com/?cid=1448033318225109122&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "restaurant",
+      "types": [
+        "restaurant",
+        "family_restaurant",
+        "dessert_restaurant",
+        "dessert_shop",
+        "confectionery",
+        "american_restaurant",
+        "meal_takeaway",
+        "bakery",
+        "food_store",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_MODERATE",
+      "rating": 4.3,
+      "openingHours": [
+        "Monday: 11:00 AM – 10:00 PM",
+        "Tuesday: 11:00 AM – 10:00 PM",
+        "Wednesday: 11:00 AM – 10:00 PM",
+        "Thursday: 11:00 AM – 10:00 PM",
+        "Friday: 11:00 AM – 11:00 PM",
+        "Saturday: 11:00 AM – 11:00 PM",
+        "Sunday: 10:00 AM – 10:00 PM"
+      ],
+      "sourceBuckets": [
+        "Westshore bars"
+      ]
+    },
+    {
+      "id": "ChIJNUw4wVrEwogREmFpX2Wfvw0",
+      "name": "The Cuban Club",
+      "address": "2010 N Avenida Republica de Cuba, Tampa, FL 33605, USA",
+      "latitude": 27.962151499999997,
+      "longitude": -82.4446267,
+      "website": "http://cubanclubybor.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=990685700786053394&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "association_or_organization",
+      "types": [
+        "night_club",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": null,
+      "rating": 4.6,
+      "openingHours": null,
+      "sourceBuckets": [
+        "Gasworx Ybor"
+      ]
+    },
+    {
+      "id": "ChIJS4AtxNfFwogReG60gXMaVEo",
+      "name": "The Pearl Tampa",
+      "address": "823 Water St C100, Tampa, FL 33602, USA",
+      "latitude": 27.9433114,
+      "longitude": -82.4500879,
+      "website": "https://thepearlrestaurant.com/locations-menus/tampa/",
+      "googleMapsUri": "https://maps.google.com/?cid=5355934940250009208&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "restaurant",
+      "types": [
+        "restaurant",
+        "seafood_restaurant",
+        "bar",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_MODERATE",
+      "rating": 4.5,
+      "openingHours": [
+        "Monday: 11:30 AM – 10:00 PM",
+        "Tuesday: 11:30 AM – 10:00 PM",
+        "Wednesday: 11:30 AM – 10:00 PM",
+        "Thursday: 11:30 AM – 10:00 PM",
+        "Friday: 11:30 AM – 11:00 PM",
+        "Saturday: 10:00 AM – 11:00 PM",
+        "Sunday: 10:00 AM – 9:00 PM"
+      ],
+      "sourceBuckets": [
+        "Downtown Tampa bars",
+        "Channelside bars",
+        "Tampa sports bars"
+      ]
+    },
+    {
+      "id": "ChIJ336If1rEwogRx-8ntTOjVvk",
+      "name": "The Ritz Ybor",
+      "address": "1503 E 7th Ave, Tampa, FL 33605, USA",
+      "latitude": 27.960119,
+      "longitude": -82.442763,
+      "website": "http://www.theritzybor.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=17966727205919125447&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "live_music_venue",
+      "types": [
+        "live_music_venue",
+        "night_club",
+        "event_venue",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": null,
+      "rating": 4.3,
+      "openingHours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: Closed",
+        "Friday: 10:00 PM – 2:30 AM",
+        "Saturday: 10:00 PM – 2:30 AM",
+        "Sunday: Closed"
+      ],
+      "sourceBuckets": [
+        "Ybor nightlife",
+        "Gasworx Ybor"
+      ]
+    },
+    {
+      "id": "ChIJeR4M8tDFwogRRQazQbtCNv8",
+      "name": "Thee Burger Spot",
+      "address": "3917 N Tampa St, Tampa, FL 33603, USA",
+      "latitude": 27.981262599999997,
+      "longitude": -82.4607985,
+      "website": "http://theeburgerspot.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=18389959500442568261&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "hamburger_restaurant",
+      "types": [
+        "hamburger_restaurant",
+        "fast_food_restaurant",
+        "american_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+      "rating": 4.7,
+      "openingHours": [
+        "Monday: 10:00 AM – 10:00 PM",
+        "Tuesday: 10:00 AM – 10:00 PM",
+        "Wednesday: 10:00 AM – 10:00 PM",
+        "Thursday: 10:00 AM – 10:00 PM",
+        "Friday: 10:00 AM – 10:00 PM",
+        "Saturday: 10:00 AM – 10:00 PM",
+        "Sunday: 10:00 AM – 4:00 PM"
+      ],
+      "sourceBuckets": [
+        "Seminole Heights bars"
+      ]
+    },
+    {
+      "id": "ChIJ8ZT3Sn3DwogRVlNMQgAW9Gg",
+      "name": "Tijuana Flats",
+      "address": "1617 W Platt St, Tampa, FL 33606, USA",
+      "latitude": 27.9419711,
+      "longitude": -82.4765978,
+      "website": "https://order.tijuanaflats.com/menu/tijuana-flats-platt-st",
+      "googleMapsUri": "https://maps.google.com/?cid=7562693864630014806&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "tex_mex_restaurant",
+      "types": [
+        "tex_mex_restaurant",
+        "burrito_restaurant",
+        "taco_restaurant",
+        "mexican_restaurant",
+        "american_restaurant",
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+      "rating": 4.3,
+      "openingHours": [
+        "Monday: 10:30 AM – 10:00 PM",
+        "Tuesday: 10:30 AM – 10:00 PM",
+        "Wednesday: 10:30 AM – 10:00 PM",
+        "Thursday: 10:30 AM – 10:00 PM",
+        "Friday: 10:30 AM – 10:00 PM",
+        "Saturday: 10:30 AM – 10:00 PM",
+        "Sunday: 10:30 AM – 9:00 PM"
+      ],
+      "sourceBuckets": [
+        "Hyde Park bars"
+      ]
+    },
+    {
+      "id": "ChIJBcNdEmLDwogRKDWYDW3lUAI",
+      "name": "Timpano Hyde Park",
+      "address": "1610 W Swann Ave, Tampa, FL 33606, USA",
+      "latitude": 27.9371498,
+      "longitude": -82.47604,
+      "website": "http://timpanohydepark.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=166885442754983208&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "restaurant",
+      "types": [
+        "restaurant",
+        "steak_house",
+        "italian_restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_EXPENSIVE",
+      "rating": 4.1,
+      "openingHours": [
+        "Monday: 11:00 AM – 10:00 PM",
+        "Tuesday: 11:00 AM – 10:00 PM",
+        "Wednesday: 11:00 AM – 10:00 PM",
+        "Thursday: 11:00 AM – 11:00 PM",
+        "Friday: 11:00 AM – 11:00 PM",
+        "Saturday: 10:00 AM – 11:00 PM",
+        "Sunday: 10:00 AM – 10:00 PM"
+      ],
+      "sourceBuckets": [
+        "SoHo bars",
+        "Hyde Park bars"
+      ]
+    },
+    {
+      "id": "ChIJO-P-5mbDwogRirv3GdCNGJQ",
+      "name": "Tiny Tap Tavern",
+      "address": "2105 W Morrison Ave, Tampa, FL 33606, USA",
+      "latitude": 27.933908,
+      "longitude": -82.48222919999999,
+      "website": null,
+      "googleMapsUri": "https://maps.google.com/?cid=10671435241982770058&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "bar",
+      "types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+      "rating": 4.3,
+      "openingHours": [
+        "Monday: 11:00 AM – 3:00 AM",
+        "Tuesday: 11:00 AM – 3:00 AM",
+        "Wednesday: 11:00 AM – 3:00 AM",
+        "Thursday: 11:00 AM – 3:00 AM",
+        "Friday: 11:00 AM – 3:00 AM",
+        "Saturday: 11:00 AM – 3:00 AM",
+        "Sunday: 11:00 AM – 3:00 AM"
+      ],
+      "sourceBuckets": [
+        "Hyde Park bars"
+      ]
+    },
+    {
+      "id": "ChIJL9xPE9zFwogRgTF4FiaUM80",
+      "name": "Top Shelf Sports Lounge",
+      "address": "401 E Jackson St #101, Tampa, FL 33602, USA",
+      "latitude": 27.9471554,
+      "longitude": -82.4561358,
+      "website": "https://topshelfsportslounge.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=14786324892894114177&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "restaurant",
+      "types": [
+        "restaurant",
+        "sports_bar",
+        "brunch_restaurant",
+        "catering_service",
+        "food_delivery",
+        "bar",
+        "service",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_MODERATE",
+      "rating": 4.6,
+      "openingHours": [
+        "Monday: 11:00 AM – 11:00 PM",
+        "Tuesday: 11:00 AM – 11:00 PM",
+        "Wednesday: 11:00 AM – 11:00 PM",
+        "Thursday: 11:00 AM – 12:00 AM",
+        "Friday: 11:00 AM – 12:00 AM",
+        "Saturday: 11:00 AM – 12:00 AM",
+        "Sunday: 11:00 AM – 11:00 PM"
+      ],
+      "sourceBuckets": [
+        "Channelside bars"
+      ]
+    },
+    {
+      "id": "ChIJ0ZWO3ITFwogRgsOtiYnV1bI",
+      "name": "Tori Bar",
+      "address": "442 W Grand Central Ave #190, Tampa, FL 33606, USA",
+      "latitude": 27.944767,
+      "longitude": -82.465638,
+      "website": "http://www.toribartampa.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=12886440695487644546&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "japanese_restaurant",
+      "types": [
+        "japanese_restaurant",
+        "sushi_restaurant",
+        "tapas_restaurant",
+        "lounge_bar",
+        "cocktail_bar",
+        "night_club",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": null,
+      "rating": 4.5,
+      "openingHours": [
+        "Monday: 4:00 PM – 12:00 AM",
+        "Tuesday: 4:00 PM – 12:00 AM",
+        "Wednesday: 4:00 PM – 12:00 AM",
+        "Thursday: 4:00 PM – 12:00 AM",
+        "Friday: 4:00 PM – 1:00 AM",
+        "Saturday: 4:00 PM – 1:00 AM",
+        "Sunday: Closed"
+      ],
+      "sourceBuckets": [
+        "Downtown Tampa bars",
+        "Tampa sports bars"
+      ]
+    },
+    {
+      "id": "ChIJ3Vyq7WTEwogRA-WDC7Mze2E",
+      "name": "Ulele",
+      "address": "1810 N Highland Ave, Tampa, FL 33602, USA",
+      "latitude": 27.9599384,
+      "longitude": -82.4628003,
+      "website": "https://ulele.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=7024264887899776259&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "american_restaurant",
+      "types": [
+        "american_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_EXPENSIVE",
+      "rating": 4.6,
+      "openingHours": [
+        "Monday: 11:00 AM – 10:00 PM",
+        "Tuesday: 11:00 AM – 10:00 PM",
+        "Wednesday: 11:00 AM – 10:00 PM",
+        "Thursday: 11:00 AM – 10:00 PM",
+        "Friday: 11:00 AM – 11:00 PM",
+        "Saturday: 11:00 AM – 11:00 PM",
+        "Sunday: 11:00 AM – 10:00 PM"
+      ],
+      "sourceBuckets": [
+        "Downtown Tampa bars",
+        "Armature Works Tampa Heights"
+      ]
+    },
+    {
+      "id": "ChIJx-0j9jXDwogRvosVYChAHOI",
+      "name": "Union New American",
+      "address": "1111 N Westshore Blvd, Tampa, FL 33607, USA",
+      "latitude": 27.9540284,
+      "longitude": -82.5233008,
+      "website": "https://www.uniontampa.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=16292968094074506174&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "american_restaurant",
+      "types": [
+        "american_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_EXPENSIVE",
+      "rating": 4.5,
+      "openingHours": [
+        "Monday: 11:30 AM – 10:00 PM",
+        "Tuesday: 11:30 AM – 10:00 PM",
+        "Wednesday: 11:30 AM – 10:00 PM",
+        "Thursday: 11:30 AM – 10:00 PM",
+        "Friday: 11:30 AM – 11:00 PM",
+        "Saturday: 10:00 AM – 11:00 PM",
+        "Sunday: 10:00 AM – 10:00 PM"
+      ],
+      "sourceBuckets": [
+        "Westshore bars"
+      ]
+    },
+    {
+      "id": "ChIJjz6qayXFwogRi9Qhk8rm18Q",
+      "name": "Velvet Gypsy",
+      "address": "5210 N Florida Ave, Tampa, FL 33603, USA",
+      "latitude": 27.9945604,
+      "longitude": -82.4597761,
+      "website": null,
+      "googleMapsUri": "https://maps.google.com/?cid=14184059309152916619&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "bar",
+      "types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": null,
+      "rating": 4.5,
+      "openingHours": [
+        "Monday: 5:00 PM – 3:00 AM",
+        "Tuesday: 5:00 PM – 3:00 AM",
+        "Wednesday: 5:00 PM – 3:00 AM",
+        "Thursday: 5:00 PM – 3:00 AM",
+        "Friday: 4:00 PM – 3:00 AM",
+        "Saturday: 4:00 PM – 3:00 AM",
+        "Sunday: 4:00 PM – 3:00 AM"
+      ],
+      "sourceBuckets": [
+        "Seminole Heights bars"
+      ]
+    },
+    {
+      "id": "ChIJ_75mBmy_wogRAV7xduz1v0M",
+      "name": "Wawa",
+      "address": "401 N Dale Mabry Hwy, Tampa, FL 33609, USA",
+      "latitude": 27.948962,
+      "longitude": -82.5049094,
+      "website": "https://www.wawa.com/locations/5122?utm_source=gmblisting&utm_medium=organic&utm_campaign=locallisting",
+      "googleMapsUri": "https://maps.google.com/?cid=4881890917049523713&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "fast_food_restaurant",
+      "types": [
+        "fast_food_restaurant",
+        "sandwich_shop",
+        "candy_store",
+        "breakfast_restaurant",
+        "convenience_store",
+        "coffee_shop",
+        "gas_station",
+        "confectionery",
+        "cafe",
+        "food_store",
+        "store",
+        "service",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+      "rating": 3.4,
+      "openingHours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ],
+      "sourceBuckets": [
+        "Westshore bars"
+      ]
+    },
+    {
+      "id": "ChIJUQvP2fjDwogRfqNKGnJTG5w",
+      "name": "Willa's",
+      "address": "1700 W Fig St, Tampa, FL 33606, USA",
+      "latitude": 27.9475354,
+      "longitude": -82.477131,
+      "website": "https://www.willastampa.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=11248676243820422014&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "restaurant",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_MODERATE",
+      "rating": 4.5,
+      "openingHours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: 9:00 AM – 9:00 PM",
+        "Thursday: 9:00 AM – 9:00 PM",
+        "Friday: 9:00 AM – 9:00 PM",
+        "Saturday: 9:00 AM – 9:00 PM",
+        "Sunday: 9:00 AM – 8:00 PM"
+      ],
+      "sourceBuckets": [
+        "SoHo bars"
+      ]
+    },
+    {
+      "id": "ChIJ95-AYwzFwogRJUMNa8f4Uug",
+      "name": "Yard House",
+      "address": "450 Channelside Dr, Tampa, FL 33602, USA",
+      "latitude": 27.943732899999997,
+      "longitude": -82.4516433,
+      "website": "https://www.yardhouse.com/locations/fl/tampa/tampa-water-street/8394?cmpid=br:yh_ag:ie_ch:loc_ca:YHGMB_sn:gmb_gt:tampa-fl-8394_pl:locurl_rd:1088",
+      "googleMapsUri": "https://maps.google.com/?cid=16740716300267766565&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "american_restaurant",
+      "types": [
+        "sports_bar",
+        "gastropub",
+        "american_restaurant",
+        "meal_takeaway",
+        "vegetarian_restaurant",
+        "bar_and_grill",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_MODERATE",
+      "rating": 4.5,
+      "openingHours": [
+        "Monday: 11:00 AM – 12:00 AM",
+        "Tuesday: 11:00 AM – 12:00 AM",
+        "Wednesday: 11:00 AM – 12:00 AM",
+        "Thursday: 11:00 AM – 12:00 AM",
+        "Friday: 11:00 AM – 1:20 AM",
+        "Saturday: 11:00 AM – 1:20 AM",
+        "Sunday: 11:00 AM – 12:00 AM"
+      ],
+      "sourceBuckets": [
+        "Downtown Tampa bars",
+        "Channelside bars",
+        "Tampa sports bars"
+      ]
+    },
+    {
+      "id": "ChIJQ27bQovEwogRaTOvsjTavhk",
+      "name": "Yeoman's Topgolf Swing Suite",
+      "address": "202 N Morgan St, Tampa, FL 33602, USA",
+      "latitude": 27.947318499999998,
+      "longitude": -82.4550874,
+      "website": "https://yeomanstopgolfswingsuite.com/",
+      "googleMapsUri": "https://maps.google.com/?cid=1855160016394204009&g_mp=Cilnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaE5lYXJieRACGAQgAA",
+      "primaryType": "british_restaurant",
+      "types": [
+        "british_restaurant",
+        "sports_bar",
+        "pub",
+        "bar_and_grill",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "priceLevel": "PRICE_LEVEL_MODERATE",
+      "rating": 4.5,
+      "openingHours": [
+        "Monday: 11:00 AM – 11:00 PM",
+        "Tuesday: 11:00 AM – 11:00 PM",
+        "Wednesday: 11:00 AM – 11:00 PM",
+        "Thursday: 11:00 AM – 11:00 PM",
+        "Friday: 11:00 AM – 1:00 AM",
+        "Saturday: 11:00 AM – 1:00 AM",
+        "Sunday: 11:00 AM – 11:00 PM"
+      ],
+      "sourceBuckets": [
+        "Downtown Tampa bars",
+        "Channelside bars",
+        "Tampa sports bars"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "generatedAt": "2026-04-20T14:55:21.027Z",
+  "sourceGeneratedAt": "2026-04-20T14:48:53.842Z",
+  "city": "Tampa",
+  "reviewCount": 10,
+  "items": [
+    {
+      "id": "macdintons-1-gainesville-daily-specials",
+      "venueId": "macdintons",
+      "venueName": "MacDinton's",
+      "neighborhood": "SoHo",
+      "status": "pending",
+      "sourceUrl": "https://macdintons.com/daily-specials/",
+      "sourceTitle": "Daily Specials - MacDinton&#039;s Irish Pub",
+      "snippet": "Gainesville Daily specials.",
+      "suggestedCategory": "Drinks",
+      "confidence": "low",
+      "matchedKeywords": [
+        "specials?"
+      ],
+      "importedAt": "2026-04-20T14:48:53.842Z"
+    },
+    {
+      "id": "macdintons-2-25-meal-deal-1-app-2-entrees-2-d",
+      "venueId": "macdintons",
+      "venueName": "MacDinton's",
+      "neighborhood": "SoHo",
+      "status": "pending",
+      "sourceUrl": "https://macdintons.com/daily-specials/",
+      "sourceTitle": "Daily Specials - MacDinton&#039;s Irish Pub",
+      "snippet": "$25 meal deal: 1 app, 2 entrees, 2 drinks",
+      "suggestedCategory": "Food",
+      "confidence": "low",
+      "matchedKeywords": [
+        "deal(?:s)?",
+        "\\$\\d+"
+      ],
+      "importedAt": "2026-04-20T14:48:53.842Z"
+    },
+    {
+      "id": "macdintons-3-customize-our-space-with-an-arra",
+      "venueId": "macdintons",
+      "venueName": "MacDinton's",
+      "neighborhood": "SoHo",
+      "status": "pending",
+      "sourceUrl": "https://macdintons.com/vip-tables-special-events/",
+      "sourceTitle": "VIP Tables & Special Events - MacDinton&#039;s Irish Pub",
+      "snippet": "Customize our space with an array of additional themed entertainment, live music, and personalized decor to commemorate any special occasion.",
+      "suggestedCategory": "Live music",
+      "confidence": "low",
+      "matchedKeywords": [
+        "specials?",
+        "live music"
+      ],
+      "importedAt": "2026-04-20T14:48:53.842Z"
+    },
+    {
+      "id": "macdintons-4-entertainment-live-music-and-per",
+      "venueId": "macdintons",
+      "venueName": "MacDinton's",
+      "neighborhood": "SoHo",
+      "status": "pending",
+      "sourceUrl": "https://macdintons.com/vip-tables-special-events/",
+      "sourceTitle": "VIP Tables & Special Events - MacDinton&#039;s Irish Pub",
+      "snippet": "entertainment, live music, and personalized decor to commemorate any special occasion.",
+      "suggestedCategory": "Live music",
+      "confidence": "low",
+      "matchedKeywords": [
+        "specials?",
+        "live music"
+      ],
+      "importedAt": "2026-04-20T14:48:53.842Z"
+    },
+    {
+      "id": "district-tavern-1-brunch-sat-sun-11-00am-2-00pm",
+      "venueId": "district-tavern",
+      "venueName": "District Tavern",
+      "neighborhood": "Channelside",
+      "status": "pending",
+      "sourceUrl": "https://www.districttaverntampa.com/",
+      "sourceTitle": "District Tavern | Restaurant | Bar | Channel District | Tampa, FL",
+      "snippet": "Brunch Sat & Sun 11:00AM-2:00PM",
+      "suggestedCategory": "Food",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "brunch"
+      ],
+      "importedAt": "2026-04-20T14:48:53.842Z"
+    },
+    {
+      "id": "district-tavern-2-brunch-sat-sun-11-00am-2-00pm",
+      "venueId": "district-tavern",
+      "venueName": "District Tavern",
+      "neighborhood": "Channelside",
+      "status": "pending",
+      "sourceUrl": "https://www.districttaverntampa.com/menu",
+      "sourceTitle": "District Tavern | Menu | Lunch | Brunch | Dinner | Cocktails | Tampa, FL",
+      "snippet": "Brunch Sat & Sun 11:00AM-2:00PM",
+      "suggestedCategory": "Food",
+      "confidence": "medium",
+      "matchedKeywords": [
+        "brunch"
+      ],
+      "importedAt": "2026-04-20T14:48:53.842Z"
+    },
+    {
+      "id": "district-tavern-3-trivia-night-starting-at-7pm",
+      "venueId": "district-tavern",
+      "venueName": "District Tavern",
+      "neighborhood": "Channelside",
+      "status": "pending",
+      "sourceUrl": "https://www.districttaverntampa.com/",
+      "sourceTitle": "District Tavern | Restaurant | Bar | Channel District | Tampa, FL",
+      "snippet": "TRIVIA NIGHT, STARTING AT 7PM",
+      "suggestedCategory": "Game night",
+      "confidence": "low",
+      "matchedKeywords": [
+        "trivia"
+      ],
+      "importedAt": "2026-04-20T14:48:53.842Z"
+    },
+    {
+      "id": "district-tavern-4-brunch-served-11-00am-2-00pm",
+      "venueId": "district-tavern",
+      "venueName": "District Tavern",
+      "neighborhood": "Channelside",
+      "status": "pending",
+      "sourceUrl": "https://www.districttaverntampa.com/",
+      "sourceTitle": "District Tavern | Restaurant | Bar | Channel District | Tampa, FL",
+      "snippet": "BRUNCH SERVED 11:00AM - 2:00PM",
+      "suggestedCategory": "Food",
+      "confidence": "low",
+      "matchedKeywords": [
+        "brunch"
+      ],
+      "importedAt": "2026-04-20T14:48:53.842Z"
+    },
+    {
+      "id": "district-tavern-5-open-sun-thur-11-00am-2-00am-fri",
+      "venueId": "district-tavern",
+      "venueName": "District Tavern",
+      "neighborhood": "Channelside",
+      "status": "pending",
+      "sourceUrl": "https://www.districttaverntampa.com/",
+      "sourceTitle": "District Tavern | Restaurant | Bar | Channel District | Tampa, FL",
+      "snippet": "Open Sun-Thur 11:00AM-2:00AM, Fri & Sat 3:00AM",
+      "suggestedCategory": "Drinks",
+      "confidence": "low",
+      "matchedKeywords": [],
+      "importedAt": "2026-04-20T14:48:53.842Z"
+    },
+    {
+      "id": "district-tavern-6-open-sun-thur-11-00am-2-00am-fri",
+      "venueId": "district-tavern",
+      "venueName": "District Tavern",
+      "neighborhood": "Channelside",
+      "status": "pending",
+      "sourceUrl": "https://www.districttaverntampa.com/menu",
+      "sourceTitle": "District Tavern | Menu | Lunch | Brunch | Dinner | Cocktails | Tampa, FL",
+      "snippet": "Open Sun-Thur 11:00AM-2:00AM, Fri & Sat 3:00AM",
+      "suggestedCategory": "Drinks",
+      "confidence": "low",
+      "matchedKeywords": [],
+      "importedAt": "2026-04-20T14:48:53.842Z"
+    }
+  ]
+}

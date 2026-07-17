@@ -1,0 +1,57 @@
+[
+  {
+    "id": "macdintons",
+    "name": "MacDinton's",
+    "neighborhood": "SoHo",
+    "city": "Tampa",
+    "website": "https://macdintons.com/",
+    "instagramHandle": "@macdintonstampa",
+    "crawlTargets": [
+      "https://macdintons.com/"
+    ]
+  },
+  {
+    "id": "green-lemon",
+    "name": "Green Lemon",
+    "neighborhood": "SoHo",
+    "city": "Tampa",
+    "website": "https://greenlemon.com/",
+    "instagramHandle": "@greenlemontpa",
+    "crawlTargets": [
+      "https://greenlemon.com/"
+    ]
+  },
+  {
+    "id": "malios",
+    "name": "Malio's",
+    "neighborhood": "Downtown Tampa",
+    "city": "Tampa",
+    "website": "https://maliosprime.com/",
+    "instagramHandle": "@maliosprime",
+    "crawlTargets": [
+      "https://maliosprime.com/"
+    ]
+  },
+  {
+    "id": "yard-house",
+    "name": "Yard House",
+    "neighborhood": "Downtown Tampa",
+    "city": "Tampa",
+    "website": "https://www.yardhouse.com/",
+    "instagramHandle": "@yardhouse",
+    "crawlTargets": [
+      "https://www.yardhouse.com/locations/fl/tampa/tampa/8364"
+    ]
+  },
+  {
+    "id": "district-tavern",
+    "name": "District Tavern",
+    "neighborhood": "Channelside",
+    "city": "Tampa",
+    "website": "https://www.districttaverntampa.com/",
+    "instagramHandle": "@districttavern",
+    "crawlTargets": [
+      "https://www.districttaverntampa.com/"
+    ]
+  }
+]

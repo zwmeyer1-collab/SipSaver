@@ -1,0 +1,308 @@
+{
+  "generatedAt": "2026-04-20T14:48:53.842Z",
+  "city": "Tampa",
+  "venueCount": 5,
+  "results": [
+    {
+      "id": "macdintons",
+      "name": "MacDinton's",
+      "neighborhood": "SoHo",
+      "website": "https://macdintons.com/",
+      "instagramHandle": "@macdintonstampa",
+      "pages": [
+        {
+          "url": "https://macdintons.com/",
+          "status": 200,
+          "title": "Home - MacDinton&#039;s Irish Pub",
+          "metaDescription": "MacDinton’s SoHo is the area’s most popular Irish bars for happy hour, drink specials, live entertainment, sporting events, and amazing nights out.",
+          "relevantSnippets": []
+        },
+        {
+          "url": "https://macdintons.com/menu/",
+          "status": 200,
+          "title": "Menu - MacDinton&#039;s Irish Pub",
+          "metaDescription": "",
+          "relevantSnippets": []
+        },
+        {
+          "url": "https://macdintons.com/daily-specials/",
+          "status": 200,
+          "title": "Daily Specials - MacDinton&#039;s Irish Pub",
+          "metaDescription": "$3 domestic drafts $4 double wells (2oz pour) $4 all seltzers $5 EZ rumpy, jager &amp; fireball (1oz)",
+          "relevantSnippets": [
+            {
+              "snippet": "Gainesville Daily specials.",
+              "score": 4,
+              "matchedKeywords": [
+                "specials?"
+              ]
+            },
+            {
+              "snippet": "$25 meal deal: 1 app, 2 entrees, 2 drinks",
+              "score": 4,
+              "matchedKeywords": [
+                "deal(?:s)?",
+                "\\$\\d+"
+              ]
+            }
+          ]
+        },
+        {
+          "url": "https://macdintons.com/vip-tables-special-events/",
+          "status": 200,
+          "title": "VIP Tables & Special Events - MacDinton&#039;s Irish Pub",
+          "metaDescription": "Between our indoor and outdoor spaces, MacDinton’s is an accommodating event space for any special occasion.",
+          "relevantSnippets": [
+            {
+              "snippet": "Customize our space with an array of additional themed entertainment, live music, and personalized decor to commemorate any special occasion.",
+              "score": 4,
+              "matchedKeywords": [
+                "specials?",
+                "live music"
+              ]
+            },
+            {
+              "snippet": "entertainment, live music, and personalized decor to commemorate any special occasion.",
+              "score": 4,
+              "matchedKeywords": [
+                "specials?",
+                "live music"
+              ]
+            }
+          ]
+        }
+      ],
+      "extractedCandidates": [
+        {
+          "sourceUrl": "https://macdintons.com/daily-specials/",
+          "title": "Daily Specials - MacDinton&#039;s Irish Pub",
+          "snippet": "Gainesville Daily specials.",
+          "score": 4,
+          "matchedKeywords": [
+            "specials?"
+          ]
+        },
+        {
+          "sourceUrl": "https://macdintons.com/daily-specials/",
+          "title": "Daily Specials - MacDinton&#039;s Irish Pub",
+          "snippet": "$25 meal deal: 1 app, 2 entrees, 2 drinks",
+          "score": 4,
+          "matchedKeywords": [
+            "deal(?:s)?",
+            "\\$\\d+"
+          ]
+        },
+        {
+          "sourceUrl": "https://macdintons.com/vip-tables-special-events/",
+          "title": "VIP Tables & Special Events - MacDinton&#039;s Irish Pub",
+          "snippet": "Customize our space with an array of additional themed entertainment, live music, and personalized decor to commemorate any special occasion.",
+          "score": 4,
+          "matchedKeywords": [
+            "specials?",
+            "live music"
+          ]
+        },
+        {
+          "sourceUrl": "https://macdintons.com/vip-tables-special-events/",
+          "title": "VIP Tables & Special Events - MacDinton&#039;s Irish Pub",
+          "snippet": "entertainment, live music, and personalized decor to commemorate any special occasion.",
+          "score": 4,
+          "matchedKeywords": [
+            "specials?",
+            "live music"
+          ]
+        }
+      ],
+      "errors": []
+    },
+    {
+      "id": "green-lemon",
+      "name": "Green Lemon",
+      "neighborhood": "SoHo",
+      "website": "https://greenlemon.com/",
+      "instagramHandle": "@greenlemontpa",
+      "pages": [
+        {
+          "url": "https://greenlemon.com/",
+          "status": 200,
+          "title": "",
+          "metaDescription": "",
+          "relevantSnippets": []
+        }
+      ],
+      "extractedCandidates": [],
+      "errors": []
+    },
+    {
+      "id": "malios",
+      "name": "Malio's",
+      "neighborhood": "Downtown Tampa",
+      "website": "https://maliosprime.com/",
+      "instagramHandle": "@maliosprime",
+      "pages": [
+        {
+          "url": "https://maliosprime.com/",
+          "status": 200,
+          "title": "Malio&apos;s Prime Steakhouse - Downtown Tampa, Tampa, FL",
+          "metaDescription": "",
+          "relevantSnippets": []
+        },
+        {
+          "url": "https://maliosprime.com/tampa-downtown-tampa-malio-s-prime-steakhouse-food-menu",
+          "status": 200,
+          "title": "Malio&apos;s Prime Steakhouse - Food Menu",
+          "metaDescription": "",
+          "relevantSnippets": []
+        },
+        {
+          "url": "https://maliosprime.com/tampa-downtown-tampa-malio-s-prime-steakhouse-drink-menu",
+          "status": 200,
+          "title": "Malio&apos;s Prime Steakhouse - Drink Menu",
+          "metaDescription": "",
+          "relevantSnippets": []
+        }
+      ],
+      "extractedCandidates": [],
+      "errors": []
+    },
+    {
+      "id": "yard-house",
+      "name": "Yard House",
+      "neighborhood": "Downtown Tampa",
+      "website": "https://www.yardhouse.com/",
+      "instagramHandle": "@yardhouse",
+      "pages": [
+        {
+          "url": "https://www.yardhouse.com/locations/fl/tampa/tampa/8364",
+          "status": 200,
+          "title": "",
+          "metaDescription": "",
+          "relevantSnippets": []
+        }
+      ],
+      "extractedCandidates": [],
+      "errors": []
+    },
+    {
+      "id": "district-tavern",
+      "name": "District Tavern",
+      "neighborhood": "Channelside",
+      "website": "https://www.districttaverntampa.com/",
+      "instagramHandle": "@districttavern",
+      "pages": [
+        {
+          "url": "https://www.districttaverntampa.com/",
+          "status": 200,
+          "title": "District Tavern | Restaurant | Bar | Channel District | Tampa, FL",
+          "metaDescription": "District Tavern is your classic neighborhood bar, but with an upscale twist. Located in the heart of the Channel District of Downtown Tampa, often referred to as Channelside – just minutes away from Ybor and SOHO. We bring together new American cuisine, craft cocktails, craft beer and top-quality wines.",
+          "relevantSnippets": [
+            {
+              "snippet": "Brunch Sat & Sun 11:00AM-2:00PM",
+              "score": 6,
+              "matchedKeywords": [
+                "brunch"
+              ]
+            },
+            {
+              "snippet": "TRIVIA NIGHT, STARTING AT 7PM",
+              "score": 4,
+              "matchedKeywords": [
+                "trivia"
+              ]
+            },
+            {
+              "snippet": "BRUNCH SERVED 11:00AM - 2:00PM",
+              "score": 4,
+              "matchedKeywords": [
+                "brunch"
+              ]
+            },
+            {
+              "snippet": "Open Sun-Thur 11:00AM-2:00AM, Fri & Sat 3:00AM",
+              "score": 4,
+              "matchedKeywords": []
+            }
+          ]
+        },
+        {
+          "url": "https://www.districttaverntampa.com/menu",
+          "status": 200,
+          "title": "District Tavern | Menu | Lunch | Brunch | Dinner | Cocktails | Tampa, FL",
+          "metaDescription": "Tampa, FL Restaurant, Food &amp; Drink Menu, Brunch, Lunch, Dinner. Also availble for take out or Uber Eats.",
+          "relevantSnippets": [
+            {
+              "snippet": "Brunch Sat & Sun 11:00AM-2:00PM",
+              "score": 6,
+              "matchedKeywords": [
+                "brunch"
+              ]
+            },
+            {
+              "snippet": "Open Sun-Thur 11:00AM-2:00AM, Fri & Sat 3:00AM",
+              "score": 4,
+              "matchedKeywords": []
+            }
+          ]
+        }
+      ],
+      "extractedCandidates": [
+        {
+          "sourceUrl": "https://www.districttaverntampa.com/",
+          "title": "District Tavern | Restaurant | Bar | Channel District | Tampa, FL",
+          "snippet": "Brunch Sat & Sun 11:00AM-2:00PM",
+          "score": 6,
+          "matchedKeywords": [
+            "brunch"
+          ]
+        },
+        {
+          "sourceUrl": "https://www.districttaverntampa.com/menu",
+          "title": "District Tavern | Menu | Lunch | Brunch | Dinner | Cocktails | Tampa, FL",
+          "snippet": "Brunch Sat & Sun 11:00AM-2:00PM",
+          "score": 6,
+          "matchedKeywords": [
+            "brunch"
+          ]
+        },
+        {
+          "sourceUrl": "https://www.districttaverntampa.com/",
+          "title": "District Tavern | Restaurant | Bar | Channel District | Tampa, FL",
+          "snippet": "TRIVIA NIGHT, STARTING AT 7PM",
+          "score": 4,
+          "matchedKeywords": [
+            "trivia"
+          ]
+        },
+        {
+          "sourceUrl": "https://www.districttaverntampa.com/",
+          "title": "District Tavern | Restaurant | Bar | Channel District | Tampa, FL",
+          "snippet": "BRUNCH SERVED 11:00AM - 2:00PM",
+          "score": 4,
+          "matchedKeywords": [
+            "brunch"
+          ]
+        },
+        {
+          "sourceUrl": "https://www.districttaverntampa.com/",
+          "title": "District Tavern | Restaurant | Bar | Channel District | Tampa, FL",
+          "snippet": "Open Sun-Thur 11:00AM-2:00AM, Fri & Sat 3:00AM",
+          "score": 4,
+          "matchedKeywords": []
+        },
+        {
+          "sourceUrl": "https://www.districttaverntampa.com/menu",
+          "title": "District Tavern | Menu | Lunch | Brunch | Dinner | Cocktails | Tampa, FL",
+          "snippet": "Open Sun-Thur 11:00AM-2:00AM, Fri & Sat 3:00AM",
+          "score": 4,
+          "matchedKeywords": []
+        }
+      ],
+      "errors": []
+    }
+  ],
+  "summary": {
+    "venuesWithCandidates": 2,
+    "venuesWithErrors": 0,
+    "totalCandidateSnippets": 10
+  }
+}
