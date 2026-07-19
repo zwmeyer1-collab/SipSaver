@@ -1,5 +1,6 @@
 import { useEffect } from "react";
 import { Link, useNavigate } from "react-router-dom";
+import { useAuth } from "../context/AuthContext";
 import { getDisplayDeals, getMapVenues } from "../lib/tampaSelectors";
 import { usePWAInstall } from "../hooks/usePWAInstall";
 import logoMark from "../../logo.png";
@@ -11,16 +12,21 @@ export function WelcomePage() {
   const navigate = useNavigate();
   const { canInstall, installed, triggerInstall } = usePWAInstall();
 
-  // Returning users skip straight to the app
+  const { user, isLoading } = useAuth();
+
+  // Logged-in users skip welcome entirely; returning non-logged-in users go to login
   useEffect(() => {
-    if (localStorage.getItem(VISITED_KEY)) {
+    if (isLoading) return;
+    if (user) {
       navigate("/", { replace: true });
+    } else if (localStorage.getItem(VISITED_KEY)) {
+      navigate("/login", { replace: true });
     }
-  }, [navigate]);
+  }, [navigate, user, isLoading]);
 
   function handleGetStarted() {
     localStorage.setItem(VISITED_KEY, "1");
-    navigate("/");
+    navigate("/login");
   }
 
   // Pull a few live stats to show the app is real
@@ -161,7 +167,7 @@ export function WelcomePage() {
       {/* ── CTA ── */}
       <div className="welcome-cta-section">
         <button className="welcome-cta-btn" type="button" onClick={handleGetStarted}>
-          Explore Tampa deals →
+          Create free account →
         </button>
         <p className="welcome-cta-sub">
           Already have an account?{" "}

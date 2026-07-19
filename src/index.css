@@ -4299,6 +4299,13 @@ button {
   background: transparent;
 }
 
+.auth-profile-title {
+  font-size: 17px;
+  font-weight: 700;
+  color: var(--text);
+  margin: 0;
+}
+
 .auth-profile-back {
   font-size: 13px;
   color: var(--muted);

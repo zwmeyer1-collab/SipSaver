@@ -25,7 +25,7 @@ export function AppShell() {
       setShowOnboarding(true);
     }
   }, [user]);
-  const { state: rewardsState, level } = useRewards();
+  const { state: rewardsState } = useRewards();
   const streak = computeStreak(rewardsState.checkIns);
   useSupabaseData(); // fetches from DB, re-renders tree when live data arrives
   const liveDealsCount = getDisplayDeals().filter(d => d.countdownLabel.includes("left")).length;
@@ -73,10 +73,10 @@ export function AppShell() {
         <div className="topbar-actions">
           {user ? (
             <>
-              <div className="user-chip">
-                <span className="user-chip-label">Signed in</span>
+              <NavLink className="user-chip" to="/profile">
+                <span className="user-chip-label">Signed in as</span>
                 <strong>{user.name}</strong>
-              </div>
+              </NavLink>
               <button className="ghost-button" type="button" onClick={() => void handleSignOut()}>
                 Sign out
               </button>
@@ -118,16 +118,12 @@ export function AppShell() {
           <span className="mobile-bottom-icon">🍻</span>
           <span>Hoppy</span>
         </NavLink>
-        <NavLink className={({ isActive }) => `mobile-bottom-link ${isActive ? "mobile-bottom-link-active" : ""}`} to="/rewards">
+        <NavLink className={({ isActive }) => `mobile-bottom-link ${isActive ? "mobile-bottom-link-active" : ""}`} to="/profile">
           <span className="mobile-bottom-icon-wrap">
-            <span className="mobile-bottom-icon">{level.icon}</span>
+            <span className="mobile-bottom-icon">👤</span>
             {streak > 0 && <span className="nav-streak-badge">{streak}🔥</span>}
           </span>
-          {rewardsState.points > 0 ? (
-            <span className="nav-pts-label">{rewardsState.points >= 1000 ? `${(rewardsState.points / 1000).toFixed(1)}k` : rewardsState.points} pts</span>
-          ) : (
-            <span>Rewards</span>
-          )}
+          <span>{user?.name?.split(" ")[0] ?? "Profile"}</span>
         </NavLink>
       </nav>
     </div>
