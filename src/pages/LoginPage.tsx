@@ -107,7 +107,7 @@ function ForgotScreen({ sent, email, setEmail, onBack, onSend, isSubmitting, err
 
 export function LoginPage() {
   const navigate = useNavigate();
-  const { user, signIn, signUp, resetPassword, isLoading } = useAuth();
+  const { user, signIn, signUp, resetPassword, isLoading, isRecoverySession } = useAuth();
 
   const [tab, setTab]                   = useState<AuthTab>("signin");
   const [name, setName]                 = useState("");
@@ -122,6 +122,7 @@ export function LoginPage() {
   const [resetSent, setResetSent]       = useState(false);
   const [resetEmail, setResetEmail]     = useState("");
 
+  if (isRecoverySession) return <Navigate to="/reset-password" replace />;
   if (user) return <Navigate to="/profile" replace />;
   if (verified) return (
     <VerifyScreen

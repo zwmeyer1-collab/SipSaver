@@ -47,7 +47,24 @@ export function AuthProvider({ children }: { children: ReactNode }) {
           setIsLoading(false);
           return;
         }
-        const authUser = session?.user;
+
+        // If the initial "no session" fires but the URL looks like a recovery
+        // link (hash has access_token/type=recovery, or PKCE code param), hold
+        // isLoading=true and wait — PASSWORD_RECOVERY is about to fire.
+        if (!session) {
+          const hash  = window.location.hash;
+          const query = window.location.search;
+          const looksLikeRecovery =
+            hash.includes("type=recovery") ||
+            hash.includes("access_token") ||
+            query.includes("code=");
+          if (looksLikeRecovery) return; // stay loading
+          setUser(null);
+          setIsLoading(false);
+          return;
+        }
+
+        const authUser = session.user;
         if (!authUser?.email) {
           setUser(null);
           setIsLoading(false);
