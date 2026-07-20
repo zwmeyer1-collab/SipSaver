@@ -37,22 +37,11 @@ export function AuthProvider({ children }: { children: ReactNode }) {
 
   useEffect(() => {
     if (isSupabaseConfigured && supabase) {
-      void supabase.auth.getUser().then(({ data }) => {
-        const authUser = data.user;
-        if (authUser?.email) {
-          setUser({
-            id: authUser.id,
-            email: authUser.email,
-            name: (authUser.user_metadata?.name as string | undefined) || authUser.email.split("@")[0],
-          });
-        }
-        setIsLoading(false);
-      });
-
+      // Don't call getUser() separately — it races with onAuthStateChange and
+      // can set `user` from a recovery session before PASSWORD_RECOVERY fires.
+      // onAuthStateChange fires INITIAL_SESSION immediately on subscribe with
+      // any stored session, so it covers the initial-load case too.
       const { data: { subscription } } = supabase.auth.onAuthStateChange((event, session) => {
-        // PASSWORD_RECOVERY is handled entirely by ResetPasswordPage — don't
-        // set user here or the app will treat the recovery session as a normal
-        // login and redirect away before the user can set a new password.
         if (event === "PASSWORD_RECOVERY") {
           setIsRecoverySession(true);
           setIsLoading(false);
