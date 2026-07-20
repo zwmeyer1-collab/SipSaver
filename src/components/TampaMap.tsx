@@ -76,6 +76,32 @@ export function TampaMap({ venues, activeNeighborhood, selectedVenueId, venueAct
       });
 
       map.addControl(new mapboxgl.NavigationControl({ showCompass: false }), "top-right");
+
+      const geolocate = new mapboxgl.GeolocateControl({
+        positionOptions: { enableHighAccuracy: true },
+        trackUserLocation: false,
+        showUserHeading: false,
+      });
+      map.addControl(geolocate, "top-right");
+
+      // Fly to user's location on first load; stay on Tampa center if denied
+      map.once("load", () => {
+        if (navigator.geolocation) {
+          navigator.geolocation.getCurrentPosition(
+            (pos) => {
+              if (!cancelled) {
+                map.flyTo({
+                  center: [pos.coords.longitude, pos.coords.latitude],
+                  zoom: 13,
+                  duration: 1200,
+                });
+              }
+            },
+            () => {} // permission denied — keep Tampa center
+          );
+        }
+      });
+
       mapInstanceRef.current = map;
     })();
 

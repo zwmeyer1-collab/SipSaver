@@ -2236,6 +2236,8 @@ button {
     justify-content: space-between;
     width: 100%;
     padding: 10px 16px;
+    /* In PWA standalone mode, push below the notch/dynamic island */
+    padding-top: max(10px, calc(10px + env(safe-area-inset-top)));
     background: rgba(255, 251, 244, 0.94);
     backdrop-filter: blur(18px);
     -webkit-backdrop-filter: blur(18px);
@@ -2295,12 +2297,23 @@ button {
     display: grid;
     grid-template-columns: repeat(5, minmax(0, 1fr));
     align-items: center;
-    padding: 8px 4px calc(8px + env(safe-area-inset-bottom));
+    padding: 8px 4px 8px;
     border-radius: 26px;
     background: rgba(255, 255, 255, 0.97);
     box-shadow: 0 20px 40px rgba(19, 31, 77, 0.14), 0 1px 0 rgba(39,57,120,0.06) inset;
     backdrop-filter: blur(12px);
     -webkit-backdrop-filter: blur(12px);
+  }
+
+  /* PWA standalone: anchor to bottom edge, use safe area for home indicator */
+  @media (display-mode: standalone) {
+    .mobile-bottom-nav {
+      left: 0;
+      right: 0;
+      bottom: 0;
+      border-radius: 26px 26px 0 0;
+      padding-bottom: calc(10px + env(safe-area-inset-bottom));
+    }
   }
 
   .mobile-bottom-link {
