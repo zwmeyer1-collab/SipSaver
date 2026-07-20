@@ -21,6 +21,8 @@ type AuthContextValue = {
   signIn: (input: { email: string; password: string }) => Promise<void>;
   signUp: (input: { name: string; email: string; password: string }) => Promise<{ needsVerification: boolean }>;
   signOut: () => Promise<void>;
+  resetPassword: (email: string) => Promise<void>;
+  updatePassword: (password: string) => Promise<void>;
 };
 
 const STORAGE_KEY = "sipsaver-auth-user";
@@ -120,6 +122,20 @@ export function AuthProvider({ children }: { children: ReactNode }) {
         }
         setUser(null);
         window.localStorage.removeItem(STORAGE_KEY);
+      },
+
+      async resetPassword(email: string) {
+        if (!isSupabaseConfigured || !supabase) throw new Error("Supabase not configured.");
+        const { error } = await supabase.auth.resetPasswordForEmail(email, {
+          redirectTo: `${window.location.origin}/reset-password`,
+        });
+        if (error) throw error;
+      },
+
+      async updatePassword(password: string) {
+        if (!isSupabaseConfigured || !supabase) throw new Error("Supabase not configured.");
+        const { error } = await supabase.auth.updateUser({ password });
+        if (error) throw error;
       },
     }),
     [isLoading, user]

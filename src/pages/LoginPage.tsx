@@ -34,11 +34,80 @@ function VerifyScreen({ email, onBack }: { email: string; onBack: () => void }) 
   );
 }
 
+// ── Forgot password screen ────────────────────────────────────────────────────
+
+type ForgotScreenProps = {
+  sent: boolean;
+  email: string;
+  setEmail: (v: string) => void;
+  onBack: () => void;
+  onSend: () => void;
+  isSubmitting: boolean;
+  error: string;
+};
+
+function ForgotScreen({ sent, email, setEmail, onBack, onSend, isSubmitting, error }: ForgotScreenProps) {
+  return (
+    <main className="auth-page">
+      <div className="auth-hero-section">
+        <div className="auth-brand-lockup">
+          <img alt="SipSaver" className="auth-logo-mark" src={logoMark} />
+          <img alt="SipSaver" className="auth-logo-words" src={logoWords} />
+        </div>
+      </div>
+      <div className="auth-sheet">
+        {sent ? (
+          <div className="auth-verify-wrap">
+            <div className="auth-verify-icon">📬</div>
+            <h2 className="auth-verify-title">Check your email</h2>
+            <p className="auth-verify-sub">
+              We sent a password reset link to <strong>{email}</strong>.
+              Click it to choose a new password.
+            </p>
+            <button className="auth-submit-btn" type="button" onClick={onBack}>
+              Back to sign in
+            </button>
+          </div>
+        ) : (
+          <div className="auth-form-body">
+            <h2 className="auth-verify-title" style={{ marginBottom: 4 }}>Reset password</h2>
+            <p className="auth-verify-sub" style={{ marginBottom: 20 }}>
+              Enter your email and we&apos;ll send a reset link.
+            </p>
+            <div className="auth-field-group">
+              <label className="auth-field-label" htmlFor="forgot-email">Email</label>
+              <input
+                className="auth-field-input"
+                id="forgot-email"
+                type="email"
+                value={email}
+                onChange={(e) => setEmail(e.target.value)}
+                placeholder="you@example.com"
+                autoComplete="email"
+                disabled={isSubmitting}
+              />
+            </div>
+            {error && <p className="auth-error">{error}</p>}
+            <button className="auth-submit-btn" type="button" disabled={isSubmitting} onClick={onSend}>
+              {isSubmitting ? "Sending…" : "Send reset link"}
+            </button>
+            <p className="auth-switch-hint">
+              <button className="auth-switch-link" type="button" onClick={onBack}>
+                ← Back to sign in
+              </button>
+            </p>
+          </div>
+        )}
+      </div>
+    </main>
+  );
+}
+
 // ── Main auth form ────────────────────────────────────────────────────────────
 
 export function LoginPage() {
   const navigate = useNavigate();
-  const { user, signIn, signUp, isLoading } = useAuth();
+  const { user, signIn, signUp, resetPassword, isLoading } = useAuth();
 
   const [tab, setTab]                   = useState<AuthTab>("signin");
   const [name, setName]                 = useState("");
@@ -49,12 +118,39 @@ export function LoginPage() {
   const [error, setError]               = useState("");
   const [verified, setVerified]         = useState(false);
   const [isSubmitting, setIsSubmitting] = useState(false);
+  const [showForgot, setShowForgot]     = useState(false);
+  const [resetSent, setResetSent]       = useState(false);
+  const [resetEmail, setResetEmail]     = useState("");
 
   if (user) return <Navigate to="/profile" replace />;
   if (verified) return (
     <VerifyScreen
       email={email}
       onBack={() => { setVerified(false); setTab("signin"); setError(""); }}
+    />
+  );
+
+  if (showForgot) return (
+    <ForgotScreen
+      sent={resetSent}
+      email={resetEmail}
+      setEmail={setResetEmail}
+      onBack={() => { setShowForgot(false); setResetSent(false); setResetEmail(""); setError(""); }}
+      onSend={async () => {
+        if (!resetEmail.trim() || isSubmitting) return;
+        setIsSubmitting(true);
+        setError("");
+        try {
+          await resetPassword(resetEmail.trim());
+          setResetSent(true);
+        } catch (err) {
+          setError(err instanceof Error ? err.message : "Could not send reset email.");
+        } finally {
+          setIsSubmitting(false);
+        }
+      }}
+      isSubmitting={isSubmitting}
+      error={error}
     />
   );
 
@@ -185,6 +281,14 @@ export function LoginPage() {
                 </button>
               </div>
             </div>
+
+            <button
+              className="auth-forgot-link"
+              type="button"
+              onClick={() => { setShowForgot(true); setResetEmail(email); setError(""); }}
+            >
+              Forgot password?
+            </button>
 
             {error && <p className="auth-error">{error}</p>}
 

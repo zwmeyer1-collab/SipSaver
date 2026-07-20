@@ -7,6 +7,7 @@ import { DiscoverPage } from "./pages/DiscoverPage";
 import { HoppyHourPage } from "./pages/HoppyHourPage";
 import { LoginPage } from "./pages/LoginPage";
 import { OperatorsPage } from "./pages/OperatorsPage";
+import { ResetPasswordPage } from "./pages/ResetPasswordPage";
 import { ProfilePage } from "./pages/ProfilePage";
 import { RewardsPage } from "./pages/RewardsPage";
 import { SavedPage } from "./pages/SavedPage";
@@ -20,6 +21,7 @@ function App() {
       {/* Public standalone pages — no app chrome */}
       <Route path="/welcome" element={<WelcomePage />} />
       <Route path="/login" element={<LoginPage />} />
+      <Route path="/reset-password" element={<ResetPasswordPage />} />
       <Route path="/operators" element={<OperatorsPage />} />
 
       {/* App shell — requires login */}
