@@ -1,34 +1,21 @@
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import { useAuth } from "../context/AuthContext";
-import { supabase, isSupabaseConfigured } from "../lib/supabase";
 import logoMark from "../../logo.png";
 import logoWords from "../../logowords.png";
 
 export function ResetPasswordPage() {
   const navigate = useNavigate();
-  const { updatePassword } = useAuth();
+  // isRecoverySession is set by AuthContext when PASSWORD_RECOVERY fires —
+  // reading it here is reactive, so no race condition with a local listener.
+  const { isRecoverySession, updatePassword } = useAuth();
 
-  const [ready, setReady]           = useState(false);
-  const [password, setPassword]     = useState("");
-  const [confirmPw, setConfirmPw]   = useState("");
-  const [showPw, setShowPw]         = useState(false);
-  const [error, setError]           = useState("");
-  const [saving, setSaving]         = useState(false);
-  const [done, setDone]             = useState(false);
-
-  // Supabase fires PASSWORD_RECOVERY when the magic link is opened
-  useEffect(() => {
-    if (!isSupabaseConfigured || !supabase) return;
-
-    const { data: { subscription } } = supabase.auth.onAuthStateChange((event) => {
-      if (event === "PASSWORD_RECOVERY") {
-        setReady(true);
-      }
-    });
-
-    return () => { subscription.unsubscribe(); };
-  }, []);
+  const [password, setPassword]   = useState("");
+  const [confirmPw, setConfirmPw] = useState("");
+  const [showPw, setShowPw]       = useState(false);
+  const [error, setError]         = useState("");
+  const [saving, setSaving]       = useState(false);
+  const [done, setDone]           = useState(false);
 
   async function handleSave(e: React.FormEvent) {
     e.preventDefault();
@@ -63,7 +50,7 @@ export function ResetPasswordPage() {
             <h2 className="auth-verify-title">Password updated</h2>
             <p className="auth-verify-sub">Taking you back to the app…</p>
           </div>
-        ) : !ready ? (
+        ) : !isRecoverySession ? (
           <div className="auth-verify-wrap">
             <div className="auth-verify-icon">🔑</div>
             <h2 className="auth-verify-title">Verifying link…</h2>

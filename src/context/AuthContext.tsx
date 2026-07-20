@@ -18,6 +18,7 @@ type AuthContextValue = {
   user: AuthUser | null;
   isSupabaseConfigured: boolean;
   isLoading: boolean;
+  isRecoverySession: boolean;
   signIn: (input: { email: string; password: string }) => Promise<void>;
   signUp: (input: { name: string; email: string; password: string }) => Promise<{ needsVerification: boolean }>;
   signOut: () => Promise<void>;
@@ -32,6 +33,7 @@ const AuthContext = createContext<AuthContextValue | undefined>(undefined);
 export function AuthProvider({ children }: { children: ReactNode }) {
   const [user, setUser] = useState<AuthUser | null>(null);
   const [isLoading, setIsLoading] = useState(true);
+  const [isRecoverySession, setIsRecoverySession] = useState(false);
 
   useEffect(() => {
     if (isSupabaseConfigured && supabase) {
@@ -52,6 +54,7 @@ export function AuthProvider({ children }: { children: ReactNode }) {
         // set user here or the app will treat the recovery session as a normal
         // login and redirect away before the user can set a new password.
         if (event === "PASSWORD_RECOVERY") {
+          setIsRecoverySession(true);
           setIsLoading(false);
           return;
         }
@@ -91,6 +94,7 @@ export function AuthProvider({ children }: { children: ReactNode }) {
       user,
       isSupabaseConfigured,
       isLoading,
+      isRecoverySession,
 
       async signIn({ email, password }) {
         if (isSupabaseConfigured && supabase) {
@@ -143,9 +147,10 @@ export function AuthProvider({ children }: { children: ReactNode }) {
         if (!isSupabaseConfigured || !supabase) throw new Error("Supabase not configured.");
         const { error } = await supabase.auth.updateUser({ password });
         if (error) throw error;
+        setIsRecoverySession(false);
       },
     }),
-    [isLoading, user]
+    [isLoading, isRecoverySession, user]
   );
 
   return <AuthContext.Provider value={value}>{children}</AuthContext.Provider>;
