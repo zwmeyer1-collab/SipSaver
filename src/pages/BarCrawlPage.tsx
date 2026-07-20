@@ -36,7 +36,7 @@ function estimateCost(crawl: BarCrawl): string {
   const total = prices.reduce((a, b) => a + b, 0);
   const lo = total.toFixed(0);
   const hi = (total * 1.5).toFixed(0);
-  return `~$${lo}–$${hi} per person`;
+  return `~$${lo}–$${hi}`;
 }
 
 function crawlToPlan(crawl: BarCrawl): NightPlan {
@@ -176,7 +176,7 @@ export function BarCrawlPage() {
                   {estimateCost(crawl) && (
                     <div className="crawl-stat">
                       <strong>{estimateCost(crawl)}</strong>
-                      <span>est. cost</span>
+                      <span>est. per person</span>
                     </div>
                   )}
                 </div>
