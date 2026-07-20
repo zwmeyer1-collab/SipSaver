@@ -27,11 +27,6 @@ export function ResetPasswordPage() {
       }
     });
 
-    // Also check if there's already an active recovery session
-    void supabase.auth.getSession().then(({ data }) => {
-      if (data.session) setReady(true);
-    });
-
     return () => { subscription.unsubscribe(); };
   }, []);
 

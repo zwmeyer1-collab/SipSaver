@@ -47,7 +47,14 @@ export function AuthProvider({ children }: { children: ReactNode }) {
         setIsLoading(false);
       });
 
-      const { data: { subscription } } = supabase.auth.onAuthStateChange((_event, session) => {
+      const { data: { subscription } } = supabase.auth.onAuthStateChange((event, session) => {
+        // PASSWORD_RECOVERY is handled entirely by ResetPasswordPage — don't
+        // set user here or the app will treat the recovery session as a normal
+        // login and redirect away before the user can set a new password.
+        if (event === "PASSWORD_RECOVERY") {
+          setIsLoading(false);
+          return;
+        }
         const authUser = session?.user;
         if (!authUser?.email) {
           setUser(null);
