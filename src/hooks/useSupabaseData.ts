@@ -10,6 +10,12 @@
 import { useEffect, useState } from "react";
 import { supabase, isSupabaseConfigured } from "../lib/supabase";
 import { setLiveData } from "../lib/dataStore";
+import {
+  venues as staticVenues,
+  deals as staticDeals,
+  sources as staticSources,
+  events as staticEvents,
+} from "../data/tampa";
 import type { Deal, EventCard, SourceRecord, Venue } from "../data/types";
 import type { DealRow, EventRow, SourceRow, VenueRow } from "../lib/database.types";
 
@@ -96,10 +102,21 @@ export function useSupabaseData() {
           return;
         }
 
-        const venues  = (venuesRes.data  ?? []).map(toVenue);
-        const deals   = (dealsRes.data   ?? []).map(toDeal);
-        const sources = (sourcesRes.data ?? []).map(toSource);
-        const events  = (eventsRes.data  ?? []).map(toEvent);
+        const dbVenues  = (venuesRes.data  ?? []).map(toVenue);
+        const dbDeals   = (dealsRes.data   ?? []).map(toDeal);
+        const dbSources = (sourcesRes.data ?? []).map(toSource);
+        const dbEvents  = (eventsRes.data  ?? []).map(toEvent);
+
+        // Merge: Supabase rows win on ID conflicts; static-only rows are kept.
+        const dbVenueIds  = new Set(dbVenues.map((v) => v.id));
+        const dbDealIds   = new Set(dbDeals.map((d) => d.id));
+        const dbSourceIds = new Set(dbSources.map((s) => s.id));
+        const dbEventIds  = new Set(dbEvents.map((e) => e.id));
+
+        const venues  = [...dbVenues,  ...staticVenues.filter((v) => !dbVenueIds.has(v.id))];
+        const deals   = [...dbDeals,   ...staticDeals.filter((d) => !dbDealIds.has(d.id))];
+        const sources = [...dbSources, ...staticSources.filter((s) => !dbSourceIds.has(s.id))];
+        const events  = [...dbEvents,  ...staticEvents.filter((e) => !dbEventIds.has(e.id))];
 
         setLiveData(venues, deals, sources, events);
         setFromSupabase(true);
