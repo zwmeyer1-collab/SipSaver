@@ -2080,6 +2080,18 @@ export const deals: Deal[] = [
     lastVerified: "2026-07-23",
   },
   {
+    id: "deal-cornerbar-saturday",
+    venueId: "corner-bar-soho",
+    tag: "Saturday specials",
+    day: "Saturday",
+    time: "3 PM - 11 PM",
+    description: "$4 Coors Light, $5 Lemon Drops & Astral Tequila, $6 Bloody Marys, Ketel One & Ketel Orange. Open until 3 AM on Saturdays.",
+    category: "Drinks",
+    sourceId: "src-cornerbar-web",
+    reviewStatus: "verified",
+    lastVerified: "2026-07-23",
+  },
+  {
     id: "deal-cornerbar-sunday",
     venueId: "corner-bar-soho",
     tag: "Sunday specials",
