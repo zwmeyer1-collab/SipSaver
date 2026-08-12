@@ -43,14 +43,19 @@ export function generateCrawl(
   neighborhood: string,
   stopCount: number
 ): BarCrawl {
-  // One best deal per venue, filtered by neighborhood
+  // One best deal per venue, filtered by neighborhood.
+  // Deduplicate by venueId first, then by normalized venue name to catch
+  // cases where a live-imported deal and a static deal share the same
+  // physical venue but have different venueIds.
   const venueMap = new Map<string, DisplayDeal>();
+  const seenNames = new Set<string>();
   for (const deal of deals) {
     const neighborhoodMatch = neighborhood === "All Tampa" || deal.venue.neighborhood === neighborhood;
     if (!neighborhoodMatch) continue;
-    if (!venueMap.has(deal.venueId)) {
-      venueMap.set(deal.venueId, deal);
-    }
+    const normName = deal.venue.name.toLowerCase().trim();
+    if (venueMap.has(deal.venueId) || seenNames.has(normName)) continue;
+    venueMap.set(deal.venueId, deal);
+    seenNames.add(normName);
   }
 
   let candidates = Array.from(venueMap.values()).filter(
