@@ -8080,34 +8080,174 @@ button {
 .adm-stat-card {
   background: #fff;
   border-radius: 14px;
-  padding: 14px;
+  padding: 14px 14px 14px 16px;
   display: flex;
   align-items: center;
   gap: 12px;
   box-shadow: 0 1px 4px rgba(0,0,0,0.06);
+  border-left: 3px solid transparent;
 }
 
-.adm-stat-icon { font-size: 22px; flex-shrink: 0; }
+.adm-stat-accent-purple  { border-left-color: #7c6dfa; }
+.adm-stat-accent-amber   { border-left-color: #f59e0b; }
+.adm-stat-accent-teal    { border-left-color: #14b8a6; }
+.adm-stat-accent-coral   { border-left-color: #f97316; }
+.adm-stat-accent-rose    { border-left-color: #f43f5e; }
+.adm-stat-accent-slate   { border-left-color: #94a3b8; }
+
+.adm-stat-icon { font-size: 20px; flex-shrink: 0; }
 
 .adm-stat-value {
-  font-size: 20px;
+  font-size: 22px;
   font-weight: 900;
   color: var(--ink);
   margin: 0;
   line-height: 1;
+  font-variant-numeric: tabular-nums;
 }
 
 .adm-stat-label {
   font-size: 12px;
   font-weight: 700;
   color: var(--ink);
-  margin: 2px 0 0;
+  margin: 3px 0 0;
 }
 
 .adm-stat-sub {
   font-size: 11px;
   color: var(--muted);
   margin: 1px 0 0;
+}
+
+/* Deal health */
+.adm-health-card {
+  background: #fff;
+  border-radius: 14px;
+  padding: 16px;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.06);
+}
+
+.adm-health-bar {
+  display: flex;
+  height: 10px;
+  border-radius: 6px;
+  overflow: hidden;
+  gap: 2px;
+  margin-bottom: 12px;
+}
+
+.adm-health-seg { border-radius: 3px; }
+.adm-health-seg.adm-health-verified    { background: #34d399; }
+.adm-health-seg.adm-health-seeded      { background: #f59e0b; }
+.adm-health-seg.adm-health-needs-review { background: #f87171; }
+
+.adm-health-legend {
+  display: grid;
+  grid-template-columns: auto 1fr auto;
+  align-items: center;
+  gap: 4px 8px;
+}
+
+.adm-health-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+.adm-health-dot.adm-health-verified    { background: #34d399; }
+.adm-health-dot.adm-health-seeded      { background: #f59e0b; }
+.adm-health-dot.adm-health-needs-review { background: #f87171; }
+
+.adm-health-legend-label {
+  font-size: 12px;
+  color: var(--muted);
+  font-weight: 600;
+}
+
+.adm-health-legend-num {
+  font-size: 12px;
+  font-weight: 800;
+  color: var(--ink);
+  font-variant-numeric: tabular-nums;
+  text-align: right;
+}
+
+.adm-health-warning {
+  font-size: 12px;
+  font-weight: 600;
+  color: #b45309;
+  background: #fef3c7;
+  border-radius: 8px;
+  padding: 6px 10px;
+  margin: 12px 0 0;
+}
+
+/* Neighborhood breakdown */
+.adm-nb-card {
+  background: #fff;
+  border-radius: 14px;
+  overflow: hidden;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.06);
+}
+
+.adm-nb-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 10px 14px;
+  border-bottom: 1px solid var(--line);
+}
+.adm-nb-row:last-child { border-bottom: none; }
+
+.adm-nb-rank {
+  font-size: 11px;
+  font-weight: 700;
+  color: var(--muted);
+  width: 16px;
+  text-align: center;
+  flex-shrink: 0;
+  font-variant-numeric: tabular-nums;
+}
+
+.adm-nb-body { flex: 1; min-width: 0; }
+
+.adm-nb-name-row {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  margin-bottom: 4px;
+}
+
+.adm-nb-name {
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--ink);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.adm-nb-count {
+  font-size: 12px;
+  font-weight: 800;
+  color: var(--muted);
+  flex-shrink: 0;
+  font-variant-numeric: tabular-nums;
+  margin-left: 8px;
+}
+
+.adm-nb-track {
+  height: 4px;
+  background: var(--line);
+  border-radius: 2px;
+  overflow: hidden;
+}
+
+.adm-nb-fill {
+  height: 100%;
+  background: linear-gradient(90deg, #7c6dfa, #a78bfa);
+  border-radius: 2px;
+  transition: width 0.6s ease;
 }
 
 /* Filter row */
